@@ -604,7 +604,7 @@ export default function DongNaiSmartMap() {
           {/* Ảnh nền che full màn (đổi URL cho phù hợp project của bạn) */}
           <div
             className="absolute inset-0 bg-cover bg-center"
-            style={{ backgroundImage: "url('/src/assets/loading_img.jpg')" }}
+            style={{ backgroundImage: "url('/public/loading_img.jpg')" }}
           />
 
           {/* Lớp phủ tối nhẹ để chữ nổi bật */}
