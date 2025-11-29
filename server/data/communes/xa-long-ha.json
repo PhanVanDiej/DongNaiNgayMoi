@@ -1,0 +1,48 @@
+{
+  "id": "xa-long-ha",
+  "name": "Xã Long Hà",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 27614,
+  "area_km2": 167.8,
+  "admin_center": "Thôn 8, xã Long Hà, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lê Anh Nam",
+    "chairman": "Phạm Hồng Công"
+  },
+  "nature": [],
+  "arteries": [
+    "ĐT.757",
+    "ĐT.757B"
+  ],
+  "key_projects": [
+    "Chăn nuôi heo tập trung với các tập đoàn Japfa Comfeed, Newhope",
+    "Phát triển kinh tế trang trại, hợp tác xã cây trồng, vật nuôi"
+  ],
+  "industry_residential": [
+    "KCN Long Hà",
+    "KCN Long Tân"
+  ],
+  "adjacent": [
+    "Tân Hưng",
+    "Thuận Lợi",
+    "Phú Riềng",
+    "Bình Tân"
+  ],
+  "highlights": [
+    "Thành đất hình tròn Long Hà 1"
+  ],
+  "specialties": [
+    "Cơm lam",
+    "Canh thục"
+  ],
+  "products": [
+    "Bưởi da xanh",
+    "Sầu riêng tươi Long Hà"
+  ],
+  "coverImage": "/images/communes/xa-long-ha/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Long Hà và Long Tân",
+  "updatedAt": ""
+}

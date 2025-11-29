@@ -1,0 +1,51 @@
+{
+  "id": "phuong-ho-nai",
+  "name": "Phường Hố Nai",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 78902,
+  "area_km2": 22.85,
+  "admin_center": "Số 386, Quốc lộ 1A, phường Hố Nai, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Quốc Vũ",
+    "chairman": "Cao Duy Thái"
+  },
+  "nature": [
+    "Phường có sự kết hợp hài hòa giữa phát triển kinh tế – xã hội và phát triển đô thị"
+  ],
+  "arteries": [
+    "Quốc lộ 1A",
+    "Tuyến đường sắt Bắc – Nam"
+  ],
+  "key_projects": [
+    "1 phần KCN Sông Mây",
+    "1 phần Khu công nghiệp Hố Nai",
+    "Cụm công nghiệp Việt Hòa",
+    "Khu dân cư xã Hố Nai 3"
+  ],
+  "industry_residential": [
+    "Sản xuất – thương mại – dịch vụ"
+  ],
+  "adjacent": [
+    "Trảng Dài",
+    "Bình Minh",
+    "Phước Tân",
+    "Long Bình"
+  ],
+  "highlights": [
+    "Làng nghề mộc Tân Hòa",
+    "Nhà thờ Giáo xứ Ngũ Phúc",
+    "Vườn hồng Thiên Tâm Đồng Nai",
+    "Ga Hố Nai"
+  ],
+  "specialties": [
+    "Lẩu phèo A Bờm",
+    "Bánh đa cua Hố Nai 3"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/phuong-ho-nai/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: phường Tân Hòa (Biên Hòa cũ) và xã Hố Nai 3 (Trảng Bom cũ)",
+  "updatedAt": ""
+}

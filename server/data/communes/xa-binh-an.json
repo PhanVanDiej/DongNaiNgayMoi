@@ -1,0 +1,56 @@
+{
+  "id": "xa-binh-an",
+  "name": "Xã Bình An",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 25506,
+  "area_km2": 59.41,
+  "admin_center": "Khu tái định cư Bình An, xã Bình An, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Huỳnh Phước Sang",
+    "chairman": "Trương Quốc Phong"
+  },
+  "nature": [],
+  "arteries": [
+    "Quốc lộ 51",
+    "ĐT.769",
+    "Cao tốc Biên Hòa - Vũng Tàu",
+    "Cao tốc TP.HCM - Long Thành - Dầu Giây"
+  ],
+  "key_projects": [
+    "Đại đô thị Giáo dục - Y tế - Khoa học và Công nghệ (quy mô 1.800 ha)",
+    "Trung tâm dịch vụ – khoa học công nghệ – giáo dục"
+  ],
+  "industry_residential": [
+    "CLN Long Đức 2",
+    "CLN Long Đức 3",
+    "Khu đô thị Long Đức",
+    "KCN Long Bình An",
+    "5 dự án khu dân cư – khu thương mại đa dạng"
+  ],
+  "adjacent": [
+    "Long Thành",
+    "Phước An",
+    "Viễn",
+    "Hưng Thịnh",
+    "Dầu Giây",
+    "Xuân Quế"
+  ],
+  "highlights": [
+    "Chùa Bạch Liên",
+    "Thác An Viên"
+  ],
+  "specialties": [
+    "Heo quay Long Đức",
+    "Gà nướng lu"
+  ],
+  "products": [
+    "Giò chả Thu Bình",
+    "Nước uống đóng chai (Công ty TNHH Bình An)"
+  ],
+  "coverImage": "/images/communes/xa-binh-an/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Bình An và Long Đức",
+  "updatedAt": ""
+}

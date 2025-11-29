@@ -1,0 +1,57 @@
+{
+  "id": "xa-xuan-dinh",
+  "name": "Xã Xuân Định",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 36870,
+  "area_km2": 52.29,
+  "admin_center": "Ấp Bảo Định, xã Xuân Định, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Tống Trần Hòa",
+    "chairman": "Lê Thị Hiệp"
+  },
+  "nature": [
+    "Lễ hội Sayangva (mừng lúa mới)",
+    "Hồ suối Vọng",
+    "Chùa Bảo Ân"
+  ],
+  "arteries": [
+    "Quốc lộ 1",
+    "Cao tốc Dầu Giây – Phan Thiết",
+    "ĐT.765B"
+  ],
+  "key_projects": [
+    "KDC Chiến Thắng",
+    "KDC nông thôn mới xã Xuân Định (quy hoạch)"
+  ],
+  "industry_residential": [
+    "Kết cấu hạ tầng đồng bộ",
+    "vùng cây ăn trái đặc sản",
+    "khu dân cư mới"
+  ],
+  "adjacent": [
+    "Xuân Phú",
+    "Xuân Bảo",
+    "Cẩm Mỹ",
+    "Hàng Gòn",
+    "Long Khánh"
+  ],
+  "highlights": [
+    "Hồ suối Vọng",
+    "Chùa Bảo Ân"
+  ],
+  "specialties": [
+    "Các món từ rau rừng",
+    "Cơm lam thịt nướng"
+  ],
+  "products": [
+    "Sầu riêng",
+    "Chôm chôm",
+    "Bơ"
+  ],
+  "coverImage": "/images/communes/xa-xuan-dinh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Xuân Bảo, Bảo Hòa và Xuân Định",
+  "updatedAt": ""
+}

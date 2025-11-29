@@ -1,0 +1,57 @@
+{
+  "id": "xa-tan-an",
+  "name": "Xã Tân An",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 39291,
+  "area_km2": 80.24,
+  "admin_center": "Đường ĐT.768, ấp 8, xã Tân An, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lê Đỗ Kim Chi",
+    "chairman": "Lê Anh Tuấn"
+  },
+  "nature": [
+    "Là xã có thế mạnh về nông nghiệp sạch, hữu cơ, ứng dụng công nghệ cao và điều kiện phát triển công nghiệp – thương mại – dịch vụ"
+  ],
+  "arteries": [
+    "ĐT.767",
+    "ĐT.768",
+    "ĐT.753",
+    "Sông Đồng Nai"
+  ],
+  "key_projects": [
+    "Cụm công nghiệp Tân An",
+    "Dự án Điện rác Vĩnh Tân"
+  ],
+  "industry_residential": [
+    "Rau an toàn",
+    "Khu công nghiệp Tân An"
+  ],
+  "adjacent": [
+    "Trị An",
+    "Trảng Dài",
+    "Hố Nai",
+    "Bình Minh",
+    "Trảng Bom",
+    "Bàu Hàm",
+    "TP.HCM"
+  ],
+  "highlights": [
+    "Đền thờ Đại tướng Võ Nguyên Giáp",
+    "Vườn bưởi ven sông Đồng Nai",
+    "Khu du lịch sinh thái Cao Minh"
+  ],
+  "specialties": [
+    "Đang cập nhật"
+  ],
+  "products": [
+    "Rau an toàn VietGAP",
+    "Nước ép bưởi",
+    "Ổi Vĩnh Tân"
+  ],
+  "coverImage": "/images/communes/xa-tan-an/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Vĩnh Tân và Tân An",
+  "updatedAt": ""
+}

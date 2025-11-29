@@ -1,0 +1,52 @@
+{
+  "id": "xa-bom-bo",
+  "name": "Xã Bom Bo",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 27064,
+  "area_km2": 245.9,
+  "admin_center": "Thôn 3, xã Bom Bo, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Tô Hoài Nam",
+    "chairman": "Đang cập nhật"
+  },
+  "nature": [
+    "Sản xuất nông nghiệp",
+    "Văn hóa dân tộc S'tiêng",
+    "Cảnh quan thiên nhiên hồ Thác Mơ"
+  ],
+  "arteries": [
+    "Tuyến ĐT.760"
+  ],
+  "key_projects": [
+    "Đang cập nhật"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Bù Đăng",
+    "Thọ Sơn",
+    "Đắk Nhau",
+    "Phú Nghĩa"
+  ],
+  "highlights": [
+    "Khu bảo tồn văn hóa dân tộc S’tiêng sóc Bom Bo",
+    "Lễ hội kết bạn cộng đồng",
+    "Lễ hội mừng lúa mới"
+  ],
+  "specialties": [
+    "Heo rừng gác bếp",
+    "Rượu cần",
+    "Cơm lam"
+  ],
+  "products": [
+    "Trang phục thổ cẩm S’tiêng",
+    "Bộ cồng chiêng S’tiêng"
+  ],
+  "coverImage": "/images/communes/xa-bom-bo/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Bom Bo và Bình Minh",
+  "updatedAt": ""
+}

@@ -1,0 +1,59 @@
+{
+  "id": "xa-dau-giay",
+  "name": "Xã Dầu Giây",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 71921,
+  "area_km2": 98.87,
+  "admin_center": "Khu trung tâm hành chính ấp Lập Thành, xã Dầu Giây, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Cao Tiến Sỹ",
+    "chairman": "Mai Văn Hiền"
+  },
+  "nature": [
+    "Đình Dầu Giây",
+    "Rừng cao su 100 tuổi"
+  ],
+  "arteries": [
+    "Quốc lộ 1A",
+    "Quốc lộ 2",
+    "Cao tốc TP.HCM – Long Thành – Dầu Giây",
+    "Quốc lộ 56",
+    "Quốc lộ 20",
+    "đường Hương Lộ 25"
+  ],
+  "key_projects": [
+    "Khu công nghiệp Dầu Giây",
+    "Cụm công nghiệp Hưng Lộc",
+    "Cụm công nghiệp Lộ 25"
+  ],
+  "industry_residential": [
+    "Cụm công nghiệp Dầu Giây",
+    "khu dân cư Lộ 25",
+    "khu dân cư Xuân Lộc"
+  ],
+  "adjacent": [
+    "Bảo Quyên",
+    "Hưng Lộc",
+    "Bình An",
+    "Xuân Quế",
+    "Xuân Lộc",
+    "Bình Lộc"
+  ],
+  "highlights": [
+    "Chợ đầu mối nông sản thực phẩm Dầu Giây",
+    "Thác 5 Lộ 25"
+  ],
+  "specialties": [
+    "Cháo gà ta Lộ 25",
+    "Bánh canh giò heo Bàu Hàm"
+  ],
+  "products": [
+    "Lẩu lá khổ qua rừng"
+  ],
+  "coverImage": "/images/communes/xa-dau-giay/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Thị trấn Dầu Giây, Bàu Hàm 2, Hưng Lộc, Lộ 25",
+  "updatedAt": ""
+}

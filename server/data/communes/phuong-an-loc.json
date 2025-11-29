@@ -1,0 +1,56 @@
+{
+  "id": "phuong-an-loc",
+  "name": "Phường An Lộc",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 35531,
+  "area_km2": 88.7,
+  "admin_center": "Đường Hai Bà Trưng, khu phố Phú Hòa, phường An Lộc, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Đỗ Minh Trung",
+    "chairman": "Trần Thanh Long"
+  },
+  "nature": [
+    "Đình thần Tân Lập Phú",
+    "Trường Quốc Quang"
+  ],
+  "arteries": [
+    "Quốc lộ 13",
+    "ĐT757",
+    "ĐT373"
+  ],
+  "key_projects": [
+    "Cụm công nghiệp Thanh Phú 1, 2",
+    "Đầu tư 2 dự án hạ tầng CCN"
+  ],
+  "industry_residential": [
+    "Cụm công nghiệp Thanh Phú",
+    "khu dân cư Thanh Phú"
+  ],
+  "adjacent": [
+    "Phường Bình Long",
+    "Tân Hưng",
+    "Tân Quan",
+    "Lộc Thạnh",
+    "Minh Đức",
+    "Lộc Hưng"
+  ],
+  "highlights": [
+    "Mô hình kinh tế trồng Sen đa lộc",
+    "Khu du lịch Nguyễn Anh Garden",
+    "Nhà thờ Giáo xứ Phú Lương"
+  ],
+  "specialties": [
+    "Chanh bông tím",
+    "Dưa lưới Thanh Phú"
+  ],
+  "products": [
+    "Bánh mì Đại Quang",
+    "Bánh kem sữa tươi Thanh Ngân"
+  ],
+  "coverImage": "/images/communes/phuong-an-loc/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phú Thịnh, Thanh Phú và Thanh Lương",
+  "updatedAt": ""
+}

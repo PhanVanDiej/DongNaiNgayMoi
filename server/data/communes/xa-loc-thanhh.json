@@ -1,0 +1,49 @@
+{
+  "id": "xa-loc-thanhh",
+  "name": "Xã Lộc Thành",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 15338,
+  "area_km2": 207,
+  "admin_center": "Ấp Kiều, xã Lộc Thành, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Ngọc Hiền",
+    "chairman": "Hồ Quang Khánh"
+  },
+  "nature": [
+    "Khu di tích Quốc gia đặc biệt Bộ Chỉ huy quân giải phóng miền Nam Việt Nam"
+  ],
+  "arteries": [
+    "Các tuyến QL13, ĐT.753"
+  ],
+  "key_projects": [
+    "Định hướng khu dân cư Kiều và Tà Te 1 (dự án)"
+  ],
+  "industry_residential": [
+    "Khu dân cư Kiều",
+    "Khu dân cư Tà Te 1"
+  ],
+  "adjacent": [
+    "Xã Lộc Hưng",
+    "An Lộc",
+    "Lộc Tấn",
+    "Lộc Ninh",
+    "Vương quốc Campuchia"
+  ],
+  "highlights": [
+    "Khu di tích Quốc gia đặc biệt Bộ Chỉ huy quân giải phóng miền Nam Việt Nam"
+  ],
+  "specialties": [
+    "Cơm lam, thịt nướng ống tre (S’tiêng)",
+    "Bún num bo chóc (Khmer)"
+  ],
+  "products": [
+    "Yến sào Thanh Thủy",
+    "Hoa nghệ thuật"
+  ],
+  "coverImage": "/images/communes/xa-loc-thanh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Lộc Thạnh và Lộc Thịnh",
+  "updatedAt": ""
+}

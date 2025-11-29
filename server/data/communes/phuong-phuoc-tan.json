@@ -1,0 +1,55 @@
+{
+  "id": "phuong-phuoc-tan",
+  "name": "Phường Phước Tân",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 64181,
+  "area_km2": 42823,
+  "admin_center": "Khu phố Vườn Dừa, phường Phước Tân, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Phong An",
+    "chairman": "Thiều Thị Minh Hường"
+  },
+  "nature": [
+    "Đình thần Phước Tân",
+    "Lễ hội cúng miễu Bà Ngũ Hành",
+    "Thiền viện Phước Sơn"
+  ],
+  "arteries": [
+    "Quốc lộ 51",
+    "Đường Võ Nguyên Giáp (quy hoạch)",
+    "Cao tốc Biên Hòa – Vũng Tàu"
+  ],
+  "key_projects": [
+    "Khu tái định cư phường Phước Tân (quy hoạch)",
+    "Các dự án giao thông cửa ngõ Đồng Nai"
+  ],
+  "industry_residential": [
+    "Khu quy hoạch đô thị Phước Tân",
+    "định hướng kết nối Biên Hòa – Vũng Tàu"
+  ],
+  "adjacent": [
+    "Long Hưng",
+    "Tam Phước",
+    "Long Bình",
+    "Bình Minh",
+    "Trảng Bom",
+    "Hồ Nai"
+  ],
+  "highlights": [
+    "Tượng phật dốc 47",
+    "Khu tắm bùn khoáng – thảo dược Thiên Tâm"
+  ],
+  "specialties": [
+    "Cơm tấm Tấn Tài",
+    "Lươn 37 Cháo – Sú – Miến"
+  ],
+  "products": [
+    "Thịt đá điêu nướng"
+  ],
+  "coverImage": "/images/communes/phuong-phuoc-tan/cover.jpg",
+  "gallery": [],
+  "note": "Không sáp nhập theo NQ1662/NQ-UBTVQH15",
+  "updatedAt": ""
+}

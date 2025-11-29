@@ -1,0 +1,4566 @@
+[
+    {
+        "id": "thac-dung",
+        "name": "Thác Đứng",
+        "aliases": [
+            "thac dung",
+            "thac dung bu dang"
+        ],
+        "type": "tourism",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.2153299690211,
+        "lat": 11.77703,
+        "description": "Thác Đứng là thác nước nằm trên địa bàn xã Bù Đăng, tỉnh Đồng Nai mới. Tên gọi Thác Đứng vốn xuất phát từ địa hình trắc trở của ngọn thác này. Khung cảnh của thác là hình ảnh các hòn đá cao chất chồng lên nhau theo phương thẳng đứng nên thác có tên gọi là Thác Đứng. ",
+        "images": []
+    },
+    {
+        "id": "kdl-buu-long",
+        "name": "Khu du lịch Bửu Long",
+        "aliases": [
+            "kdl buu long",
+            "buu long"
+        ],
+        "type": "tourism",
+        "commune": "Phường Bửu Long",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.854,
+        "lat": 10.944,
+        "description": "Khu du lịch Bửu Long là điểm tham quan nổi tiếng của thành phố Biên Hòa với hồ Long Ẩn và các dãy núi đá.",
+        "images": []
+    },
+    {
+        "id": "vuon-quoc-gia-bu-gia-map",
+        "name": "Vườn quốc gia Bù Gia Mập",
+        "aliases": [
+            "vuon quoc gia bu gia map",
+            "bu gia map national park"
+        ],
+        "type": "tourism",
+        "commune": "Xã Bù Gia Mập",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.15644851041384,
+        "lat": 12.087366943748792,
+        "description": "Vườn quốc gia Bù Gia Mập là khu rừng từng chứng kiến cuộc chiến tranh Việt Nam ác liệt, nay có các lối đi bộ dẫn đến thác nước, khu động vật hoang dã và nhiều tiện ích dã ngoại, phù hợp cho gia đình, trẻ em và cả người khuyết tật.",
+        "images": []
+    },
+    {
+        "id": "chua-quang-minh",
+        "name": "Chùa Quang Minh",
+        "aliases": [
+            "chua quang minh",
+            "quang minh pagoda"
+        ],
+        "type": "tourism",
+        "commune": "Phường Đồng Xoài",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.90468567972464,
+        "lat": 11.538050381166967,
+        "description": "Chùa Quang Minh là điểm sáng tâm linh của người dân Bình Phước, mang vẻ cổ kính với mái ngói đỏ và cổng tam quan tân cổ. Bên trong được bài trí uy nghiêm với điện thờ Bổn Sư Thích Ca Mâu Ni và Phật Bà nghìn mắt nghìn tay. Đại sảnh rộng rãi, thoáng mát, kiến trúc cửa chính – cửa sổ đan xen độc đáo. Chùa còn nổi bật với tháp Tứ Ân và đại hồng chung đặt trên đỉnh tháp, biểu tượng của sự bình an và ấm no.",
+        "images": []
+    },
+    {
+        "id": "nui-ba-ra",
+        "name": "Núi Bà Rá",
+        "aliases": [
+            "ba ra",
+            "nui ba ra",
+            "ba ra mountain"
+        ],
+        "type": "tourism",
+        "commune": "Phường Phước Long",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.00087038374406,
+        "lat": 11.8183755352298,
+        "description": "Núi Bà Rá là một trong ba ngọn núi cao nổi tiếng của khu vực miền Đông Nam Bộ. Khung cảnh thiên nhiên hùng vĩ, không khí mát mẻ, thích hợp cho trekking, chiêm bái và ngắm toàn cảnh vùng đất Bình Phước – Đồng Nai mới. Trên núi có chùa Hang, hệ thống đường bậc thang, tuyến cáp treo và nhiều điểm dừng chân để thưởng ngoạn thiên nhiên.",
+        "images": []
+    },
+    {
+        "id": "trang-co-bu-lach",
+        "name": "Trảng Cỏ Bù Lạch",
+        "aliases": [
+            "bu lach",
+            "bau lach",
+            "trang co bau lach",
+            "trang co",
+            "trang co bu lach",
+            "bu lach grassland"
+        ],
+        "type": "tourism",
+        "commune": "Xã Thọ Sơn",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.35405406529127,
+        "lat": 11.81609362750139,
+        "description": "Trảng Cỏ Bù Lạch là vùng thảo nguyên rộng lớn với thảm cỏ trải dài bát ngát, nằm giữa núi rừng nguyên sinh. Nơi đây nổi bật bởi cảnh quan hoang sơ, hồ nước tự nhiên trong xanh và không gian yên bình thích hợp cho cắm trại, picnic và chụp ảnh. Đây cũng là điểm đến lý tưởng để ngắm bình minh và hoàng hôn trên nền cỏ xanh mát.",
+        "images": []
+    },
+    {
+        "id": "chua-phat-quoc-van-thanh",
+        "name": "Chùa Phật Quốc Vạn Thành",
+        "aliases": [
+            "phat quoc van thanh",
+            "chua van thanh",
+            "chua phat quoc van thanh",
+            "chua quoc van thanh"
+        ],
+        "type": "tourism",
+        "commune": "Phường Bình Long",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.60108668405212,
+        "lat": 11.627641697240662,
+        "description": "Chùa Phật Quốc Vạn Thành gây ấn tượng với quần thể kiến trúc quy mô lớn, nổi bật bởi các pho tượng Phật khổng lồ, chánh điện uy nghi và lối trang trí mang phong cách Á Đông truyền thống. Không gian thanh tịnh kết hợp giữa hồ nước, tiểu cảnh và vườn cây giúp du khách dễ dàng tìm được sự an yên, thích hợp cho hành hương, thiền định và tham quan chiêm bái.",
+        "images": []
+    },
+    {
+        "id": "cong-vien-the-destina",
+        "name": "Công viên The Destina",
+        "aliases": [
+            "the destina",
+            "cong vien destina",
+            "destina park"
+        ],
+        "type": "tourism",
+        "commune": "Phường Bình Phước",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.8739341815689,
+        "lat": 11.498213232085641,
+        "description": "Công viên The Destina được thiết kế theo phong cách hiện đại, nổi bật với các mảng xanh rộng, đường dạo bộ thoáng đãng và khu vực vui chơi giải trí phù hợp cho mọi lứa tuổi. Không gian mở kết hợp với tiểu cảnh nước, khu check-in và khu tiện ích cộng đồng tạo nên một điểm đến thư giãn lý tưởng cho gia đình, bạn trẻ và các hoạt động sự kiện ngoài trời.",
+        "images": []
+    },
+    {
+        "id": "khu-can-cu-ta-thiet",
+        "name": "Di tích lịch sử Khu căn cứ Tà Thiết",
+        "aliases": [
+            "ta thiet",
+            "khu can cu ta thiet",
+            "di tich ta thiet",
+            "di tich lich su ta thiet"
+        ],
+        "type": "tourism",
+        "commune": "Xã Lộc Thành",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.47186827191477,
+        "lat": 11.74923101732954,
+        "description": "Khu căn cứ Tà Thiết là một trong những căn cứ quan trọng, gắn liền với nhiều chiến dịch lớn trong thời kỳ kháng chiến. Nơi đây hiện được bảo tồn như một quần thể di tích với nhà trưng bày, hệ thống hầm hào, khu tái hiện đời sống chiến khu và nhiều vật dụng, hiện vật lịch sử. Không gian rừng già bao quanh mang lại cảm giác trang nghiêm, tạo điều kiện cho du khách tìm hiểu lịch sử, tưởng niệm và tham quan.",
+        "images": []
+    },
+    {
+        "id": "di-tich-tau-o",
+        "name": "Di tích địa điểm chốt chặn Tàu Ô",
+        "aliases": [
+            "tau o",
+            "di tich tau o",
+            "diem chot chan tau o"
+        ],
+        "type": "tourism",
+        "commune": "Xã Tân Khai",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.61510108723517,
+        "lat": 11.519845594421556,
+        "description": "Di tích địa điểm chốt chặn Tàu Ô gắn liền với những trận đánh ác liệt trong giai đoạn chiến tranh, là nơi lực lượng cách mạng thực hiện nhiệm vụ chặn đứng các mũi tiến công của đối phương. Hiện nay khu di tích được bảo tồn với các bia tưởng niệm, không gian trưng bày và các dấu tích chiến hào, giúp du khách hiểu rõ hơn về tinh thần chiến đấu kiên cường và ý nghĩa lịch sử của địa điểm này.",
+        "images": []
+    },
+    {
+        "id": "ho-thac-mo",
+        "name": "Hồ thủy điện Thác Mơ",
+        "aliases": [
+            "thac mo",
+            "ho thac mo",
+            "thuy dien thac mo"
+        ],
+        "type": "tourism",
+        "commune": "Phường Phước Long, Xã Bom Bo",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.07065521782121,
+        "lat": 11.8218657415923,
+        "description": "Hồ thủy điện Thác Mơ gây ấn tượng bởi mặt hồ rộng lớn, dòng nước phẳng lặng và cảnh quan thiên nhiên hài hòa. Khu vực này là điểm đến được yêu thích cho các hoạt động thư giãn, ngắm cảnh và khám phá đời sống sinh thái xung quanh hồ.",
+        "images": []
+    },
+    {
+        "id": "kdl-chou-shin",
+        "name": "Khu du lịch Chou Shin",
+        "aliases": [
+            "chou shin",
+            "khu du lich chou shin"
+        ],
+        "type": "tourism",
+        "commune": "Xã Đồng Tâm",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.98482303138003,
+        "lat": 11.59583193644907,
+        "description": "Khu du lịch Chou Shin thu hút du khách bởi không gian thiên nhiên trong lành và các hoạt động giải trí ngoài trời đa dạng. Hệ thống cảnh quan được chăm chút hài hòa tạo nên điểm dừng chân lý tưởng cho những ai muốn nghỉ ngơi, tận hưởng sự thư thái hoặc vui chơi cùng gia đình và bạn bè.",
+        "images": []
+    },
+    {
+        "id": "thac-dak-mai",
+        "name": "Thác Đắk Mai",
+        "aliases": [
+            "thac dak mai",
+            "thac dakmay",
+            "dak mai waterfall"
+        ],
+        "type": "tourism",
+        "commune": "Xã Bù Gia Mập",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.18419259507355,
+        "lat": 12.062703570639755,
+        "description": "Thác Đắk Mai gây ấn tượng bởi dòng nước đổ mạnh mẽ giữa núi rừng xanh mướt, tạo nên khung cảnh hoang sơ và đầy sức sống. Nơi đây thích hợp cho những ai yêu thiên nhiên, thích khám phá và trải nghiệm không gian tĩnh lặng, hòa mình vào tiếng suối chảy và khung cảnh mát lành.",
+        "images": []
+    },
+    {
+        "id": "ho-suoi-giai",
+        "name": "Hồ Suối Giai",
+        "aliases": [
+            "ho suoi giai",
+            "suoi giai lake"
+        ],
+        "type": "tourism",
+        "commune": "Xã Đồng Phú",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.81929441714632,
+        "lat": 11.403782232167854,
+        "description": "Hồ Suối Giai mang vẻ đẹp mộc mạc với mặt nước yên bình trải dài giữa những tán rừng xanh mướt. Không gian thoáng đãng và không khí trong lành tạo cảm giác thư thái, thích hợp cho các hoạt động nghỉ ngơi, câu cá hoặc tản bộ gần mặt hồ.",
+        "images": []
+    },
+    {
+        "id": "soc-bom-bo",
+        "name": "Sóc Bom Bo",
+        "aliases": [
+            "soc bom bo",
+            "soc bombo"
+        ],
+        "type": "tourism",
+        "commune": "Xã Bom Bo",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.18993076820566,
+        "lat": 11.837491568321997,
+        "description": "Sóc Bom Bo gắn liền với hình ảnh đồng bào S’tiêng cùng tiếng chày giã gạo vang vọng, gợi nhớ tinh thần đoàn kết và ý chí mạnh mẽ. Không gian nơi đây mang nét văn hóa truyền thống đặc sắc, cùng nhiều hoạt động tái hiện đời sống sinh hoạt của đồng bào, tạo nên trải nghiệm độc đáo cho du khách.",
+        "images": []
+    },
+    {
+        "id": "bao-tang-soc-bom-bo",
+        "name": "Bảo tàng Sóc Bom Bo",
+        "aliases": [
+            "bao tang soc bom bo",
+            "nha bao tang soc bom bo"
+        ],
+        "type": "museum",
+        "commune": "Xã Bom Bo",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.19436883109,
+        "lat": 11.840528415203362,
+        "description": "Bảo tàng Sóc Bom Bo lưu giữ nhiều hiện vật, tư liệu và hình ảnh tái hiện đời sống văn hóa, truyền thống lao động và tinh thần đấu tranh kiên cường của đồng bào S’tiêng. Không gian trưng bày được thiết kế gần gũi, giúp du khách dễ dàng cảm nhận giá trị lịch sử và văn hóa đặc sắc của cộng đồng nơi đây.",
+        "images": []
+    },
+    {
+        "id": "khu-bao-ton-van-hoa-stieng",
+        "name": "Khu bảo tồn văn hóa dân tộc S’tiêng",
+        "aliases": [
+            "khu bao ton van hoa s'tieng",
+            "khu bao ton van hoa stieng",
+            "khu bao ton van hoa dan toc s'tieng",
+            "khu bao ton van hoa dan toc stieng",
+            "van hoa stieng",
+            "van hoa s'tieng"
+        ],
+        "type": "culture",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.19544610443026,
+        "lat": 11.83840485346152,
+        "description": "Khu bảo tồn văn hóa dân tộc S’tiêng tái hiện đời sống truyền thống của người S’tiêng thông qua nhà dài, khu sinh hoạt cộng đồng, các hoạt động lễ hội và nghề thủ công đặc trưng. Không gian mang đậm dấu ấn văn hóa bản địa, giúp du khách cảm nhận rõ nét phong tục, tập quán và tinh thần gắn kết cộng đồng của đồng bào S’tiêng.",
+        "images": []
+    },
+    {
+        "id": "khu-vui-choi-bo-cap-vang",
+        "name": "Khu vui chơi Bò Cạp Vàng",
+        "aliases": [
+            "bo cap vang",
+            "khu vui choi bo cap vang",
+            "kdl bo cap vang",
+            "khu du lich sinh thai bo cap bang",
+            "khu du lich bo cap vang"
+        ],
+        "type": "tourism",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.8561587598052,
+        "lat": 10.658875515562677,
+        "description": "Khu vui chơi Bò Cạp Vàng nổi tiếng với không gian sông nước xanh mát, nhiều hoạt động giải trí ngoài trời như chèo thuyền, vượt chướng ngại vật và các trò vận động tập thể. Đây là điểm đến phù hợp cho gia đình, nhóm bạn và các hoạt động team building nhờ không khí thoáng đãng, nhiều khu vực picnic và dịch vụ vui chơi đa dạng.",
+        "images": []
+    },
+    {
+        "id": "vuon-quoc-gia-nam-cat-tien",
+        "name": "Vườn Quốc gia Nam Cát Tiên",
+        "aliases": [
+            "nam cat tien",
+            "vuon quoc gia nam cat tien",
+            "cat tien national park"
+        ],
+        "type": "tourism",
+        "commune": "Xã Nam Cát Tiên",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.43083290855773,
+        "lat": 11.423624512523494,
+        "description": "Vườn Quốc gia Nam Cát Tiên là khu bảo tồn thiên nhiên nổi tiếng với hệ sinh thái rừng nhiệt đới phong phú và đa dạng sinh học bậc nhất. Du khách có thể trải nghiệm các hoạt động như khám phá rừng, xem động vật hoang dã, đạp xe xuyên rừng, tham quan Bầu Sấu hay tìm hiểu đời sống thực vật phong phú. Đây là điểm đến lý tưởng cho những ai yêu thiên nhiên, thích khám phá và nghiên cứu sinh thái.",
+        "images": []
+    },
+    {
+        "id": "thac-giang-dien",
+        "name": "Thác Giang Điền",
+        "aliases": [
+            "giang dien",
+            "thac giang dien",
+            "kdl giang dien"
+        ],
+        "type": "tourism",
+        "commune": "Xã Trảng Bom",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.98921534284649,
+        "lat": 10.91856044831347,
+        "description": "Thác Giang Điền là khu du lịch sinh thái nổi bật với dòng thác trắng xóa, không gian xanh mát và những cung đường dạo bộ ven suối. Nơi đây thích hợp cho dã ngoại, cắm trại, tổ chức teambuilding và các hoạt động vui chơi ngoài trời. Khung cảnh thiên nhiên gần gũi giúp du khách thư giãn giữa không gian trong lành.",
+        "images": []
+    },
+    {
+        "id": "kdl-vuon-xoai",
+        "name": "Khu du lịch Vườn Xoài",
+        "aliases": [
+            "vuon xoai",
+            "khu du lich vuon xoai",
+            "kdl vuon xoai"
+        ],
+        "type": "tourism",
+        "commune": "Phường Phước Tân",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.93642683922941,
+        "lat": 10.91502409264769,
+        "description": "Khu du lịch Vườn Xoài là tổ hợp vui chơi – sinh thái nổi tiếng với không gian xanh rộng lớn, nhiều hoạt động trải nghiệm như đua xe địa hình, hồ bơi, sở thú nhỏ và các khu check-in thư giãn. Đây là điểm đến hấp dẫn cho gia đình và nhóm bạn muốn tận hưởng không khí trong lành và các trò giải trí đa dạng.",
+        "images": []
+    },
+    {
+        "id": "van-mieu-tran-bien",
+        "name": "Văn Miếu Trấn Biên",
+        "aliases": [
+            "van mieu tran bien",
+            "tran bien",
+            "van mieu"
+        ],
+        "type": "tourism",
+        "commune": "Phường Trấn Biên",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.80156548156032,
+        "lat": 10.965008714520412,
+        "description": "Văn Miếu Trấn Biên là công trình mang đậm dấu ấn văn hóa truyền thống, được xây dựng để tôn vinh nền hiếu học và các bậc hiền tài. Kiến trúc nơi đây gợi nhớ đến phong cách cổ kính của văn miếu xưa, hòa cùng không gian tĩnh lặng và thoáng đãng. Khuôn viên rộng lớn, nhiều hạng mục được bài trí trang nghiêm, là nơi diễn ra các hoạt động văn hóa, lễ hội và sự kiện giáo dục ý nghĩa.",
+        "images": []
+    },
+    {
+        "id": "thien-vien-thuong-chieu",
+        "name": "Thiền viện Thường Chiếu",
+        "aliases": [
+            "thien vien thuong chieu",
+            "thuong chieu"
+        ],
+        "type": "tourism",
+        "commune": "Xã Phước Thái",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.02477741064784,
+        "lat": 10.688558395566409,
+        "description": "Thiền viện Thường Chiếu là một trung tâm Phật giáo thanh tịnh, nổi bật với không gian yên bình và kiến trúc mang đậm tinh thần thiền. Khuôn viên rộng rãi, nhiều cây xanh cùng hồ nước và các công trình thiền môn được bố trí hài hòa, tạo nên cảm giác an nhiên cho du khách. Đây cũng là nơi diễn ra các khóa tu, sinh hoạt thiền định và các hoạt động hướng về đời sống tâm linh.",
+        "images": []
+    },
+    {
+        "id": "da-ba-chong",
+        "name": "Đá Ba Chồng",
+        "aliases": [
+            "da ba chong",
+            "nui da ba chong"
+        ],
+        "type": "tourism",
+        "commune": "Xã Định Quán",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.3477341165745,
+        "lat": 11.19356180141126,
+        "description": "Đá Ba Chồng là cụm đá tự nhiên độc đáo với ba tảng đá lớn xếp chồng lên nhau, tạo nên hình dáng kỳ thú hiếm gặp. Cảnh quan xung quanh mang vẻ đẹp hoang sơ, thích hợp để tham quan, chụp ảnh và khám phá thiên nhiên. Đây cũng là điểm đến gắn với nhiều câu chuyện văn hóa dân gian và dấu ấn lịch sử của vùng đất địa phương.",
+        "images": []
+    },
+    {
+        "id": "nui-chua-chan",
+        "name": "Núi Chứa Chan",
+        "aliases": [
+            "nui chua chan",
+            "nui gia ray",
+            "chua chan"
+        ],
+        "type": "tourism",
+        "commune": "Xã Xuân Lộc",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.37711441988051,
+        "lat": 10.939645944784075,
+        "description": "Núi Chứa Chan là ngọn núi có cảnh quan hùng vĩ với hệ sinh thái rừng phong phú và khí hậu mát mẻ quanh năm. Ngọn núi nổi bật bởi đường lên được bao quanh bởi rừng cây xanh mướt, các mỏm đá tự nhiên và nhiều điểm check-in đẹp. Đây là nơi du khách có thể trải nghiệm leo núi, ngắm bình minh, cắm trại và tận hưởng không gian yên tĩnh giữa thiên nhiên. Núi còn gắn liền với các công trình tâm linh và nhiều câu chuyện văn hóa đặc sắc của địa phương.",
+        "images": []
+    },
+    {
+        "id": "cong-vien-suoi-mo",
+        "name": "Công viên Suối Mơ",
+        "aliases": [
+            "suoi mo",
+            "cong vien suoi mo",
+            "kdl suoi mo"
+        ],
+        "type": "tourism",
+        "commune": "Xã Tân Phú",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.44008740670972,
+        "lat": 11.231194109681814,
+        "description": "Công viên Suối Mơ là điểm du lịch sinh thái nổi bật với không gian xanh mát, hồ nước trong vắt và dòng suối tự nhiên chảy quanh năm. Khuôn viên được thiết kế hài hòa giữa thiên nhiên và các tiện ích giải trí, mang đến trải nghiệm thư giãn cho du khách. Đây là nơi lý tưởng để tắm suối, vui chơi dưới nước, tổ chức picnic, cắm trại và chụp ảnh giữa cảnh quan trong lành. Công viên còn cung cấp nhiều dịch vụ vui chơi ngoài trời, phù hợp cho gia đình, nhóm bạn và các hoạt động dã ngoại.",
+        "images": []
+    },
+    {
+        "id": "kdl-dao-o",
+        "name": "Khu du lịch Đảo Ó",
+        "aliases": [
+            "dao o",
+            "khu du lich dao o",
+            "dao o tri an"
+        ],
+        "type": "tourism",
+        "commune": "Xã Trị An",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.05035599953126,
+        "lat": 11.100577537300987,
+        "description": "Khu du lịch Đảo Ó là điểm vui chơi nghỉ dưỡng nổi bật với không gian thiên nhiên trong lành, mặt hồ rộng lớn và cảnh quan hoang sơ. Du khách có thể tận hưởng nhiều hoạt động như cắm trại, chèo thuyền, dã ngoại và khám phá hệ sinh thái ven hồ. Sự yên bình và bầu không khí mát mẻ khiến nơi đây trở thành lựa chọn lý tưởng cho những chuyến đi thư giãn cuối tuần hoặc các hoạt động teambuilding.",
+        "images": []
+    },
+    {
+        "id": "thac-mai",
+        "name": "Khu duc lich Thác Mai",
+        "aliases": [
+            "thac mai",
+            "khu du lich thac mai",
+            "thac mai gia khiem",
+            "bau nuoc soi"
+        ],
+        "type": "tourism",
+        "commune": "Xã Định Quán",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.40795939162808,
+        "lat": 11.104304588865519,
+        "description": "Thác Mai là điểm du lịch sinh thái nổi bật với dòng suối trong lành, những khối đá tự nhiên và thác nước trải dài giữa rừng già. Khu vực này mang vẻ đẹp hoang sơ, yên bình, phù hợp cho các hoạt động cắm trại, dã ngoại, tắm suối và khám phá thiên nhiên. Không gian mát mẻ quanh năm và hệ sinh thái phong phú khiến nơi đây trở thành lựa chọn lý tưởng cho những chuyến đi nghỉ dưỡng gần gũi với thiên nhiên.",
+        "images": []
+    },
+    {
+        "id": "lang-buoi-nam-hue-tan-trieu",
+        "name": "Làng bưởi Năm Huệ Tân Triều",
+        "aliases": [
+            "nam hue",
+            "buoi nam hue",
+            "lang buoi tan trieu",
+            "vuon buoi nam hue"
+        ],
+        "type": "tourism",
+        "commune": "Phường Tân Triều",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.7862912650473,
+        "lat": 10.996448872698052,
+        "description": "Làng bưởi Năm Huệ là điểm đến nổi tiếng với những vườn bưởi trĩu quả, không gian mộc mạc và trải nghiệm miệt vườn đặc trưng. Du khách có thể tham quan vườn, tìm hiểu quy trình chăm sóc cây bưởi, thưởng thức trái cây tươi và các món đặc sản chế biến từ bưởi. Không khí trong lành, xanh mát cùng nét đẹp quê truyền thống mang đến cảm giác thư thái và gần gũi.",
+        "images": []
+    },
+    {
+        "id": "ho-suoi-vong",
+        "name": "Hồ Suối Vọng",
+        "aliases": [
+            "suoi vong",
+            "ho suoi vong"
+        ],
+        "type": "tourism",
+        "commune": "Xã Xuân Định",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.2875758976005,
+        "lat": 10.840669888449046,
+        "description": "Hồ Suối Vọng sở hữu mặt nước yên bình, không gian thoáng đãng và hệ sinh thái tự nhiên xanh mát. Đây là điểm đến lý tưởng cho những ai yêu thích sự tĩnh lặng, ngắm cảnh, chụp ảnh và cảm nhận vẻ đẹp nguyên sơ của thiên nhiên.",
+        "images": []
+    },
+    {
+        "id": "chua-bach-lien",
+        "name": "Chùa Bạch Liên",
+        "aliases": [
+            "bach lien",
+            "chua bach lien"
+        ],
+        "type": "tourism",
+        "commune": "An Phước",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.9399004594241,
+        "lat": 10.8329542060022,
+        "description": "Chùa Bạch Liên gây ấn tượng với kiến trúc thanh thoát, tông màu trang nhã và không gian tĩnh lặng. Khuôn viên chùa được chăm sóc cẩn thận với nhiều cây xanh, hồ nước và các công trình thờ tự hài hòa. Đây là nơi phù hợp để chiêm bái, hành thiền và tìm sự an yên giữa đời sống thường nhật.",
+        "images": []
+    },
+    {
+        "id": "cho-tho-son-a",
+        "name": "Chợ Thọ Sơn A",
+        "aliases": [
+            "cho tho son a",
+            "cho tho son"
+        ],
+        "type": "market",
+        "commune": "Xã Thọ Sơn",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.29464704235852,
+        "lat": 11.915937962243637,
+        "description": "Chợ Thọ Sơn A là điểm giao thương chính của người dân xã Thọ Sơn, nơi diễn ra hoạt động buôn bán nông sản địa phương, thực phẩm tươi sống và các mặt hàng tiêu dùng hằng ngày. Chợ có quy mô vừa, tập trung đông nhất vào buổi sáng, phục vụ nhu cầu sinh hoạt và trao đổi hàng hóa của cư dân khu vực miền núi.",
+        "images": []
+    },
+    {
+        "id": "cho-bu-dang",
+        "name": "Chợ Bù Đăng",
+        "aliases": [
+            "cho bu dang",
+            "cho huyen bu dang"
+        ],
+        "type": "market",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.24652667630347,
+        "lat": 11.815942116936402,
+        "description": "Chợ Bù Đăng là khu chợ truyền thống quan trọng của vùng, nơi tập trung nhiều tiểu thương kinh doanh nông sản địa phương, rau củ, thịt cá, đồ khô và các mặt hàng thiết yếu hằng ngày. Chợ có quy mô vừa, hoạt động nhộn nhịp vào buổi sáng và đóng vai trò là điểm giao thương phục vụ cư dân khu vực miền núi.",
+        "images": []
+    },
+    {
+        "id": "cho-duc-lieu",
+        "name": "Chợ Đức Liễu",
+        "aliases": [
+            "cho duc lieu",
+            "cho xa duc lieu"
+        ],
+        "type": "market",
+        "commune": "Xã Nghĩa Trung",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.14003145743717,
+        "lat": 11.712438143218934,
+        "description": "Chợ Đức Liễu là khu chợ truyền thống phục vụ nhu cầu trao đổi hàng hóa của người dân địa phương, đặc biệt là nông sản, thực phẩm tươi sống và các mặt hàng sinh hoạt hằng ngày. Chợ hoạt động sầm uất vào buổi sáng, là điểm giao thương quen thuộc của cư dân trong khu vực.",
+        "images": []
+    },
+    {
+        "id": "cho-phuoc-long",
+        "name": "Chợ Phước Long",
+        "aliases": [
+            "cho phuoc long",
+            "cho thi xa phuoc long",
+            "cho phuoclong"
+        ],
+        "type": "market",
+        "commune": "Phường Phước Long",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.99530028444138,
+        "lat": 11.84195820468346,
+        "description": "Chợ Phước Long là trung tâm giao thương quan trọng của khu vực, nơi buôn bán nhộn nhịp các mặt hàng nông sản địa phương, thực phẩm tươi sống, đồ khô, quần áo và hàng tiêu dùng hằng ngày. Chợ có quy mô vừa đến lớn, hoạt động đông đúc vào buổi sáng và là điểm mua sắm quen thuộc của người dân phường Phước Long cùng các khu vực lân cận.",
+        "images": []
+    },
+    {
+        "id": "trung-tam-thuong-mai-phuoc-binh",
+        "name": "Trung tâm thương mại Phước Bình",
+        "aliases": [
+            "tttm phuoc binh",
+            "trung tam thuong mai phuoc binh",
+            "phuoc binh plaza"
+        ],
+        "type": "market",
+        "commune": "Phường Phước Bình",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.9545751235563,
+        "lat": 11.816850585698957,
+        "description": "Trung tâm thương mại Phước Bình là điểm mua sắm hiện đại phục vụ nhu cầu tiêu dùng của người dân khu vực, bao gồm các gian hàng thời trang, siêu thị mini, thực phẩm, đồ gia dụng và dịch vụ tiện ích. Không gian thoáng, tập trung đông khách vào buổi chiều và cuối tuần, là địa điểm mua sắm quen thuộc của cư dân phường Phước Bình.",
+        "images": []
+    },
+    {
+        "id": "cho-bu-nho",
+        "name": "Chợ Bù Nho",
+        "aliases": [
+            "cho bu nho",
+            "cho bunho"
+        ],
+        "type": "market",
+        "commune": "Xã Phú Riềng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.87268581612237,
+        "lat": 11.735157966575752,
+        "description": "Chợ Bù Nho là khu chợ truyền thống sầm uất của khu vực, nơi buôn bán các mặt hàng nông sản, thực phẩm tươi sống, đồ khô, quần áo và những sản phẩm đặc trưng của vùng. Chợ hoạt động nhộn nhịp vào buổi sáng, là điểm giao thương chính của người dân địa phương và các khu dân cư lân cận.",
+        "images": []
+    },
+    {
+        "id": "cho-thanh-luong",
+        "name": "Chợ Thanh Lương",
+        "aliases": [
+            "cho thanh luong"
+        ],
+        "type": "market",
+        "commune": "Phường An Lộc",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.5910857797275,
+        "lat": 11.710984793138795,
+        "description": "Chợ Thanh Lương là điểm giao thương chính của người dân địa phương, buôn bán hàng tươi sống, quần áo và nhiều mặt hàng thiết yếu.",
+        "images": []
+    },
+    {
+        "id": "cho-binh-long",
+        "name": "Chợ Bình Long",
+        "aliases": [
+            "cho binh long"
+        ],
+        "type": "market",
+        "commune": "Phường Bình Long",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.60617621837625,
+        "lat": 11.652734166271113,
+        "description": "Chợ Bình Long là trung tâm buôn bán sôi động với nhiều quầy sạp kinh doanh thực phẩm, rau củ, nông sản và hàng hóa tiêu dùng.",
+        "images": []
+    },
+    {
+        "id": "cho-phuoc-an",
+        "name": "Chợ Phước An",
+        "aliases": [
+            "cho phuoc an"
+        ],
+        "type": "market",
+        "commune": "Xã Tân Quan",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.62987286885966,
+        "lat": 11.654491448599565,
+        "description": "Chợ Phước An cung cấp đa dạng hàng hóa, đặc biệt là nông sản và thực phẩm tươi sống phục vụ nhu cầu hằng ngày của người dân.",
+        "images": []
+    },
+    {
+        "id": "cho-dong-xoai",
+        "name": "Chợ Đồng Xoài",
+        "aliases": [
+            "cho dong xoai"
+        ],
+        "type": "market",
+        "commune": "Phường Bình Phước",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.89761092205464,
+        "lat": 11.535945606658126,
+        "description": "Chợ Đồng Xoài là khu chợ lớn, tập trung nhiều điểm kinh doanh thực phẩm, nông sản và đồ gia dụng, phục vụ nhu cầu của khu vực trung tâm đô thị.",
+        "images": []
+    },
+    {
+        "id": "cho-tan-phuoc",
+        "name": "Chợ Tân Phước",
+        "aliases": [
+            "cho tan phuoc"
+        ],
+        "type": "market",
+        "commune": "Xã Đồng Tâm",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.96320975903872,
+        "lat": 11.511802060288188,
+        "description": "Chợ Tân Phước là nơi mua bán quen thuộc của người dân, nổi bật với các quầy hàng thực phẩm và đồ dùng thiết yếu.",
+        "images": []
+    },
+    {
+        "id": "cho-tan-thanh",
+        "name": "Chợ Tân Thành",
+        "aliases": [
+            "cho tan thanh"
+        ],
+        "type": "market",
+        "commune": "Phường Đồng Xoài",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.83021766784468,
+        "lat": 11.52060758780913,
+        "description": "Chợ Tân Thành hoạt động nhộn nhịp hằng ngày, cung cấp hàng tiêu dùng, thực phẩm và các sản phẩm đặc trưng của địa phương.",
+        "images": []
+    },
+    {
+        "id": "cho-minh-hung",
+        "name": "Chợ Minh Hưng",
+        "aliases": [
+            "cho minh hung"
+        ],
+        "type": "market",
+        "commune": "Phường Minh Hưng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.61526826716963,
+        "lat": 11.476652360350348,
+        "description": "Chợ Minh Hưng là điểm giao thương quen thuộc, nơi cung cấp hàng tươi sống, nông sản và đồ tiêu dùng phục vụ người dân.",
+        "images": []
+    },
+    {
+        "id": "cho-tan-khai",
+        "name": "Chợ Tân Khai",
+        "aliases": [
+            "cho tan khai"
+        ],
+        "type": "market",
+        "commune": "Xã Tân Khai",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.61567585273478,
+        "lat": 11.55223027619748,
+        "description": "Chợ Tân Khai buôn bán đa dạng mặt hàng, từ nông sản, thịt cá, rau củ đến đồ gia dụng và hàng tiêu dùng.",
+        "images": []
+    },
+    {
+        "id": "cho-chon-thanh",
+        "name": "Chợ Chơn Thành",
+        "aliases": [
+            "cho chon thanh"
+        ],
+        "type": "market",
+        "commune": "Phường Chơn Thành",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.61484446622755,
+        "lat": 11.41766751827164,
+        "description": "Chợ Chơn Thành là chợ lớn trong khu vực, tập trung đông tiểu thương kinh doanh hàng hóa đa dạng phục vụ người dân địa phương.",
+        "images": []
+    },
+    {
+        "id": "cho-vinh-an",
+        "name": "Chợ Vĩnh An",
+        "aliases": [
+            "cho vinh an"
+        ],
+        "type": "market",
+        "commune": "Xã Trị An",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.03320274583041,
+        "lat": 11.086401427811298,
+        "description": "Chợ Vĩnh An là trung tâm buôn bán sôi động của khu vực ven hồ Trị An, cung cấp hàng tươi sống và các sản phẩm phục vụ đời sống người dân.",
+        "images": []
+    },
+    {
+        "id": "cho-tan-bien",
+        "name": "Chợ Tân Biên",
+        "aliases": [
+            "cho tan bien"
+        ],
+        "type": "market",
+        "commune": "Phường Long Bình",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.88896852389024,
+        "lat": 10.96775297949176,
+        "description": "Chợ Tân Biên cung cấp đa dạng mặt hàng, là nơi giao thương quen thuộc của người dân trong khu vực.",
+        "images": []
+    },
+    {
+        "id": "cho-trang-dai",
+        "name": "Chợ Trảng Dài",
+        "aliases": [
+            "cho trang dai"
+        ],
+        "type": "market",
+        "commune": "Phường Trảng Dài",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86161069505553,
+        "lat": 10.983915181127058,
+        "description": "Chợ Trảng Dài là chợ dân sinh sôi động với nhiều quầy sạp kinh doanh thực phẩm, đồ khô và hàng tiêu dùng.",
+        "images": []
+    },
+    {
+        "id": "cho-tan-tien",
+        "name": "Chợ Tân Tiến",
+        "aliases": [
+            "cho tan tien"
+        ],
+        "type": "market",
+        "commune": "Phường Tam Hiệp",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.84908846593864,
+        "lat": 10.965015886656511,
+        "description": "Chợ Tân Tiến buôn bán các mặt hàng thiết yếu, là nơi người dân lui tới hằng ngày để mua thực phẩm và nhu yếu phẩm.",
+        "images": []
+    },
+    {
+        "id": "cho-bien-hoa",
+        "name": "Chợ Biên Hòa",
+        "aliases": [
+            "cho bien hoa"
+        ],
+        "type": "market",
+        "commune": "Phường Trần Biên",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.81433404894929,
+        "lat": 10.946422176969808,
+        "description": "Chợ Biên Hòa là một trong những khu chợ lớn và lâu đời, tập trung nhiều ngành hàng và hoạt động giao thương nhộn nhịp.",
+        "images": []
+    },
+    {
+        "id": "cho-tam-hoa",
+        "name": "Chợ Tam Hòa",
+        "aliases": [
+            "cho tam hoa"
+        ],
+        "type": "market",
+        "commune": "Phường Tam Hiệp",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86419771039479,
+        "lat": 10.942490733493775,
+        "description": "Chợ Tam Hòa là nơi buôn bán nhộn nhịp của khu vực phường Tam Hòa, với nhiều quầy thực phẩm và đồ dùng hằng ngày.",
+        "images": []
+    },
+    {
+        "id": "cho-dau-giay",
+        "name": "Chợ Dầu Giây",
+        "aliases": [
+            "cho dau giay"
+        ],
+        "type": "market",
+        "commune": "Xã Dầu Giây",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.14001731934971,
+        "lat": 10.944344971850144,
+        "description": "Chợ Dầu Giây là điểm giao thương tấp nập, đặc biệt nổi tiếng với nông sản địa phương và hàng tươi sống phục vụ khu vực nút giao Dầu Giây.",
+        "images": []
+    },
+    {
+        "id": "cho-long-khanh",
+        "name": "Chợ Long Khánh",
+        "aliases": [
+            "cho long khanh"
+        ],
+        "type": "market",
+        "commune": "Phường Long Khánh",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.2409615410747,
+        "lat": 10.937743871660095,
+        "description": "Chợ Long Khánh là khu chợ lớn của trung tâm đô thị, buôn bán sầm uất với nhiều ngành hàng từ thực phẩm, nông sản đến quần áo và đồ gia dụng.",
+        "images": []
+    },
+    {
+        "id": "cho-xuan-my",
+        "name": "Chợ Xuân Mỹ",
+        "aliases": [
+            "cho xuan my"
+        ],
+        "type": "market",
+        "commune": "Xã Cẩm Mỹ",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.24348490590909,
+        "lat": 10.776469058223206,
+        "description": "Chợ Xuân Mỹ cung cấp hàng hóa đa dạng, đặc biệt là nông sản và thực phẩm tươi sống phục vụ đời sống hằng ngày.",
+        "images": []
+    },
+    {
+        "id": "cho-dinh-quan",
+        "name": "Chợ Định Quán",
+        "aliases": [
+            "cho dinh quan"
+        ],
+        "type": "market",
+        "commune": "Xã Định Quán",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.35066959321408,
+        "lat": 11.196259432612923,
+        "description": "Chợ Định Quán là khu chợ trung tâm với hoạt động giao thương nhộn nhịp, nổi bật với các mặt hàng nông sản và thực phẩm địa phương.",
+        "images": []
+    },
+    {
+        "id": "cho-phuong-lam",
+        "name": "Chợ Phương Lâm",
+        "aliases": [
+            "cho phuong lam"
+        ],
+        "type": "market",
+        "commune": "Xã Phú Lâm",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.48901971040034,
+        "lat": 11.285312159619775,
+        "description": "Chợ Phương Lâm hoạt động nhộn nhịp hằng ngày, bán đa dạng hàng thiết yếu, thực phẩm tươi và đồ gia dụng.",
+        "images": []
+    },
+    {
+        "id": "cho-nga-ba-can-don",
+        "name": "Chợ Ngã Ba Cần Đơn",
+        "aliases": [
+            "cho nga ba can don"
+        ],
+        "type": "market",
+        "commune": "Xã Thiện Hưng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.82708060856673,
+        "lat": 11.959291811722315,
+        "description": "Chợ Ngã Ba Cần Đơn nằm gần trục giao thông quan trọng, buôn bán sôi động với nhiều mặt hàng phục vụ cư dân và người đi đường.",
+        "images": []
+    },
+    {
+        "id": "cho-loc-ninh",
+        "name": "Chợ Lộc Ninh",
+        "aliases": [
+            "cho loc ninh"
+        ],
+        "type": "market",
+        "commune": "Xã Lộc Ninh",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.59237085273985,
+        "lat": 11.849715094126564,
+        "description": "Chợ Lộc Ninh là trung tâm giao thương lớn, tập trung nhiều quầy sạp kinh doanh thực phẩm, nông sản và hàng tiêu dùng.",
+        "images": []
+    },
+    {
+        "id": "cho-thuan-phu",
+        "name": "Chợ Thuận Phú",
+        "aliases": [
+            "cho thuan phu"
+        ],
+        "type": "market",
+        "commune": "Xã Thuận Lợi",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.89123268157047,
+        "lat": 11.59531516535867,
+        "description": "Chợ Thuận Phú cung cấp phong phú các mặt hàng phục vụ sinh hoạt, trong đó có nhiều sản phẩm nông nghiệp của địa phương.",
+        "images": []
+    },
+    {
+        "id": "cho-dak-nhau",
+        "name": "Chợ Đăk Nhau",
+        "aliases": [
+            "cho dak nhau"
+        ],
+        "type": "market",
+        "commune": "Xã Đăk Nhau",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.22641766808172,
+        "lat": 11.967980718394795,
+        "description": "Chợ Đăk Nhau là nơi người dân trao đổi hàng hóa hằng ngày, nổi bật với nông sản và thực phẩm tươi.",
+        "images": []
+    },
+    {
+        "id": "coopmart-dong-phu",
+        "name": "Co.opmart Đồng Phú",
+        "aliases": [
+            "coopmart dong phu"
+        ],
+        "type": "market",
+        "commune": "Xã Đồng Phú",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86963321409273,
+        "lat": 11.445491821012924,
+        "description": "Co.opmart Đồng Phú là siêu thị hiện đại cung cấp đầy đủ hàng tiêu dùng, thực phẩm và đồ gia dụng cho khu vực.",
+        "images": []
+    },
+    {
+        "id": "coopmart-dong-xoai",
+        "name": "Co.opmart Đồng Xoài",
+        "aliases": [
+            "coopmart dong xoai"
+        ],
+        "type": "market",
+        "commune": "Phường Bình Phước",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.89719573739451,
+        "lat": 11.533201857381535,
+        "description": "Co.opmart Đồng Xoài là điểm mua sắm lớn, cung cấp đầy đủ thực phẩm, đồ gia dụng và hàng tiêu dùng thiết yếu.",
+        "images": []
+    },
+    {
+        "id": "lotte-mart-dong-nai",
+        "name": "Lotte Mart Đồng Nai",
+        "aliases": [
+            "lotte dong nai",
+            "lotte mart dong nai"
+        ],
+        "type": "market",
+        "commune": "Phường Long Bình",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.87080179505489,
+        "lat": 10.948938292940083,
+        "description": "Lotte Mart Đồng Nai là trung tâm thương mại hiện đại, kết hợp siêu thị, khu ẩm thực và nhiều tiện ích mua sắm.",
+        "images": []
+    },
+    {
+        "id": "go-dong-nai",
+        "name": "GO! Đồng Nai",
+        "aliases": [
+            "bigc dong nai",
+            "go dong nai"
+        ],
+        "type": "market",
+        "commune": "Phường Long Hưng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.85040158127211,
+        "lat": 10.905946383750255,
+        "description": "GO! Đồng Nai là trung tâm mua sắm lớn với siêu thị tổng hợp, khu ăn uống và nhiều cửa hàng tiện ích.",
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-anh-quyen",
+        "name": "Cửa hàng xăng dầu Anh Quyền",
+        "aliases": [
+            "cua hang xang dau anh quyen"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.37264086206812,
+        "lat": 11.916826571848862,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-hung-khanh",
+        "name": "Trạm xăng dầu Hùng Khánh",
+        "aliases": [
+            "tram xang dau hung khanh"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.30445779514537,
+        "lat": 11.869683523232421,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-dau-hoang-kim",
+        "name": "Cây xăng dầu Hoàng Kim",
+        "aliases": [
+            "cay xang dau hoang kim"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.27649048743615,
+        "lat": 11.829725402024028,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-phuc-loc-tho",
+        "name": "Trạm xăng dầu Phúc Lộc Thọ",
+        "aliases": [
+            "tram xang dau phuc loc tho"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.26442620539972,
+        "lat": 11.826751123902227,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-petro-binh-phuoc-18",
+        "name": "Cây xăng Petro Bình Phước số 18",
+        "aliases": [
+            "cay xang petro binh phuoc so 18"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.24726006942028,
+        "lat": 11.814653610082491,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-duy-ky-3",
+        "name": "Cây xăng Duy Kỳ 3",
+        "aliases": [
+            "cay xang duy ky 3"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.21531867212242,
+        "lat": 11.803170297257166,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-viet-hung",
+        "name": "Cây xăng Việt Hùng",
+        "aliases": [
+            "cay xang viet hung"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.16605186186145,
+        "lat": 11.774267309390654,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-hy-dung-2",
+        "name": "Cây Xăng Hỷ Dung 2",
+        "aliases": [
+            "cay xang hy dung 2"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.13851285950734,
+        "lat": 11.729120308525282,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "xang-dau-an-nhien",
+        "name": "Xăng dầu An Nhiên",
+        "aliases": [
+            "xang dau an nhien"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.06130899331228,
+        "lat": 11.898340790825072,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-my-hoa",
+        "name": "Cây Xăng Mỹ Hoa",
+        "aliases": [
+            "cay xang my hoa"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.02800668652651,
+        "lat": 11.864408084952895,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-kim-lien",
+        "name": "Trạm Xăng Dầu Kim Liên",
+        "aliases": [
+            "tram xang dau kim lien"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.98715127860572,
+        "lat": 11.842231955484483,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-chi-thien",
+        "name": "Trạm Xăng Dầu Chí Thiện",
+        "aliases": [
+            "tram xang dau chi thien"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.95536026513162,
+        "lat": 11.809327646405082,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-petrolimex-68",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 68",
+        "aliases": [
+            "cua hang xang dau petrolimex so 68"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.8726823994957,
+        "lat": 11.73460477523245,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "dai-ly-xang-dau-tu-le-thalemix",
+        "name": "Đại Lý Xăng Dầu Tư Lê - Thalemix",
+        "aliases": [
+            "dai ly xang dau tu le",
+            "thalemix"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.90288443032794,
+        "lat": 11.695997682362405,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-thanh-sang",
+        "name": "Trạm xăng dầu Thanh Sang",
+        "aliases": [
+            "tram xang dau thanh sang"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.87138811978771,
+        "lat": 11.895648248316709,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-phu-long",
+        "name": "Cây xăng Phú Long",
+        "aliases": [
+            "cay xang phu long"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.82418531263176,
+        "lat": 11.885544334069992,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-dinh-vu",
+        "name": "Cây xăng Đình Vũ",
+        "aliases": [
+            "cay xang dinh vu"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.80003220545156,
+        "lat": 11.872835030883975,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-thanh-liem",
+        "name": "Trạm Xăng Dầu Thành Liêm",
+        "aliases": [
+            "tram xang dau thanh liem"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.82686101906341,
+        "lat": 11.959365770869374,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-an-thang-05",
+        "name": "Cửa hàng Xăng dầu An Thắng 05",
+        "aliases": [
+            "cua hang xang dau an thang 05",
+            "an thang 5"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.8140966149577,
+        "lat": 11.959059316381708,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-tri-quang",
+        "name": "Cây Xăng Trí Quang",
+        "aliases": [
+            "cay xang tri quang"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.78880537600746,
+        "lat": 11.948871998074518,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-hoang-trong",
+        "name": "Trạm Xăng Dầu Hoàng Trọng",
+        "aliases": [
+            "tram xang dau hoang trong"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.75088795280618,
+        "lat": 11.937954055020208,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-tien-dung",
+        "name": "Cây Xăng Dầu Tiến Dũng",
+        "aliases": [
+            "cay xang dau tien dung"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.6940840981197,
+        "lat": 11.88391566670325,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-ngan-phat",
+        "name": "Trạm Xăng Dầu Ngân Phát",
+        "aliases": [
+            "tram xang dau ngan phat"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.59246056066415,
+        "lat": 11.876188379243018,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-32",
+        "name": "Cửa Hàng Xăng Dầu Số 32",
+        "aliases": [
+            "cua hang xang dau so 32"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.58862632618532,
+        "lat": 11.847367319426805,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-minh-tu",
+        "name": "Trạm Xăng Dầu Minh Tú",
+        "aliases": [
+            "tram xang dau minh tu"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.59886474212472,
+        "lat": 11.808695513248063,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-truong-thach",
+        "name": "Trạm Xăng Dầu Trường Thạch",
+        "aliases": [
+            "tram xang dau truong thach"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.09051372936447,
+        "lat": 11.695994637043944,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-nghia-thang",
+        "name": "Cây Xăng Nghĩa Thắng",
+        "aliases": [
+            "cay xang nghia thang"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.05561952906565,
+        "lat": 11.654449770446087,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-phu-loc",
+        "name": "Trạm Xăng Dầu Phú Lộc",
+        "aliases": [
+            "tram xang dau phu loc"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.03923283453453,
+        "lat": 11.63447713568219,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-petrolimex-62",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 62",
+        "aliases": [
+            "cua hang xang dau petrolimex so 62"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.96239744309743,
+        "lat": 11.572648000215674,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-cau-hai",
+        "name": "Trạm xăng dầu Cầu Hai",
+        "aliases": [
+            "tram xang dau cau hai"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.91777524915663,
+        "lat": 11.54370339483652,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-petrolimex-60",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 60",
+        "aliases": [
+            "cua hang xang dau petrolimex so 60"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.90593859654535,
+        "lat": 11.54129908161244,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-petro-binh-phuoc-20",
+        "name": "Cửa hàng Xăng dầu Petro Bình Phước Số 20",
+        "aliases": [
+            "cua hang xang dau petro binh phuoc so 20"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.88775056940548,
+        "lat": 11.510182582663663,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "dai-ly-xang-dau-tan-phuoc",
+        "name": "Đại Lí Bán Lẻ Xăng Dầu Tân Phước",
+        "aliases": [
+            "dai li ban le xang dau tan phuoc",
+            "dai ly xang dau tan phuoc"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.87490346931014,
+        "lat": 11.48967209818666,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-phuong-nam",
+        "name": "Cây Xăng Phương Nam",
+        "aliases": [
+            "cay xang phuong nam"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.89193669600886,
+        "lat": 11.47637484868963,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tin-nghia-petroleum-tan-phong",
+        "name": "Tín Nghĩa Petroleum - Trạm Xăng dầu Tân Phong",
+        "aliases": [
+            "tin nghia petroleum tram xang dau tan phong"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.85439925882461,
+        "lat": 10.975487901417335,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-go-me",
+        "name": "Trạm xăng dầu Gò Me",
+        "aliases": [
+            "tram xang dau go me"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86504226313187,
+        "lat": 10.960320580133109,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-so-09",
+        "name": "Công ty TNHH Trạm Xăng Dầu Số 09",
+        "aliases": [
+            "tram xang dau so 09"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.95052962030945,
+        "lat": 10.97009516522508,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-tan-bien",
+        "name": "Trạm Xăng Dầu Tân Biên",
+        "aliases": [
+            "tram xang dau tan bien"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.88186507230786,
+        "lat": 10.968746964786666,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-ben-cat",
+        "name": "Cửa Hàng Xăng Dầu Bến Cát",
+        "aliases": [
+            "cua hang xang dau ben cat"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.79882150592836,
+        "lat": 10.94737662924913,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tin-nghia-petroleum-long-binh-tan",
+        "name": "Tín Nghĩa Petroleum - Trạm Xăng Dầu Long Bình Tân",
+        "aliases": [
+            "tin nghia petroleum long binh tan"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.85142548645725,
+        "lat": 10.902385614884244,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tin-nghia-petroleum-icd-bien-hoa",
+        "name": "Tín Nghĩa Petroleum - Trạm xăng dầu ICD Biên Hòa",
+        "aliases": [
+            "tin nghia petroleum icd bien hoa"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86719537306904,
+        "lat": 10.895870711981123,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-phuc-lam-48",
+        "name": "Cửa hàng xăng dầu Phúc Lâm 48",
+        "aliases": [
+            "cua hang xang dau phuc lam 48"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.87447251718488,
+        "lat": 10.936953452520536,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-doan-22",
+        "name": "Trạm Xăng Dầu Đoàn 22",
+        "aliases": [
+            "tram xang dau doan 22"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.8816731940199,
+        "lat": 10.959427301777776,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-ngoc-hiep",
+        "name": "Trạm Xăng Dầu Ngọc Hiệp",
+        "aliases": [
+            "tram xang dau ngoc hiep"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86654673727233,
+        "lat": 10.970170583546397,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "petrolimex-04",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 04",
+        "aliases": [
+            "cua hang xang dau petrolimex so 04"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.89735909722793,
+        "lat": 10.969354371555383,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-561",
+        "name": "CTTNHH Trạm Xăng Dầu 561",
+        "aliases": [
+            "tram xang dau 561"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.92291434155142,
+        "lat": 10.965622399751917,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "viet-khoi-cna-02",
+        "name": "Cửa hàng Xăng dầu Việt Khôi - CNA 02",
+        "aliases": [
+            "viet khoi cna 02"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.05824850472908,
+        "lat": 11.079531527882743,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "petrolimex-34",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 34",
+        "aliases": [
+            "cua hang xang dau petrolimex so 34"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.04108236874964,
+        "lat": 11.117938304102003,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-bau-ham",
+        "name": "Cây Xăng Bàu Hàm",
+        "aliases": [
+            "cay xang bau ham"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.11244916284669,
+        "lat": 10.986986340018936,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "petrolimex-41",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 41",
+        "aliases": [
+            "cua hang xang dau petrolimex so 41"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.17699383412935,
+        "lat": 10.984964154220238,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-thanh-son-1",
+        "name": "Trạm Xăng Dầu Thanh Sơn 1",
+        "aliases": [
+            "tram xang dau thanh son 1"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.19004009747373,
+        "lat": 11.018665440324007,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-nam-chau",
+        "name": "Trạm xăng dầu Năm Châu",
+        "aliases": [
+            "tram xang dau nam chau"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.1787104477273,
+        "lat": 11.05034113040199,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tin-nghia-petroleum-gia-tan",
+        "name": "Tín Nghĩa Petroleum - Trạm xăng dầu Gia Tân",
+        "aliases": [
+            "tin nghia petroleum gia tan"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.18454693396029,
+        "lat": 11.088751739838285,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cay-xang-phu-tuc",
+        "name": "Cây xăng Phú Túc",
+        "aliases": [
+            "cay xang phu tuc"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.21406343834003,
+        "lat": 11.091979835685398,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "vinfast-222",
+        "name": "Trạm sạc điện Vinfast 120KW - Trạm xăng dầu 222",
+        "aliases": [
+            "tram sac dien vinfast 120kw",
+            "tram xang dau 222"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.23824259064435,
+        "lat": 10.945995173059613,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "petrolimex-36",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 36",
+        "aliases": [
+            "cua hang xang dau petrolimex so 36"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.27291818532281,
+        "lat": 10.906891717200226,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tram-xang-dau-huyen-hau",
+        "name": "Trạm xăng dầu Huyền Hậu",
+        "aliases": [
+            "tram xang dau huyen hau"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.14782048172655,
+        "lat": 10.963681952962379,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "petrolimex-07",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 07",
+        "aliases": [
+            "cua hang xang dau petrolimex so 07"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.08792499798801,
+        "lat": 10.94498924960613,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "hung-thinh-1",
+        "name": "Trạm Xăng Dầu Hưng Thịnh 1",
+        "aliases": [
+            "tram xang dau hung thinh 1"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.97864577670757,
+        "lat": 10.802049654819342,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "hao-loan",
+        "name": "Trạm xăng dầu Hảo Loan",
+        "aliases": [
+            "tram xang dau hao loan"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.96680900812059,
+        "lat": 10.754316917250378,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "long-phuoc-fuel",
+        "name": "Cửa hàng xăng dầu Long Phước",
+        "aliases": [
+            "cua hang xang dau long phuoc"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.00151665598234,
+        "lat": 10.73658540661813,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "chau-thanh-47",
+        "name": "Cửa hàng Xăng dầu Châu Thành Số 47",
+        "aliases": [
+            "cua hang xang dau chau thanh so 47"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.10143072081088,
+        "lat": 10.845835838983831,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "petrolimex-25",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 25",
+        "aliases": [
+            "cua hang xang dau petrolimex so 25"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.16284372233497,
+        "lat": 10.846506041209405,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tin-nghia-1",
+        "name": "Cây xăng Tín Nghĩa",
+        "aliases": [
+            "cay xang tin nghia"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.12547131196244,
+        "lat": 10.885963587083934,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "bao-hoang-tan",
+        "name": "Cửa hàng xăng dầu Bảo Hoàng Tân",
+        "aliases": [
+            "cua hang xang dau bao hoang tan"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.13262355579825,
+        "lat": 10.907859700180834,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "chau-loan-10",
+        "name": "Cây xăng Châu Loan - số 10",
+        "aliases": [
+            "cay xang chau loan so 10"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.16101230029172,
+        "lat": 10.80886882298284,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "long-giao",
+        "name": "Tín Nghĩa Petroleum - Trạm xăng dầu Long Giao",
+        "aliases": [
+            "tin nghia petroleum long giao"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.23908022894707,
+        "lat": 10.814428858716552,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "dinh-huong-4",
+        "name": "Đại Lý Xăng Dầu Định Hường 4 - Petro Vn",
+        "aliases": [
+            "dai ly xang dau dinh huong 4"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.374624226881,
+        "lat": 10.898622399665975,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "gia-nguyen-minh-2",
+        "name": "Cây Xăng Gia Nguyễn Minh 2",
+        "aliases": [
+            "cay xang gia nguyen minh 2"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.35677457940925,
+        "lat": 10.910502047603078,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "toan-thang-phat",
+        "name": "Trạm Xăng Dầu Toàn Thắng Phát",
+        "aliases": [
+            "tram xang dau toan thang phat"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.41429250387776,
+        "lat": 10.919515891978747,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "gia-nguyen-minh-3",
+        "name": "Cửa Hàng Xăng Dầu GIA NGUYỄN MINH 3",
+        "aliases": [
+            "gia nguyen minh 3"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.43462126988658,
+        "lat": 10.903157405235577,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "phuoc-an-fuel",
+        "name": "Cửa hàng Xăng dầu Phước An",
+        "aliases": [
+            "cua hang xang dau phuoc an"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.44510660961149,
+        "lat": 10.882678119355342,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "petrolimex-28",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 28",
+        "aliases": [
+            "cua hang xang dau petrolimex so 28"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.53135893061243,
+        "lat": 10.837584596620053,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "van-duc",
+        "name": "Cây xăng Vân Đức",
+        "aliases": [
+            "cay xang van duc"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.56529703091643,
+        "lat": 10.821881963688613,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "petrolimex-44",
+        "name": "Petrolimex - Cửa hàng 44",
+        "aliases": [
+            "petrolimex cua hang 44"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.43579301646169,
+        "lat": 10.984339322123255,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "tan-kiet",
+        "name": "Trạm xăng dầu Tấn Kiệt",
+        "aliases": [
+            "tram xang dau tan kiet"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.6255760107077,
+        "lat": 11.551343923602202,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "dvt",
+        "name": "Trạm Xăng Dầu ĐVT",
+        "aliases": [
+            "tram xang dau dvt"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.61973952447468,
+        "lat": 11.533852191778667,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "hoang-phuong-anh",
+        "name": "Cây xăng Hoàng Phương Anh",
+        "aliases": [
+            "cay xang hoang phuong anh"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.60780143953205,
+        "lat": 11.657937480372212,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "an-hoa",
+        "name": "Cây xăng An Hoà",
+        "aliases": [
+            "cay xang an hoa"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.63127764476299,
+        "lat": 11.657437655373666,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "cuong-dai-phat-3",
+        "name": "Cây xăng dầu Cường Cường Đại Phát (Chi nhánh 3)",
+        "aliases": [
+            "cay xang cuong dai phat 3"
+        ],
+        "type": "fuel",
+        "commune": "Đang cập nhật",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.83339833908853,
+        "lat": 11.392976482415266,
+        "description": "",
+        "images": []
+    },
+    {
+        "id": "benh-vien-quan-dan-y-16",
+        "name": "Bệnh Viện Quân Dân Y 16",
+        "aliases": [
+            "benh vien quan dan y 16",
+            "quan dan y 16"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.52571535667193,
+        "lng": 106.92291261925408
+    },
+    {
+        "id": "benh-vien-y-hoc-co-truyen-binh-phuoc",
+        "name": "Bệnh Viện Y Học Cổ Truyền Tỉnh Bình Phước",
+        "aliases": [
+            "benh vien y hoc co truyen binh phuoc"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.536497863490862,
+        "lng": 106.91008801626158
+    },
+    {
+        "id": "benh-vien-da-khoa-binh-phuoc",
+        "name": "Bệnh viện Đa khoa Bình Phước",
+        "aliases": [
+            "benh vien da khoa binh phuoc"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.52672537832943,
+        "lng": 106.86302477908897
+    },
+    {
+        "id": "benh-vien-hoan-my-binh-phuoc",
+        "name": "Bệnh Viện Hoàn Mỹ Bình Phước",
+        "aliases": [
+            "benh vien hoan my binh phuoc"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.485574052444552,
+        "lng": 106.88354406214093
+    },
+    {
+        "id": "benh-vien-da-khoa-bu-dang",
+        "name": "Bệnh Viện Đa khoa Bù Đăng",
+        "aliases": [
+            "benh vien da khoa bu dang"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.8048412157751,
+        "lng": 107.22911943460133
+    },
+    {
+        "id": "tram-y-te-minh-hung",
+        "name": "Trạm Y Tế Minh Hưng",
+        "aliases": [
+            "tram y te minh hung"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.798763108854558,
+        "lng": 107.1966560962656
+    },
+    {
+        "id": "tram-y-te-binh-minh",
+        "name": "Trạm Y Tế Bình Minh",
+        "aliases": [
+            "tram y te binh minh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.861062973468048,
+        "lng": 107.19038305947753
+    },
+    {
+        "id": "benh-xa-qdy-719",
+        "name": "Bệnh xá QDY 719",
+        "aliases": [
+            "benh xa qdy 719"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.911794717751823,
+        "lng": 107.18485383514872
+    },
+    {
+        "id": "benh-vien-da-khoa-dong-phu",
+        "name": "Bệnh Viện Đa Khoa Đồng Phú",
+        "aliases": [
+            "benh vien da khoa dong phu"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.437247973053358,
+        "lng": 106.8628861972365
+    },
+    {
+        "id": "tram-y-te-nha-bich",
+        "name": "Trạm Y Tế Xã Nha Bích",
+        "aliases": [
+            "tram y te nha bich"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.488722149040507,
+        "lng": 106.68917905552637
+    },
+    {
+        "id": "tram-y-te-thanh-binh",
+        "name": "Trạm Y tế xã Thanh Bình",
+        "aliases": [
+            "tram y te thanh binh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.600992544305722,
+        "lng": 106.61624274782001
+    },
+    {
+        "id": "benh-vien-da-khoa-hon-quan",
+        "name": "Bệnh viện Đa khoa Hớn Quản",
+        "aliases": [
+            "benh vien da khoa hon quan"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.577039023629435,
+        "lng": 106.60989931163515
+    },
+    {
+        "id": "benh-vien-da-khoa-binh-long",
+        "name": "Bệnh viện Đa khoa Bình Long",
+        "aliases": [
+            "benh vien da khoa binh long"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.649800798821992,
+        "lng": 106.60499926371294
+    },
+    {
+        "id": "ttyt-binh-long",
+        "name": "Trung tâm Y tế Bình Long",
+        "aliases": [
+            "trung tam y te binh long"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.649466770869997,
+        "lng": 106.6036038411956
+    },
+    {
+        "id": "pkdk-khai-nguyen",
+        "name": "Phòng Khám Đa Khoa Khải Nguyên",
+        "aliases": [
+            "phong kham da khoa khai nguyen"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.658902191396592,
+        "lng": 106.61036037407152
+    },
+    {
+        "id": "benh-vien-cao-su-binh-long",
+        "name": "Bệnh Viện Đa khoa Công ty TNHH MTV Cao su Bình Long",
+        "aliases": [
+            "benh vien cao su binh long"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.65506730492213,
+        "lng": 106.62338319224385
+    },
+    {
+        "id": "tram-y-te-loc-thien",
+        "name": "Trạm y tế Lộc Thiện",
+        "aliases": [
+            "tram y te loc thien"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.838146736550803,
+        "lng": 106.56533935451951
+    },
+    {
+        "id": "pkdk-le-nguyen",
+        "name": "Phòng Khám Đa Khoa Lê Nguyễn",
+        "aliases": [
+            "phong kham da khoa le nguyen"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.845344698156369,
+        "lng": 106.58992552500214
+    },
+    {
+        "id": "benh-vien-da-khoa-loc-ninh",
+        "name": "Bệnh viện Đa khoa Lộc Ninh",
+        "aliases": [
+            "benh vien da khoa loc ninh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.85223586037991,
+        "lng": 106.5916634353995
+    },
+    {
+        "id": "benh-vien-cao-su-loc-ninh",
+        "name": "Bệnh Viện Công Ty Cao Su Lộc Ninh",
+        "aliases": [
+            "benh vien cao su loc ninh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.846643805393855,
+        "lng": 106.6002968490693
+    },
+    {
+        "id": "tram-y-te-long-binh",
+        "name": "Trạm Y Tế Long Bình",
+        "aliases": [
+            "tram y te long binh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.795997896023845,
+        "lng": 106.79806885530454
+    },
+    {
+        "id": "benh-vien-da-khoa-phuoc-long",
+        "name": "Bệnh Viện Đa Khoa Phước Long",
+        "aliases": [
+            "benh vien da khoa phuoc long"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.852383742945575,
+        "lng": 106.9990646019291
+    },
+    {
+        "id": "pkdk-tam-viet-2",
+        "name": "Phòng Khám Đa Khoa Tâm Việt 2 Phước Bình",
+        "aliases": [
+            "phong kham tam viet 2"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.819525959024658,
+        "lng": 106.96580638406378
+    },
+    {
+        "id": "tram-y-te-phuoc-binh",
+        "name": "Trạm Y Tế Phường Phước Bình",
+        "aliases": [
+            "tram y te phuoc binh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.809728381141868,
+        "lng": 106.95484098044022
+    },
+    {
+        "id": "benh-vien-nhan-ai",
+        "name": "Bệnh viện Nhân Ái",
+        "aliases": [
+            "benh vien nhan ai"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.965068725294486,
+        "lng": 107.10636146858145
+    },
+    {
+        "id": "benh-vien-da-khoa-bu-dop",
+        "name": "Bệnh Viện Đa Khoa Bù Đốp",
+        "aliases": [
+            "benh vien da khoa bu dop"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.950113087476508,
+        "lng": 106.8066791600524
+    },
+    {
+        "id": "ttyt-bu-gia-map",
+        "name": "Trung tâm Y tế Khu vực Bù Gia Mập",
+        "aliases": [
+            "trung tam y te bu gia map"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.929714626362648,
+        "lng": 107.00701412862328
+    },
+    {
+        "id": "tram-y-te-thong-nhat",
+        "name": "Trạm Y Tế Thống Nhất",
+        "aliases": [
+            "tram y te thong nhat"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.664132777492611,
+        "lng": 107.19959031797163
+    },
+    {
+        "id": "tram-y-te-phu-trung",
+        "name": "Trạm Y Tế Phú Trung",
+        "aliases": [
+            "tram y te phu trung"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.666091372037993,
+        "lng": 107.01207718966634
+    },
+    {
+        "id": "pkdk-minh-hung",
+        "name": "Phòng khám Đa Khoa Minh Hưng",
+        "aliases": [
+            "phong kham minh hung"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.482757992050903,
+        "lng": 106.61735279740047
+    },
+    {
+        "id": "benh-vien-da-khoa-an-phu-cn3",
+        "name": "BỆNH VIỆN ĐA KHOA AN PHÚ CN3",
+        "aliases": [
+            "benh vien da khoa an phu cn3"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.443312116162538,
+        "lng": 106.65704958862969
+    },
+    {
+        "id": "ttyt-chon-thanh",
+        "name": "Trung tâm y tế Chơn Thành",
+        "aliases": [
+            "trung tam y te chon thanh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.432146433892148,
+        "lng": 106.63861411235703
+    },
+    {
+        "id": "tram-y-te-tan-thanh",
+        "name": "Trạm Y Tế Tân Thành",
+        "aliases": [
+            "tram y te tan thanh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.914150069047865,
+        "lng": 106.70531941015459
+    },
+    {
+        "id": "tram-y-te-loc-quang",
+        "name": "Trạm Y Tế Lộc Quang",
+        "aliases": [
+            "tram y te loc quang"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.83380698182129,
+        "lng": 106.71728210493326
+    },
+    {
+        "id": "benh-vien-quan-dan-y-16",
+        "name": "Bệnh Viện Quân Dân Y 16",
+        "aliases": [
+            "qdy 16",
+            "quan dan y 16"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.52571535667193,
+        "lng": 106.92291261925408,
+        "description": "Cơ sở y tế quân – dân kết hợp, cung cấp khám chữa bệnh đa khoa và hỗ trợ điều trị cho các đơn vị lực lượng vũ trang."
+    },
+    {
+        "id": "benh-vien-y-hoc-co-truyen-dong-nai",
+        "name": "Bệnh viện Y Dược Cổ truyền Đồng Nai",
+        "aliases": [
+            "y hoc co truyen dong nai"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.974922350410145,
+        "lng": 106.84866451550143,
+        "description": "Cơ sở khám chữa bệnh bằng y học cổ truyền và vật lý trị liệu, điều trị các bệnh mạn tính, phục hồi chức năng."
+    },
+    {
+        "id": "benh-vien-quan-y-7b",
+        "name": "Bệnh viện Quân y 7B",
+        "aliases": [
+            "quan y 7b"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.965906760393807,
+        "lng": 106.85253566396828,
+        "description": "Bệnh viện quân đội phục vụ khám chữa bệnh cho quân nhân và người dân, nổi bật với chuyên khoa ngoại – nội tổng hợp."
+    },
+    {
+        "id": "benh-vien-nhi-sai-gon-dong-nai",
+        "name": "Bệnh Viện Đa Khoa Nhi Sài Gòn - CN Đồng Nai",
+        "aliases": [
+            "nhi sai gon dong nai",
+            "bv nhi sai gon"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.960396947570908,
+        "lng": 106.84837038840963,
+        "description": "Cơ sở chuyên về nhi khoa, cung cấp dịch vụ khám bệnh trẻ em, tiêm chủng và cấp cứu nhi."
+    },
+    {
+        "id": "benh-vien-hoan-my-dong-nai",
+        "name": "Bệnh viện Hoàn Mỹ Đồng Nai",
+        "aliases": [
+            "hoan my dong nai"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.958226308692106,
+        "lng": 106.84724093866704,
+        "description": "Bệnh viện tư nhân với cơ sở vật chất hiện đại, cung cấp dịch vụ khám chữa bệnh chất lượng cao theo tiêu chuẩn quốc tế."
+    },
+    {
+        "id": "benh-vien-da-khoa-dong-nai",
+        "name": "Bệnh Viện Đa Khoa Đồng Nai",
+        "aliases": [
+            "da khoa dong nai",
+            "bv dong nai"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.952697373011416,
+        "lng": 106.86785771135071,
+        "description": "Bệnh viện tuyến tỉnh quy mô lớn, đa chuyên khoa, có hệ thống cấp cứu – chẩn đoán hình ảnh hiện đại."
+    },
+    {
+        "id": "benh-vien-dong-nai-2",
+        "name": "Bệnh viện Đồng Nai 2",
+        "aliases": [
+            "dong nai 2"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.951328584797942,
+        "lng": 106.8672896618142,
+        "description": "Cơ sở y tế đa khoa, phục vụ khám chữa bệnh ngoại – nội tổng hợp cho khu vực trung tâm Biên Hòa."
+    },
+    {
+        "id": "benh-vien-thuan-my-ito",
+        "name": "Bệnh Viện Thuận Mỹ ITO Đồng Nai",
+        "aliases": [
+            "ito thuan my",
+            "thuận mỹ ito"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.947870874201312,
+        "lng": 106.82876002054404,
+        "description": "Chuyên khoa chấn thương chỉnh hình, phẫu thuật xương khớp và phục hồi chức năng."
+    },
+    {
+        "id": "benh-vien-da-khoa-bien-hoa",
+        "name": "Bệnh viện Đa khoa TP. Biên Hoà",
+        "aliases": [
+            "da khoa bien hoa"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.95288379733934,
+        "lng": 106.8525835895626,
+        "description": "Bệnh viện đa khoa phục vụ khu vực nội thành Biên Hòa, có các khoa cấp cứu, sản, nhi và nội tổng hợp."
+    },
+    {
+        "id": "benh-vien-au-co",
+        "name": "Bệnh viện Âu Cơ",
+        "aliases": [
+            "au co"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.962842094503538,
+        "lng": 106.88701779036477,
+        "description": "Bệnh viện tư nhân cung cấp các dịch vụ nội khoa, ngoại khoa, sản – nhi và xét nghiệm."
+    },
+    {
+        "id": "benh-vien-tam-hong-phuoc",
+        "name": "Bệnh viện Đa khoa Tâm Hồng Phước",
+        "aliases": [
+            "tam hong phuoc"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.970292959035758,
+        "lng": 106.86655388549116,
+        "description": "Cơ sở y tế tư nhân, nổi bật với dịch vụ khám ngoại trú, nội soi và cấp cứu."
+    },
+    {
+        "id": "benh-vien-thong-nhat-dong-nai",
+        "name": "Bệnh viện Đa khoa Thống Nhất Đồng Nai",
+        "aliases": [
+            "thong nhat dong nai"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.967869716148478,
+        "lng": 106.90018896344469,
+        "description": "Bệnh viện hạng I với nhiều chuyên khoa mũi nhọn, khả năng tiếp nhận cấp cứu số lượng lớn."
+    },
+    {
+        "id": "shing-mark-hospital",
+        "name": "Shing Mark Hospital",
+        "aliases": [
+            "shing mark"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.89657070589729,
+        "lng": 106.86323829852113,
+        "description": "Bệnh viện quốc tế lớn tại Biên Hòa, cung cấp dịch vụ y tế hiện đại theo tiêu chuẩn Đài Loan."
+    },
+    {
+        "id": "benh-vien-phoi-dong-nai",
+        "name": "Bệnh viện Phổi Đồng Nai",
+        "aliases": [
+            "phoi dong nai"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.875534202055992,
+        "lng": 106.91908226081189,
+        "description": "Cơ sở chuyên sâu điều trị bệnh hô hấp, lao phổi và các bệnh lây nhiễm đường hô hấp."
+    },
+    {
+        "id": "quoc-te-long-binh",
+        "name": "Phòng Khám Đa Khoa Quốc Tế Long Bình",
+        "aliases": [
+            "quoc te long binh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.93809341724479,
+        "lng": 106.8702432652461,
+        "description": "Phòng khám đa khoa chất lượng cao, cung cấp các dịch vụ khám tổng quát và điều trị ngoại trú."
+    },
+    {
+        "id": "tram-y-te-bac-son",
+        "name": "Trạm Y Tế Xã Bắc Sơn",
+        "aliases": [
+            "y te bac son"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.959244589155333,
+        "lng": 106.95446356564088,
+        "description": "Trạm y tế xã với dịch vụ chăm sóc sức khỏe ban đầu, tiêm chủng và sơ cứu."
+    },
+    {
+        "id": "pet-home-tri-an",
+        "name": "Phòng khám thú y Pet Home - Ngã ba Trị An",
+        "aliases": [
+            "pet home tri an"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.961763419165331,
+        "lng": 106.94819914152653,
+        "description": "Phòng khám thú y cung cấp dịch vụ điều trị, tiêm phòng và chăm sóc thú cưng."
+    },
+    {
+        "id": "tram-y-te-tan-an",
+        "name": "Trạm Y tế xã Tân An",
+        "aliases": [
+            "y te tan an"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.040238646217835,
+        "lng": 106.91447485670062,
+        "description": "Trạm y tế cơ sở phụ trách khám chữa bệnh ban đầu và chăm sóc sức khỏe cộng đồng."
+    },
+    {
+        "id": "trung-tam-y-te-trang-bom",
+        "name": "Trung Tâm Y Tế Trảng Bom",
+        "aliases": [
+            "y te trang bom"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.948327288706892,
+        "lng": 107.00585093156883,
+        "description": "Trung tâm y tế huyện với nhiều chuyên khoa cơ bản, phục vụ người dân khu vực Trảng Bom."
+    },
+    {
+        "id": "benh-vien-da-khoa-dau-giay",
+        "name": "Bệnh viện Đa khoa Dầu Giây",
+        "aliases": [
+            "da khoa dau giay"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.951604346983338,
+        "lng": 107.13914584425454,
+        "description": "Bệnh viện khu vực, cung cấp dịch vụ cấp cứu – nội – ngoại – sản cho người dân Dầu Giây và vùng lân cận."
+    },
+    {
+        "id": "trung-tam-y-te-thong-nhat",
+        "name": "Trung Tâm Y Tế Huyện Thống Nhất",
+        "aliases": [
+            "y te thong nhat"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.948703407307308,
+        "lng": 107.14563132795661,
+        "description": "Cơ sở y tế huyện với nhiều chuyên khoa, phục vụ khám chữa bệnh cho khu vực Thống Nhất."
+    },
+    {
+        "id": "thu-y-cao-tho",
+        "name": "Bệnh Viện thú y Cao Thọ Trảng Bom Đồng Nai",
+        "aliases": [
+            "cao tho",
+            "thu y cao tho"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.955727249044713,
+        "lng": 107.00388920752764,
+        "description": "Cơ sở thú y điều trị, phẫu thuật và chăm sóc thú nuôi."
+    },
+    {
+        "id": "benh-vien-cao-su-dong-nai",
+        "name": "Bệnh viện Cao su Đồng Nai",
+        "aliases": [
+            "cao su dong nai"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.94579591512027,
+        "lng": 107.21024884886602,
+        "description": "Bệnh viện của ngành cao su, cung cấp khám chữa bệnh cho công nhân và người dân địa phương."
+    },
+    {
+        "id": "benh-vien-khu-vuc-long-khanh",
+        "name": "Bệnh Viện Đa Khoa Khu Vực Long Khánh",
+        "aliases": [
+            "da khoa long khanh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.940392671677188,
+        "lng": 107.21529124681308,
+        "description": "Bệnh viện quy mô lớn tại Long Khánh, có đầy đủ các chuyên khoa cơ bản và dịch vụ cấp cứu."
+    },
+    {
+        "id": "benh-vien-mat-sai-gon-dong-nai",
+        "name": "Bệnh viện Mắt Sài Gòn Đồng Nai",
+        "aliases": [
+            "mat sai gon dong nai"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.922614636977192,
+        "lng": 107.24067560858522,
+        "description": "Chuyên khoa mắt, khám điều trị cận – loạn – đục thủy tinh thể và các bệnh lý nhãn khoa."
+    },
+    {
+        "id": "trung-tam-y-te-vinh-cuu",
+        "name": "Trung Tâm Y Tế Huyện Vĩnh Cửu",
+        "aliases": [
+            "y te vinh cuu"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.095216643556345,
+        "lng": 107.02426441864597,
+        "description": "Trung tâm y tế huyện với nhiều khoa khám bệnh và cấp cứu cho khu vực Vĩnh Cửu."
+    },
+    {
+        "id": "co-so-dieu-tri-nghien-ma-tuy",
+        "name": "Cơ sở điều trị nghiện ma túy tỉnh Đồng Nai",
+        "aliases": [
+            "dieu tri nghien dong nai"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.040568462433841,
+        "lng": 107.36631797975745,
+        "description": "Cơ sở điều trị và phục hồi chức năng cho người nghiện ma túy."
+    },
+    {
+        "id": "tram-y-te-xuan-bac",
+        "name": "Trạm Y Tế Xã Xuân Bắc",
+        "aliases": [
+            "y te xuan bac"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.033497221153201,
+        "lng": 107.32328988169805,
+        "description": "Trạm y tế xã cung cấp dịch vụ khám chữa bệnh ban đầu."
+    },
+    {
+        "id": "tram-y-te-phu-tuc",
+        "name": "Trạm Y Tế Phú Túc",
+        "aliases": [
+            "y te phu tuc"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.087636057445119,
+        "lng": 107.20842406066606,
+        "description": "Trạm y tế cơ sở phục vụ chăm sóc sức khỏe cộng đồng."
+    },
+    {
+        "id": "tram-y-te-tuc-trung",
+        "name": "Trạm Y Tế Túc Trưng",
+        "aliases": [
+            "y te tuc trung"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.091383706397792,
+        "lng": 107.20763137592881,
+        "description": "Trạm y tế địa phương, khám chữa bệnh cơ bản và tiêm chủng."
+    },
+    {
+        "id": "tram-y-te-phu-cuong",
+        "name": "Trạm Y Tế Phú Cường",
+        "aliases": [
+            "y te phu cuong"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.088994088543414,
+        "lng": 107.18504098258032,
+        "description": "Trạm y tế xã, tập trung chăm sóc sức khỏe ban đầu cho người dân."
+    },
+    {
+        "id": "benh-vien-da-khoa-tan-phu",
+        "name": "Bệnh Viện Đa Khoa Huyện Tân Phú",
+        "aliases": [
+            "da khoa tan phu"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.273693570971009,
+        "lng": 107.440645887973,
+        "description": "Bệnh viện huyện phục vụ khám chữa bệnh đa khoa cho khu vực Tân Phú."
+    },
+    {
+        "id": "van-thanh-sai-gon",
+        "name": "Phòng Khám Đa Khoa Vạn Thành Sài Gòn - Tân Phú",
+        "aliases": [
+            "van thanh sai gon"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.274591716572159,
+        "lng": 107.44742485499897,
+        "description": "Phòng khám đa khoa cung cấp dịch vụ nội – ngoại khoa và xét nghiệm."
+    },
+    {
+        "id": "tram-y-te-thanh-son",
+        "name": "Trạm Y tế Thanh Sơn",
+        "aliases": [
+            "y te thanh son"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.30623048057166,
+        "lng": 107.47944472212471,
+        "description": "Trạm y tế xã phụ trách chăm sóc sức khỏe cơ bản cho người dân."
+    },
+    {
+        "id": "tram-y-te-phu-binh",
+        "name": "Trạm y tế xã Phú Bình",
+        "aliases": [
+            "y te phu binh"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.293396460599764,
+        "lng": 107.49969865251832,
+        "description": "Cơ sở y tế địa phương, khám bệnh ban đầu và tiêm chủng."
+    },
+    {
+        "id": "tram-y-te-phu-an",
+        "name": "Trạm Y Tế Xã Phú An",
+        "aliases": [
+            "y te phu an"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.381862992058478,
+        "lng": 107.48012052545643,
+        "description": "Trạm y tế phục vụ nhu cầu khám chữa bệnh tại địa phương."
+    },
+    {
+        "id": "tram-y-te-nam-cat-tien",
+        "name": "Trạm Y tế xã Nam Cát Tiên",
+        "aliases": [
+            "y te nam cat tien"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 11.424047636739896,
+        "lng": 107.43736049565406,
+        "description": "Trạm y tế vùng đệm Vườn quốc gia Nam Cát Tiên, chủ yếu điều trị bệnh thông thường."
+    },
+    {
+        "id": "tram-y-te-bau-can",
+        "name": "Trạm y tế xã Bàu Cạn",
+        "aliases": [
+            "y te bau can"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.723930526890486,
+        "lng": 107.06759292122969,
+        "description": "Trạm y tế khám chữa bệnh cơ bản và tiêm chủng cho người dân địa phương."
+    },
+    {
+        "id": "tram-y-te-tan-hiep",
+        "name": "Trạm Y tế Tân Hiệp",
+        "aliases": [
+            "y te tan hiep"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.688979544363377,
+        "lng": 107.04213892454983,
+        "description": "Trạm y tế cơ sở phụ trách chăm sóc sức khỏe ban đầu và tuyên truyền y tế."
+    },
+    {
+        "id": "tram-y-te-phuoc-thai",
+        "name": "Trạm Y Tế Phước Thái",
+        "aliases": [
+            "y te phuoc thai"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.67949835377925,
+        "lng": 107.02921064548393,
+        "description": "Cơ sở y tế địa phương, cung cấp dịch vụ khám chữa bệnh cơ bản."
+    },
+    {
+        "id": "tram-y-te-long-phuoc",
+        "name": "Trạm Y Tế Long Phước",
+        "aliases": [
+            "y te long phuoc"
+        ],
+        "type": "hospital",
+        "commune": "",
+        "lat": 10.731512734666447,
+        "lng": 106.98998086179074,
+        "description": "Trạm y tế xã cung cấp các dịch vụ chăm sóc sức khỏe ban đầu, tiêm chủng và sơ cứu."
+    },
+    {
+        "id": "truong-tieu-hoc-tho-son",
+        "name": "TRƯỜNG TIỂU HỌC THỌ SƠN",
+        "aliases": [
+            "truong tieu hoc tho son"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.31333202361158,
+        "lat": 11.870518387712936,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-doan-duc-thai",
+        "name": "Trừơng THCS Đoàn Đức Thái",
+        "aliases": [
+            "truong thcs doan duc thai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.33113441769589,
+        "lat": 11.811500265950228,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-bu-dang",
+        "name": "Trường THPT Bù Đăng",
+        "aliases": [
+            "truong thpt bu dang"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.2410345088661,
+        "lat": 11.805994585642571,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-phan-boi-chau",
+        "name": "Trường THCS Phan Bội Châu",
+        "aliases": [
+            "truong thcs phan boi chau"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.24133129968146,
+        "lat": 11.806234735846578,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-duc-phong",
+        "name": "Trường Tiểu Học Đức Phong",
+        "aliases": [
+            "truong tieu hoc duc phong"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.2427404707862,
+        "lat": 11.802578329378099,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-thpt-luong-the-vinh",
+        "name": "Trường THCS - THPT Lương Thế Vinh",
+        "aliases": [
+            "truong thcs thpt luong the vinh"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.19729399038091,
+        "lat": 11.918657644602972,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-minh-hung",
+        "name": "Trường THCS Minh Hưng",
+        "aliases": [
+            "truong thcs minh hung"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.18851841803279,
+        "lat": 11.797758788996607,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-duc-lieu",
+        "name": "Trường THCS Đức Liễu",
+        "aliases": [
+            "truong thcs duc lieu"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.09486464184226,
+        "lat": 11.726218673727042,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-ly-tu-trong",
+        "name": "Trường THCS Lý Tự Trọng",
+        "aliases": [
+            "truong thcs ly tu trong"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.93708659960963,
+        "lat": 11.800575063064294,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-ngo-quyen",
+        "name": "Trường THPT Ngô Quyền",
+        "aliases": [
+            "truong thpt ngo quyen"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.80694967450539,
+        "lat": 11.74159657463156,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-thpt-dong-tien",
+        "name": "Trường THCS & THPT Đồng Tiến",
+        "aliases": [
+            "truong thcs thpt dong tien"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.95089637450613,
+        "lat": 11.554095999869451,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-tan-dong",
+        "name": "Trường THCS Tân Đồng",
+        "aliases": [
+            "truong thcs tan dong"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.90945723946658,
+        "lat": 11.54489103230186,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-nguyen-du",
+        "name": "Trường THPT Nguyễn Du",
+        "aliases": [
+            "truong thpt nguyen du"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.90021564533768,
+        "lat": 11.541138839113176,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-tan-xuan",
+        "name": "Trường THCS Tân Xuân",
+        "aliases": [
+            "truong thcs tan xuan"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.89927478269709,
+        "lat": 11.529832984790852,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-pho-thong-dan-toc-noi-tru-thpt-binh-phuoc",
+        "name": "Trường Phổ thông Dân Tộc Nội Trú Trung học phổ thông Bình Phước",
+        "aliases": [
+            "truong pho thong dan toc noi tru trung hoc pho thong binh phuoc"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.87668222591377,
+        "lat": 11.52969745258047,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-dong-xoai",
+        "name": "Trường THPT Đồng Xoài",
+        "aliases": [
+            "truong thpt dong xoai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.87274995954913,
+        "lat": 11.529045559656137,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-quang-trung",
+        "name": "Trường THPT Quang Trung",
+        "aliases": [
+            "truong thpt quang trung"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86776061552435,
+        "lat": 11.529074716360668,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-thpt-nguyen-binh-khiem",
+        "name": "Trường THCS & THPT Nguyễn Bỉnh Khiêm",
+        "aliases": [
+            "truong thcs thpt nguyen binh khiem"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.68471608337865,
+        "lat": 11.496841552984314,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-th-thcs-le-van-tam",
+        "name": "Trường TH - THCS Lê Văn Tám",
+        "aliases": [
+            "truong th thcs le van tam"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.62202629200969,
+        "lat": 11.374711005887088,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-dong-phu",
+        "name": "Trường Trung Học Phổ Thông Đồng Phú",
+        "aliases": [
+            "truong thpt dong phu"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86798652455403,
+        "lat": 11.426321722255507,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-an-loc-b",
+        "name": "Trường THCS An Lộc B",
+        "aliases": [
+            "truong thcs an loc b"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.61191349940638,
+        "lat": 11.6608835815706,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-nguyen-hue",
+        "name": "Trường THPT Nguyễn Huệ",
+        "aliases": [
+            "truong thpt nguyen hue"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.6060987036164,
+        "lat": 11.64988739884022,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-binh-long",
+        "name": "Trường THPT Thị xã Bình Long",
+        "aliases": [
+            "truong thpt thi xa binh long"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.60658156105683,
+        "lat": 11.64577011100275,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "mam-non-hoa-huong-duong",
+        "name": "Trường Mầm Non Tư Thục Hoa Hướng Dương",
+        "aliases": [
+            "truong mam non tu thuc hoa huong duong"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.60973234869168,
+        "lat": 11.644850784980877,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "thpt-binh-long-moi",
+        "name": "THPT Bình Long mới",
+        "aliases": [
+            "thpt binh long moi"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.60037823537928,
+        "lat": 11.64054655510517,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-thanh-luong",
+        "name": "Trường Tiểu Học Thanh Lương",
+        "aliases": [
+            "truong tieu hoc thanh luong"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.58983694443813,
+        "lat": 11.71104239919565,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-thcs-loc-thinh",
+        "name": "Trường Tiểu Học và THCS Lộc Thịnh",
+        "aliases": [
+            "truong tieu hoc va thcs loc thinh"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.57344816893733,
+        "lat": 11.741891741415238,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-long-phuoc-binh-phuoc",
+        "name": "Trường THCS Long Phước",
+        "aliases": [
+            "truong thcs long phuoc"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.9471038732494,
+        "lat": 11.810577143566048,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-phuoc-binh",
+        "name": "Trường THPT Phước Bình",
+        "aliases": [
+            "truong thpt phuoc binh"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.95945664540157,
+        "lat": 11.825235463066425,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-thac-mo",
+        "name": "Trường THCS Thác Mơ",
+        "aliases": [
+            "truong thcs thac mo"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.00985800130901,
+        "lat": 11.837572357600482,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-thi-xa-phuoc-long",
+        "name": "Trường THPT Thị xã Phước Long",
+        "aliases": [
+            "truong thpt thi xa phuoc long"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.9982446638701,
+        "lat": 11.854357411225926,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-thong-nhat-binh-phuoc",
+        "name": "Trường THCS Thống Nhất",
+        "aliases": [
+            "truong thcs thong nhat"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.19857342239632,
+        "lat": 11.663252776076993,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-vo-truong-toan",
+        "name": "Trường THCS Võ Trường Toản",
+        "aliases": [
+            "truong thcs vo truong toan"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.23414548665983,
+        "lat": 11.710760051474109,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-minh-long",
+        "name": "Trường Tiểu Học Minh Long",
+        "aliases": [
+            "truong tieu hoc minh long"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.57439459777316,
+        "lat": 11.425284376924399,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-chu-van-an",
+        "name": "Trường THPT Chu Văn An",
+        "aliases": [
+            "truong thpt chu van an"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.60657798097466,
+        "lat": 11.425112824556855,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "mam-non-hanh-phuc",
+        "name": "Mầm Non Hạnh Phúc",
+        "aliases": [
+            "mam non hanh phuc"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.60877532747439,
+        "lat": 11.42190436237123,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-chon-thanh-a",
+        "name": "Trường Tiểu học Chơn Thành A",
+        "aliases": [
+            "truong tieu hoc chon thanh a"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.61671808599908,
+        "lat": 11.41820400803641,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-chon-thanh",
+        "name": "Trường THPT Chơn Thành",
+        "aliases": [
+            "truong thpt chon thanh"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.63088585951874,
+        "lat": 11.426639450511137,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-thpt-minh-hung",
+        "name": "Trường THCS & THPT Minh Hưng",
+        "aliases": [
+            "truong thcs thpt minh hung"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.61826355441957,
+        "lat": 11.466622768108447,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "thcs-tan-hiep",
+        "name": "THCS Tân Hiệp",
+        "aliases": [
+            "thcs tan hiep"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.51535691721337,
+        "lat": 11.516334112072892,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-dong-no",
+        "name": "Trường THCS Đồng Nơ",
+        "aliases": [
+            "truong thcs dong no"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.57588142365954,
+        "lat": 11.553390696670657,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "cao-dang-hoa-binh-xuan-loc",
+        "name": "Trường Cao đẳng Hòa Bình Xuân Lộc",
+        "aliases": [
+            "truong cao dang hoa binh xuan loc"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.91476281539911,
+        "lat": 10.994310763263606,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-ly-tu-trong-dong-nai",
+        "name": "Trường THCS Lý Tự Trọng - Đồng Nai",
+        "aliases": [
+            "truong thcs ly tu trong dong nai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.89079780873779,
+        "lat": 10.968871108377177,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "dai-hoc-cong-nghe-dong-nai",
+        "name": "Trường Đại Học Công Nghệ Đồng Nai",
+        "aliases": [
+            "truong dai hoc cong nghe dong nai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86873392892356,
+        "lat": 10.984414401445683,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-thcs-thpt-dinh-tien-hoang",
+        "name": "Trường Tiểu Học - Thcs - Thpt Đinh Tiên Hoàng",
+        "aliases": [
+            "truong tieu hoc thcs thpt dinh tien hoang"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.87254935543982,
+        "lat": 10.959305104768776,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-tran-bien",
+        "name": "Trường THPT Trấn Biên",
+        "aliases": [
+            "truong thpt tran bien"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86389437473693,
+        "lat": 10.952259115929877,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "trung-cap-mai-linh-phan-hieu-dong-nai",
+        "name": "Trường Trung Cấp Mai Linh (Phân hiệu Đồng Nai)",
+        "aliases": [
+            "truong trung cap mai linh phan hieu dong nai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.82646561754062,
+        "lat": 10.955175464053713,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "le-quy-don-quyet-thang",
+        "name": "Trường Tiểu học, Trung học cơ sở và Trung học phổ thông Lê Quý Đôn – Quyết Thắng",
+        "aliases": [
+            "truong le quy don quyet thang"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.82499228423086,
+        "lat": 10.9492698068164,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-thong-nhat-dong-nai",
+        "name": "Trường THCS Thống Nhất - Đồng Nai",
+        "aliases": [
+            "truong thcs thong nhat dong nai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.82801245392051,
+        "lat": 10.945659966632707,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-nam-ha",
+        "name": "Trường THPT Nam Hà",
+        "aliases": [
+            "truong thpt nam ha"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.83130498127973,
+        "lat": 10.93360073197525,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-thuc-hanh-su-pham",
+        "name": "Trường THPT Thực Hành Sư Phạm",
+        "aliases": [
+            "truong thpt thuc hanh su pham"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.8650652619884,
+        "lat": 10.932281184893501,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-chinh-tri-tinh-dong-nai",
+        "name": "Trường Chính Trị Tỉnh Đồng Nai",
+        "aliases": [
+            "truong chinh tri tinh dong nai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.86345047694313,
+        "lat": 10.933157381962605,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-long-binh",
+        "name": "Trường THCS Long Bình",
+        "aliases": [
+            "truong thcs long binh"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.87485056635704,
+        "lat": 10.939523992754982,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-phuoc-tan",
+        "name": "Trường Tiểu học Phước Tân",
+        "aliases": [
+            "truong tieu hoc phuoc tan"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.90277069588937,
+        "lat": 10.889227272310015,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-phuoc-tan-1",
+        "name": "Trường THCS Phước Tân 1",
+        "aliases": [
+            "truong thcs phuoc tan 1"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.90986682182347,
+        "lat": 10.883114699087848,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "trung-cap-phat-hoc-dong-nai",
+        "name": "Trung Cấp Phật Học Tỉnh Đồng Nai",
+        "aliases": [
+            "trung cap phat hoc tinh dong nai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.9255497711087,
+        "lat": 10.883411482461582,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "dh-tai-nguyen-moi-truong",
+        "name": "ĐH Tài Nguyên Và Môi Trường",
+        "aliases": [
+            "dh tai nguyen va moi truong"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.93930996243766,
+        "lat": 10.856977351487899,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-tam-phuoc",
+        "name": "Trường THPT Tam Phước",
+        "aliases": [
+            "truong thpt tam phuoc"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.92739739395452,
+        "lat": 10.860232476906974,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "mam-non-hoa-mi-2-an-phuoc",
+        "name": "Trường Mầm Non Họa Mi 2 - An Phước Long Thành Đồng Nai",
+        "aliases": [
+            "truong mam non hoa mi 2 an phuoc long thanh dong nai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.95201214578411,
+        "lat": 10.857791497068323,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-ngo-si-lien",
+        "name": "Trường THPT Ngô Sĩ Liên",
+        "aliases": [
+            "truong thpt ngo si lien"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.00113641175446,
+        "lat": 10.95726416949863,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-song-may",
+        "name": "Trường Tiểu học Sông Mây",
+        "aliases": [
+            "truong tieu hoc song may"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.9784662116617,
+        "lat": 10.993991430112436,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "mam-giao-thach-thao-phan-hieu-bac-hoa",
+        "name": "Trường Mẫu giáo Thạch Thảo (Phân hiệu Bắc Hòa)",
+        "aliases": [
+            "truong mau giao thach thao phan hieu bac hoa"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.96451099669572,
+        "lat": 10.954723186679951,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-dinh-tien-hoang-dong-nai",
+        "name": "Trường THCS Đinh Tiên Hoàng - Đồng Nai",
+        "aliases": [
+            "truong thcs dinh tien hoang dong nai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.9692168377037,
+        "lat": 10.942236501790838,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-th-thcs-thpt-trinh-hoai-duc",
+        "name": "Trường TH - THCS - THPT Trịnh Hoài Đức",
+        "aliases": [
+            "truong th thcs thpt trinh hoai duc"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.9853129617849,
+        "lat": 10.950874090206588,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "phan-hieu-dai-hoc-lam-nghiep",
+        "name": "Phân hiệu trường Đại học Lâm nghiệp",
+        "aliases": [
+            "phan hieu truong dai hoc lam nghiep"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.99677006871116,
+        "lat": 10.946615060738944,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-thong-nhat-a",
+        "name": "Trường THPT Thống Nhất A",
+        "aliases": [
+            "truong thpt thong nhat a"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.009531124723,
+        "lat": 10.947992765335593,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-hung-vuong",
+        "name": "Trường THCS Hùng Vương",
+        "aliases": [
+            "truong thcs hung vuong"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.01075952528701,
+        "lat": 10.946253162182193,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "cao-dang-cong-nghe-tphcm-co-so-2",
+        "name": "Trường Cao Đẳng Công Nghệ TPHCM Cơ Sở 2",
+        "aliases": [
+            "truong cao dang cong nghe tphcm co so 2"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.02013769542316,
+        "lat": 10.957495718484667,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-huynh-thuc-khang",
+        "name": "Trường THCS Huỳnh Thúc Kháng",
+        "aliases": [
+            "truong thcs huynh thuc khang"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.05051107997338,
+        "lat": 10.9562314495274,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-dan-toc-noi-tru-dong-nai",
+        "name": "Trường THPT Dân tộc Nội trú Đồng Nai",
+        "aliases": [
+            "truong thpt dan toc noi tru dong nai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.06090759709078,
+        "lat": 10.94867569841203,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-nguyen-cong-tru",
+        "name": "Trường THCS Nguyễn Công Trứ",
+        "aliases": [
+            "truong thcs nguyen cong tru"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.0621284946955,
+        "lat": 10.946111550511048,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-th-thcs-thpt-tran-quoc-tuan",
+        "name": "Trường TH- THCS - THPT TRẦN QUỐC TUẤN",
+        "aliases": [
+            "truong th thcs thpt tran quoc tuan"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.06434816125203,
+        "lat": 10.945084621018117,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-thpt-bau-ham",
+        "name": "Trường THCS-THPT Bàu Hàm",
+        "aliases": [
+            "truong thcs thpt bau ham"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.1044943445363,
+        "lat": 10.981793601450518,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-long-khanh",
+        "name": "Trường THPT Long Khánh",
+        "aliases": [
+            "truong thpt long khanh"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.2429479178625,
+        "lat": 10.927990402385293,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-mam-non-inschool",
+        "name": "Trường Mầm non Liên kết Quốc tế INschool",
+        "aliases": [
+            "truong mam non lien ket quoc te inschool"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.24481766062152,
+        "lat": 10.927651282727133,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-th-thcs-nguyen-thai-binh",
+        "name": "Trường TH & THCS Nguyễn Thái Bình",
+        "aliases": [
+            "truong th thcs nguyen thai binh"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.25020614650407,
+        "lat": 10.926457150393983,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-truong-vinh-ky",
+        "name": "Trường Tư thục Tiểu học, THCS và THPT Trương Vĩnh Ký",
+        "aliases": [
+            "truong tu thuc tieu hoc thcs thpt truong vinh ky"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.24461316377545,
+        "lat": 10.940700309359718,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-hoang-dieu",
+        "name": "Trường THPT Hoàng Diệu",
+        "aliases": [
+            "truong thpt hoang dieu"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.25861386546758,
+        "lat": 10.940938696880547,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-dinh-bo-linh",
+        "name": "Trường Tiểu học Đinh Bộ Lĩnh",
+        "aliases": [
+            "truong tieu hoc dinh bo linh"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.28934392630545,
+        "lat": 10.928698076762329,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-phu-dong",
+        "name": "Trường Tiểu học Phù Đổng",
+        "aliases": [
+            "truong tieu hoc phu dong"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.28404269559654,
+        "lat": 10.900097447727534,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-xuan-tan",
+        "name": "Trường THCS Xuân Tân - Đồng Nai",
+        "aliases": [
+            "truong thcs xuan tan dong nai",
+            "truong thcs xuan tan"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.22765962359735,
+        "lat": 10.895183043950718,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-ngo-thoi-nhiem",
+        "name": "Trường THCS Ngô Thời Nhiệm",
+        "aliases": [
+            "truong thcs ngo thoi nhiem"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.35411247494751,
+        "lat": 11.201972900267759,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-nguyen-thi-minh-khai",
+        "name": "Trường THCS Nguyễn Thị Minh Khai",
+        "aliases": [
+            "truong thcs nguyen thi minh khai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.34475928974932,
+        "lat": 11.185211086790098,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-thpt-lac-long-quan",
+        "name": "Trường THCS - THPT Lạc Long Quân",
+        "aliases": [
+            "truong thcs thpt lac long quan"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.37111184011778,
+        "lat": 11.203426537105104,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-phu-loi",
+        "name": "Trường THCS Phú Lợi",
+        "aliases": [
+            "truong thcs phu loi"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.37055649739806,
+        "lat": 11.20483985536965,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-phu-dien",
+        "name": "Trường Tiểu học Phú Điền",
+        "aliases": [
+            "truong tieu hoc phu dien"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.44409629617338,
+        "lat": 11.209487212264898,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-dong-hiep",
+        "name": "Trường THCS Đồng Hiệp",
+        "aliases": [
+            "truong thcs dong hiep"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.43911704534398,
+        "lat": 11.205984564937399,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-ton-duc-thang",
+        "name": "Trường THPT Tôn Đức Thắng",
+        "aliases": [
+            "truong thpt ton duc thang"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.38966744991991,
+        "lat": 11.369302196688688,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-ta-lai",
+        "name": "Trường THCS Tà Lài",
+        "aliases": [
+            "truong thcs ta lai"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.37889833206805,
+        "lat": 11.36680805431716,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-nguyen-trung-truc",
+        "name": "Trường Tiểu học Nguyễn Trung Trực",
+        "aliases": [
+            "truong tieu hoc nguyen trung truc"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.37888894331111,
+        "lat": 11.36766826248644,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-hiep-phuoc",
+        "name": "Trường Tiểu học Hiệp Phước",
+        "aliases": [
+            "truong tieu hoc hiep phuoc"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.94500103067014,
+        "lat": 10.74830703790083,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-phu-hoi",
+        "name": "Trường tiểu học Phú Hội",
+        "aliases": [
+            "truong tieu hoc phu hoi"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.89473381683581,
+        "lat": 10.743201225609383,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "thpt-nguyen-binh-khiem-long-thanh",
+        "name": "THPT Nguyễn Bỉnh Khiêm",
+        "aliases": [
+            "thpt nguyen binh khiem"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.89164449267048,
+        "lat": 10.719726730391908,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thcs-long-tho",
+        "name": "Trường Trung Học Cơ Sở Long Thọ",
+        "aliases": [
+            "truong trung hoc co so long tho"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.95478800595279,
+        "lat": 10.723465627033042,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-long-phuoc-long-thanh",
+        "name": "Trường Tiểu Học Long Phước",
+        "aliases": [
+            "truong tieu hoc long phuoc"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 106.98485577104847,
+        "lat": 10.731345529996329,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    },
+    {
+        "id": "truong-thpt-long-phuoc",
+        "name": "Trường THPT Long Phước",
+        "aliases": [
+            "truong thpt long phuoc"
+        ],
+        "type": "school",
+        "commune": "",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.01370850395882,
+        "lat": 10.703108776082486,
+        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
+        "images": []
+    }
+]

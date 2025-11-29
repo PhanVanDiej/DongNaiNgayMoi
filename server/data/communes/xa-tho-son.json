@@ -1,0 +1,48 @@
+{
+  "id": "xa-tho-son",
+  "name": "Xã Thọ Sơn",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 19970,
+  "area_km2": 307.69,
+  "admin_center": "Thôn Sơn Lợi, xã Thọ Sơn, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lê Thanh Hải",
+    "chairman": "Trần Văn Phương"
+  },
+  "nature": [
+    "Thác Voi (Liêng Rơót)",
+    "Trảng cỏ Bù Lach"
+  ],
+  "arteries": [
+    "Quốc lộ 14"
+  ],
+  "key_projects": [
+    "Dự án cao tốc Bắc – Nam",
+    "quy hoạch khai thác khoáng sản Bauxite"
+  ],
+  "industry_residential": [
+    "Đắk Nhau",
+    "Bom Bo",
+    "Bù Đăng",
+    "Phước Sơn",
+    "Lâm Đồng"
+  ],
+  "adjacent": [],
+  "highlights": [],
+  "specialties": [
+    "Cơm lam",
+    "Khẩu nhục",
+    "Bánh dày, bánh chưng"
+  ],
+  "products": [
+    "Hạt điều rang muối Như Hoàng",
+    "Sầu riêng",
+    "Trang phục thổ cẩm M'Nông"
+  ],
+  "coverImage": "/images/communes/xa-tho-son/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Đồng Nai, Phú Sơn và Thọ Sơn",
+  "updatedAt": ""
+}

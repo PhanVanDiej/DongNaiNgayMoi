@@ -1,0 +1,52 @@
+{
+  "id": "phuong-hang-gon",
+  "name": "Phường Hàng Gòn",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 24931,
+  "area_km2": 45.6,
+  "admin_center": "Số 56, Quốc lộ 56, phường Hàng Gòn, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nông Thanh Tuấn",
+    "chairman": "Hoàng Trọng Phương"
+  },
+  "nature": [
+    "Địa phương có thế mạnh nông sản và cảnh quan tự nhiên phát triển du lịch (hồ Cầu Dầu), vị trí chiến lược tại giao điểm giao thông"
+  ],
+  "arteries": [
+    "Quốc lộ 56",
+    "Cao tốc Dầu Giây – Phan Thiết",
+    "Quốc lộ 1A",
+    "Tuyến đường Hàng Gòn – Xuân Quế"
+  ],
+  "key_projects": [
+    "Khu công nghiệp Hàng Gòn",
+    "Cụm công nghiệp Hàng Gòn"
+  ],
+  "industry_residential": [
+    "Nông nghiệp – công nghiệp"
+  ],
+  "adjacent": [
+    "Xuân Quế",
+    "Dầu Giây",
+    "Cẩm Mỹ",
+    "Xuân Lập",
+    "Xuân Định",
+    "Long Khánh"
+  ],
+  "highlights": [
+    "Di tích khảo cổ học Mộ Cự Thạch Hàng Gòn",
+    "Hồ Cầu Dầu"
+  ],
+  "specialties": [
+    "Bánh tét truyền thống Hàng Gòn"
+  ],
+  "products": [
+    "Mật ong Minh Đào"
+  ],
+  "coverImage": "/images/communes/phuong-hang-gon/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Xuân Tân và Hàng Gòn",
+  "updatedAt": ""
+}

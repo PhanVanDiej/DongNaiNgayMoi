@@ -1,0 +1,54 @@
+{
+  "id": "xa-la-nga",
+  "name": "Xã La Ngà",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 33311,
+  "area_km2": 133.45,
+  "admin_center": "Quốc lộ 20, cây số 101, ấp 3, xã La Ngà, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trần Hữu Hạnh",
+    "chairman": "Thái Bình Dương"
+  },
+  "nature": [
+    "Xã có vị trí là “điểm dừng chân lý tưởng” cho các đoàn khách di chuyển giữa Đà Lạt và TP.HCM"
+  ],
+  "arteries": [
+    "Quốc lộ 20",
+    "Sông La Ngà"
+  ],
+  "key_projects": [
+    "Khu dân cư: 13 điểm dân cư"
+  ],
+  "industry_residential": [
+    "Phát triển thương mại – dịch vụ",
+    "Nuôi cá bè La Ngà"
+  ],
+  "adjacent": [
+    "Thanh Sơn",
+    "Trị An",
+    "Thống Nhất",
+    "Xuân Bắc",
+    "Định Quán"
+  ],
+  "highlights": [
+    "Cầu La Ngà",
+    "Đền Thủy Lâm Đồng",
+    "Làng nổi nuôi cá bè La Ngà",
+    "Panorama Glamping",
+    "Hồ Trị An"
+  ],
+  "specialties": [
+    "Khô cá kìm",
+    "Cá lóc La Ngà"
+  ],
+  "products": [
+    "Lẩu cá lá giang chua",
+    "Cơm niêu Tuyết Mai 1"
+  ],
+  "coverImage": "/images/communes/xa-la-nga/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Túc Trưng và La Ngà",
+  "updatedAt": ""
+}

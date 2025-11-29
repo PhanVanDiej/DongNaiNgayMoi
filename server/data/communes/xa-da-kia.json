@@ -1,0 +1,56 @@
+{
+  "id": "xa-da-kia",
+  "name": "Xã Đa Kia",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 31000,
+  "area_km2": 196.2,
+  "admin_center": "Thôn 4, xã Đa Kia, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lý Trọng Nhân",
+    "chairman": "Đặng Hữu Khoái"
+  },
+  "nature": [
+    "Sản xuất nông nghiệp làm chủ đạo",
+    "cộng đồng đa văn hoá 18 thành phần dân tộc"
+  ],
+  "arteries": [
+    "DT.759",
+    "DT.760"
+  ],
+  "key_projects": [
+    "Quy hoạch 2 cụm công nghiệp: Phú Nghĩa 2, Phú Nghĩa 3"
+  ],
+  "industry_residential": [
+    "Sản xuất nông nghiệp",
+    "tỷ lệ đồng bào dân tộc thiểu số cao"
+  ],
+  "adjacent": [
+    "Phước Bình",
+    "Bình Tân",
+    "Lộc Quang",
+    "Tân Tiến",
+    "Thiện Hưng",
+    "Hưng Phước",
+    "Phú Nghĩa"
+  ],
+  "highlights": [
+    "Hạt điều rang muối",
+    "Bưởi da xanh",
+    "Hoa cẩm cù"
+  ],
+  "specialties": [
+    "Cơm lam",
+    "Khô cá kìm",
+    "Canh bồi"
+  ],
+  "products": [
+    "Các sản phẩm tơ tằm",
+    "hạt điều"
+  ],
+  "coverImage": "/images/communes/xa-da-kia/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Đa Kia, Phước Minh, Bình Thắng",
+  "updatedAt": ""
+}

@@ -1,0 +1,55 @@
+{
+  "id": "xa-xuan-hoa",
+  "name": "Xã Xuân Hòa",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 78491,
+  "area_km2": 305.96,
+  "admin_center": "Ấp Xuân Tâm 3, xã Xuân Hòa, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Tạ Quang Trường",
+    "chairman": "Lê Văn Nam"
+  },
+  "nature": [
+    "Căn cứ Rừng Lá",
+    "Thánh đường Hồi giáo Masjid Nourul Ehsaa"
+  ],
+  "arteries": [
+    "Quốc lộ 1",
+    "ĐT.779"
+  ],
+  "key_projects": [
+    "Dự án cao tốc Dầu Giây – Phan Thiết",
+    "Cụm công nghiệp Xuân Hưng"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp Xuân Lộc",
+    "Cụm công nghiệp Xuân Hưng"
+  ],
+  "adjacent": [
+    "Xuân Thành",
+    "Xuân Lộc",
+    "Xuân Phú",
+    "Xuân Đông",
+    "Lâm Đồng",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Làng Chăm",
+    "Hồ Gia Ui",
+    "Hợp tác xã Xoài Suối Lớn"
+  ],
+  "specialties": [
+    "Trái xoài xanh Hợp tác xã Xoài Suối Lớn",
+    "Hạt điều rang muối",
+    "Chuối hột rừng Nguyên Lê"
+  ],
+  "products": [
+    "Đang cập nhật"
+  ],
+  "coverImage": "/images/communes/xa-xuan-hoa/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Xuân Hòa, Xuân Hưng, Xuân Tâm",
+  "updatedAt": ""
+}

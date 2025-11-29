@@ -1,0 +1,49 @@
+{
+  "id": "xa-minh-duc",
+  "name": "Xã Minh Đức",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 16940,
+  "area_km2": 167,
+  "admin_center": "Tổ 6, ấp 2, xã Minh Đức, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trần Văn Phương",
+    "chairman": "Huỳnh Văn Minh"
+  },
+  "nature": [
+    "Đang cập nhật"
+  ],
+  "arteries": [
+    "ĐT752",
+    "ĐT246"
+  ],
+  "key_projects": [
+    "Khu công nghiệp Minh Đức",
+    "Nhà máy xi măng Minh Tâm"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp Minh Đức",
+    "cụm dân cư Minh Đức"
+  ],
+  "adjacent": [
+    "Tân Khai",
+    "Bình Long",
+    "An Lộc",
+    "Lộc Thạnh",
+    "Tây Ninh"
+  ],
+  "highlights": [
+    "Chùa Đức Minh cổ tự"
+  ],
+  "specialties": [
+    "Đang cập nhật"
+  ],
+  "products": [
+    "Tiêu hữu cơ Tiến Năng"
+  ],
+  "coverImage": "/images/communes/xa-minh-duc/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Minh Đức, Minh Tâm và An Phú",
+  "updatedAt": ""
+}

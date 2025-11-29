@@ -1,0 +1,59 @@
+{
+  "id": "xa-long-thanh",
+  "name": "Xã Long Thành",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 93006,
+  "area_km2": 130.12,
+  "admin_center": "Số 01, đường Lê Hồng Phong, xã Long Thành, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Dương Minh Dũng",
+    "chairman": "Lê Hoàng Sơn"
+  },
+  "nature": [
+    "Trung tâm kinh tế năng động, gắn với Cảng hàng không quốc tế Long Thành"
+  ],
+  "arteries": [
+    "Quốc lộ 51",
+    "Cao tốc Biên Hòa – Vũng Tàu",
+    "Cao tốc TP.HCM – Long Thành – Dầu Giây",
+    "Đường 25B",
+    "25C",
+    "769",
+    "Tuyến đường T1, T2",
+    "ĐT.769"
+  ],
+  "key_projects": [
+    "Khu công nghiệp Lộc An – Bình Sơn",
+    "Khu công nghiệp công nghệ cao Long Thành"
+  ],
+  "industry_residential": [
+    "Công nghiệp – dịch vụ"
+  ],
+  "adjacent": [
+    "An Phước",
+    "Bình An",
+    "Xuân Quế",
+    "Xuân Dương",
+    "Long Phước",
+    "Nhơn Trạch"
+  ],
+  "highlights": [
+    "Căn cứ Tỉnh ủy Biên Hòa U3",
+    "Đình Phước Lộc",
+    "Công viên Vườn Dầu",
+    "Hồ Bàu Cạn – Bình Sơn"
+  ],
+  "specialties": [
+    "Rượu nếp than Long An",
+    "Cá rô kho tộ"
+  ],
+  "products": [
+    "Cháo sen Lộc An"
+  ],
+  "coverImage": "/images/communes/xa-long-thanh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Long An, Lộc An, Bình Sơn và thị trấn Long Thành",
+  "updatedAt": ""
+}

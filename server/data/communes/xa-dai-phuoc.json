@@ -1,0 +1,45 @@
+{
+  "id": "xa-dai-phuoc",
+  "name": "Xã Đại Phước",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 55364,
+  "area_km2": 98.02,
+  "admin_center": "Ấp Thái Cầu, xã Đại Phước, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thế Phong",
+    "chairman": "Hồ Quốc Tân"
+  },
+  "nature": [
+    "Di tích lịch sử Địa điểm vụ thảm sát Gióng Sắn"
+  ],
+  "arteries": [
+    "Đường Tóc Bến Lức – Long Thành",
+    "ĐT.769"
+  ],
+  "key_projects": [
+    "17 dự án khu dân cư đang triển khai",
+    "KCN Ông Kèo",
+    "Đường liên cảng"
+  ],
+  "industry_residential": [
+    "Phước An",
+    "Nhơn Trạch",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "adjacent": [
+    "Làng du lịch Tre Việt",
+    "Khu du lịch sinh thái Bò Cạp Vàng"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Gà nướng thố đất",
+    "Cơm gà xé Phú Đông"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/xa-dai-phuoc/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phú Hữu, Phú Đông, Đại Phước, Phước Khánh",
+  "updatedAt": ""
+}

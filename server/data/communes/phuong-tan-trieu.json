@@ -1,0 +1,54 @@
+{
+  "id": "phuong-tan-trieu",
+  "name": "Phường Tân Triều",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 128730,
+  "area_km2": 63.29,
+  "admin_center": "Số 657, DT768, khu phố Bình Thanh, phường Tân Triều, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Quang Phương",
+    "chairman": "Lê Nguyễn Song Toàn"
+  },
+  "nature": [
+    "Nhà bia thành lập Chi bộ cộng sản Bình Phước - Tân Triều",
+    "Bảo tàng Đồng Nai",
+    "Các di tích lịch sử cấp tỉnh"
+  ],
+  "arteries": [
+    "Đường Nguyễn Ái Quốc",
+    "DT768",
+    "cầu Bạch Đằng",
+    "Quốc lộ 1",
+    "Quốc lộ 51"
+  ],
+  "key_projects": [
+    "Khu công nghiệp Thanh Phú",
+    "3 khu nhà ở xã hội (quy hoạch giai đoạn 17ha)"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp Thanh Phú",
+    "khu dân cư Bình Lợi, Bình Thanh"
+  ],
+  "adjacent": [
+    "Trảng Dài",
+    "Tân Hiệp",
+    "Thành phố Hồ Chí Minh",
+    "Long Bình"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Gỏi bưởi Tân Triều",
+    "Bánh đúc chợ Tân Phong",
+    "Gà hấp trái bưởi"
+  ],
+  "products": [
+    "Bưởi Tân Triều",
+    "các sản phẩm OCOP từ bưởi"
+  ],
+  "coverImage": "/images/communes/phuong-tan-trieu/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tân Phong, Tân Bình, Bình Lợi, Thạnh Phú",
+  "updatedAt": ""
+}

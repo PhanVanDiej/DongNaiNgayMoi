@@ -1,0 +1,53 @@
+{
+  "id": "xa-tan-hung",
+  "name": "Xã Tân Hưng",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 35498,
+  "area_km2": 204.66,
+  "admin_center": "Ấp 5, xã Tân Hưng, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Mạc Đình Huấn",
+    "chairman": "Nguyễn Vũ Tiến"
+  },
+  "nature": [
+    "Đình thần Thanh An",
+    "Thành đất hình tròn Tân Hưng 3"
+  ],
+  "arteries": [
+    "ĐT.756",
+    "ĐT.757",
+    "ĐT.758 và đường sông"
+  ],
+  "key_projects": [
+    "Dự án khu đô thị – dịch vụ – công nghiệp An Khương",
+    "vùng sản xuất nông nghiệp công nghệ cao"
+  ],
+  "industry_residential": [
+    "An Lộc",
+    "Lộc Hưng",
+    "Lộc Quang",
+    "Tân Quan",
+    "Nha Bích",
+    "Bình Tân",
+    "Thuận Lợi",
+    "Long Hà"
+  ],
+  "adjacent": [
+    "Khu du lịch sinh thái Thanh Tùng",
+    "Hồ Sóc Xiêm"
+  ],
+  "highlights": [],
+  "specialties": [],
+  "products": [
+    "Gạo ruộng An Khương",
+    "Hạt điều Nhân Sang",
+    "Cà phê Nhâm Nhung",
+    "Yến sào rắn Minh Thắng"
+  ],
+  "coverImage": "/images/communes/xa-tan-hung/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tân Hưng, Thanh An, An Khương",
+  "updatedAt": ""
+}

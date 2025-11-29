@@ -1,0 +1,53 @@
+{
+  "id": "phuong-long-khanh",
+  "name": "Phường Long Khánh",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 77070,
+  "area_km2": 21.32,
+  "admin_center": "Đường Cách Mạng Tháng Tám, phường Long Khánh, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Đặng Minh Nguyệt",
+    "chairman": "Tăng Quốc Lập"
+  },
+  "nature": [
+    "Tượng đài Chiến thắng Long Khánh",
+    "Đại Chủng viện Thánh Giuse Xuân Lộc"
+  ],
+  "arteries": [
+    "Tuyến đường sắt Bắc – Nam",
+    "Đường 21 Tháng 4"
+  ],
+  "key_projects": [
+    "Đường cao tốc TP.HCM – Long Thành – Dầu Giây",
+    "Cao tốc Phan Thiết – Dầu Giây",
+    "Quốc lộ 20",
+    "Quốc lộ 1A"
+  ],
+  "industry_residential": [
+    "Phát triển mạnh ngành công nghiệp – dịch vụ",
+    "khu vực trung tâm của cửa ngõ phía Đông tỉnh Đồng Nai"
+  ],
+  "adjacent": [
+    "Bảo Vinh",
+    "Bình Lộc",
+    "Xuân Lập",
+    "Hàng Gòn",
+    "Xuân Định",
+    "Xuân Lộc"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Mít tố nữ Long Khánh",
+    "Bánh căn cô Nguyệt"
+  ],
+  "products": [
+    "Mít tố nữ",
+    "Bánh căn cô Nguyệt"
+  ],
+  "coverImage": "/images/communes/phuong-long-khanh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Xuân An, Xuân Bình, Xuân Hòa, Phú Bình và Bàu Trâm",
+  "updatedAt": ""
+}

@@ -1,0 +1,49 @@
+{
+  "id": "xa-thien-hung",
+  "name": "Xã Thiện Hưng",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 35041,
+  "area_km2": 111,
+  "admin_center": "Đường Lê Hồng Phong, xã Thiện Hưng, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Đặng Hà Giang",
+    "chairman": "Nguyễn Minh Phong"
+  },
+  "nature": [
+    "Căn cứ Sở Nhỏ - Ban An ninh Bình Phước"
+  ],
+  "arteries": [
+    "ĐT.757",
+    "ĐT.759B"
+  ],
+  "key_projects": [
+    "Sản phẩm yến sào Bảo Ngân",
+    "Sản phẩm yến sào, hạt điều Quang Huy"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Tân Tiến",
+    "Hưng Phước",
+    "Đa Kia",
+    "Vương quốc Campuchia"
+  ],
+  "highlights": [
+    "Khu dân cư biên giới ấp 3",
+    "Nhà máy Thủy điện Cần Đơn"
+  ],
+  "specialties": [
+    "Thịt bò BBB"
+  ],
+  "products": [
+    "Yến sào Bảo Ngân",
+    "Yến sào Quang Huy"
+  ],
+  "coverImage": "/images/communes/xa-thien-hung/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Thiện Hưng, Thanh Hòa và Thanh Bình",
+  "updatedAt": ""
+}

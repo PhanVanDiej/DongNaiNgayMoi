@@ -1,0 +1,55 @@
+{
+  "id": "xa-tan-khai",
+  "name": "Xã Tân Khai",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 36140,
+  "area_km2": 161.8,
+  "admin_center": "Thôn 1, xã Tân Khai, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Quách Thị Ánh",
+    "chairman": "Nguyễn Tín Nghĩa"
+  },
+  "nature": [
+    "Địa đầu mối kết nối tỉnh",
+    "tiềm năng du lịch nông nghiệp xanh"
+  ],
+  "arteries": [
+    "Quốc lộ 13",
+    "ĐT.756"
+  ],
+  "key_projects": [
+    "Khu công nghiệp Minh Hưng – Sikico",
+    "Tân Khai II"
+  ],
+  "industry_residential": [
+    "Phát triển du lịch sinh thái",
+    "nông trại xanh"
+  ],
+  "adjacent": [
+    "Minh Đức",
+    "Tân Quang",
+    "Phước Bình Long",
+    "Minh Hưng",
+    "Thành phố HCM",
+    "Tây Ninh"
+  ],
+  "highlights": [
+    "Chốt chặn Tàu Ô",
+    "Đình thần Tân Khai",
+    "Nông trại Phú Gia"
+  ],
+  "specialties": [
+    "Cơm lam",
+    "Các món S’tiêng"
+  ],
+  "products": [
+    "Rượu S’tiêng sâm bố chính",
+    "Chuối hột rừng"
+  ],
+  "coverImage": "/images/communes/xa-tan-khai/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tân Khai, Đồng Nơ, Tân Hiệp",
+  "updatedAt": ""
+}

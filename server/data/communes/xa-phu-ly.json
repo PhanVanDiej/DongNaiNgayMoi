@@ -1,0 +1,53 @@
+{
+  "id": "xa-phu-ly",
+  "name": "Xã Phú Lý",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 15992,
+  "area_km2": 279,
+  "admin_center": "Đường ĐT.761, ấp 1, xã Phú Lý, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thanh Tuyền",
+    "chairman": "Nguyễn Thị Thanh Phương"
+  },
+  "nature": [
+    "Làng dân tộc Choro Lý Lịch",
+    "Lễ hội Sayangva",
+    "Đường hoa dài hơn 30km"
+  ],
+  "arteries": [
+    "Đường ĐT.761",
+    "hệ thống đường thủy hồ Trị An"
+  ],
+  "key_projects": [
+    "Đang cập nhật"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Phước Sơn",
+    "Tân Lợi",
+    "Trị An",
+    "Thanh Sơn",
+    "Đak Lua"
+  ],
+  "highlights": [
+    "Chùa Bửu Đức",
+    "Khu bảo tồn thiên nhiên – văn hóa Đồng Nai",
+    "Nhà thờ Giáo xứ Phú Lý",
+    "Nhà dài Choro"
+  ],
+  "specialties": [
+    "Cơm lam, gà nướng",
+    "Lẩu cá rau rừng"
+  ],
+  "products": [
+    "Đang cập nhật"
+  ],
+  "coverImage": "/images/communes/xa-phu-ly/cover.jpg",
+  "gallery": [],
+  "note": "Không sắp xếp theo Nghị quyết 1662/NQ-UBTVQH15",
+  "updatedAt": ""
+}

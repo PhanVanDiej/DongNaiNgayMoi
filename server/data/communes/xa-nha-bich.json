@@ -1,0 +1,57 @@
+{
+  "id": "xa-nha-bich",
+  "name": "Xã Nha Bích",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 22278,
+  "area_km2": 137.1,
+  "admin_center": "Quốc lộ 14, ấp Minh Thắng 4, xã Nha Bích, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Trung Dũng",
+    "chairman": "Nguyễn Hồng Thái"
+  },
+  "nature": [
+    "Chùa Bồ Đề",
+    "Hồ Phước Hòa"
+  ],
+  "arteries": [
+    "Sen nối kết giao thông",
+    "Quốc lộ 14",
+    "Cao tốc Gia Nghĩa – Chơn Thành",
+    "ĐT.756",
+    "ĐT.756B",
+    "ĐT.756C"
+  ],
+  "key_projects": [
+    "Khu công nghiệp Minh Lập mở rộng",
+    "Khu dân cư Nha Bích (quy hoạch)"
+  ],
+  "industry_residential": [
+    "Cụm công nghiệp Nha Bích và dịch vụ thương mại"
+  ],
+  "adjacent": [
+    "Chơn Thành",
+    "Minh Hưng",
+    "Tân Quan",
+    "Tân Hưng",
+    "Thuận Lợi",
+    "Đồng Xoài",
+    "TP. Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Hồ Phước Hòa",
+    "Đường vành đai Cầu Nha Bích"
+  ],
+  "specialties": [
+    "Hủ tiếu Minh Huệ",
+    "Ẩm thực truyền thống Khmer – S’tiêng"
+  ],
+  "products": [
+    "Sản phẩm truyền thống và đặc sản địa phương"
+  ],
+  "coverImage": "/images/communes/xa-nha-bich/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Minh Lập, Minh Thắng, Nha Bích",
+  "updatedAt": ""
+}

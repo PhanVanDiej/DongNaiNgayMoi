@@ -1,0 +1,54 @@
+{
+  "id": "phuong-phuoc-long",
+  "name": "Phường Phước Long",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 33145,
+  "area_km2": 71.87,
+  "admin_center": "Đường Đinh Tiên Hoàng, khu phố Thác Mơ 3, phường Phước Long, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thị Hương Giang",
+    "chairman": "Nguyễn Khắc Hạnh"
+  },
+  "nature": [
+    "Hệ thống di tích lịch sử – danh lam thắng cảnh",
+    "cảnh quan đồi núi, hồ tự nhiên"
+  ],
+  "arteries": [
+    "Hồ Long Thủy – Hồ Thác Mơ – Núi Bà Rá – Thác Mơ"
+  ],
+  "key_projects": [
+    "Phát triển đô thị hiện đại",
+    "dự án du lịch – thương mại – nông nghiệp CN cao",
+    "quy hoạch vùng đệm Bà Rá"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Phước Bình",
+    "Phú Trung",
+    "Phú Nghĩa",
+    "các khoản kết nối Bà Rá – Thác Mơ"
+  ],
+  "highlights": [
+    "Hồ Long Thủy",
+    "Bảo tàng Chiến thắng Đường 14 – Phước Long",
+    "Hồ Thác Mơ",
+    "Núi Bà Rá – Thác Mơ"
+  ],
+  "specialties": [
+    "Cơm tấm Phước Bình",
+    "bánh canh cô Nguyệt"
+  ],
+  "products": [
+    "Hạt điều rang muối Thiện Tâm",
+    "Bơ ông Hoàng",
+    "Sầu riêng Ba Đảo"
+  ],
+  "coverImage": "/images/communes/phuong-phuoc-long/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Thác Mơ, Long Thủy, Sơn Giang, Phước Tín",
+  "updatedAt": ""
+}

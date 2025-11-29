@@ -1,0 +1,53 @@
+{
+  "id": "phuong-tam-phuoc",
+  "name": "Phường Tam Phước",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 48313,
+  "area_km2": 45.09,
+  "admin_center": "Quốc lộ 51, khu phố Long Đức 3, phường Tam Phước, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thị Phương",
+    "chairman": "Vũ Quốc Thái"
+  },
+  "nature": [
+    "Trung tâm công nghiệp trọng điểm của tỉnh"
+  ],
+  "arteries": [
+    "Quốc lộ 51",
+    "Cao tốc Biên Hòa – Vũng Tàu"
+  ],
+  "key_projects": [
+    "Khu công nghiệp Tam Phước",
+    "Cụm công nghiệp Đốc 47"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp – dịch vụ"
+  ],
+  "adjacent": [
+    "Phước Tân",
+    "An Phước",
+    "Long Hưng",
+    "An Viễn",
+    "Trảng Bom"
+  ],
+  "highlights": [
+    "Ngã ba Thái Lan",
+    "Lễ hội đình Tam Phước",
+    "Trường Sĩ quan Lục quân 2",
+    "Chùa Di Lặc",
+    "Chợ Tam Phước"
+  ],
+  "specialties": [
+    "Dê Tam Phước",
+    "Phở Phương"
+  ],
+  "products": [
+    "Dung quán bún chả"
+  ],
+  "coverImage": "/images/communes/phuong-tam-phuoc/cover.jpg",
+  "gallery": [],
+  "note": "Một trong 7 đơn vị hành chính cấp xã không thực hiện sắp xếp theo NQ 1662/NQ-UBTVQH15",
+  "updatedAt": ""
+}

@@ -1,0 +1,49 @@
+{
+  "id": "xa-long-phuoc",
+  "name": "Xã Long Phước",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 42453,
+  "area_km2": 81.83,
+  "admin_center": "Ấp Phước Hòa, xã Long Phước, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Dương Thị Mỹ Châu",
+    "chairman": "Trần Văn Thân"
+  },
+  "nature": [],
+  "arteries": [
+    "Quốc lộ 51",
+    "Cao tốc Biên Hòa - Vũng Tàu",
+    "ĐT.770B",
+    "Tuyến đường Phước Bình - Bàu Cạn - Cẩm Đường"
+  ],
+  "key_projects": [
+    "Trung tâm thương mại, logistics",
+    "Các dự án công trình văn hoá - tâm linh",
+    "Thu hút đầu tư FDI, phát triển kinh tế xanh"
+  ],
+  "industry_residential": [
+    "Cụm công nghiệp Long Phước 1",
+    "Khu công nghiệp Bàu Cạn - Tân Hiệp"
+  ],
+  "adjacent": [
+    "Long Thành",
+    "Nhơn Trạch",
+    "Phước Thái",
+    "Xuân Đường"
+  ],
+  "highlights": [
+    "Khu di tích lịch sử Nguyễn Đức Ứng và 27 nghĩa binh",
+    "Chùa Quốc Ân Khải Tường"
+  ],
+  "specialties": [
+    "Gà ta nướng muối ớt",
+    "Cá đồng kho tộ Long Phước"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/xa-long-phuoc/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Long Phước và Bàu Cạn",
+  "updatedAt": ""
+}

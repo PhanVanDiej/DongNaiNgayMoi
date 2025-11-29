@@ -1,0 +1,51 @@
+{
+  "id": "phuong-phuoc-binh",
+  "name": "Phường Phước Bình",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 44771,
+  "area_km2": 72.57,
+  "admin_center": "Khu phố 5, phường Phước Bình, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Huỳnh Thị Thùy Trang",
+    "chairman": "Nguyễn Văn Dũng"
+  },
+  "nature": [
+    "Tài nguyên đất nông nghiệp lớn"
+  ],
+  "arteries": [
+    "ĐT.741",
+    "ĐT.754",
+    "ĐT.759"
+  ],
+  "key_projects": [
+    "Phát triển công nghiệp chế biến điều"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp chế biến điều",
+    "Cụm dân cư đô thị"
+  ],
+  "adjacent": [
+    "Phước Long",
+    "Phú Nghĩa",
+    "Đa Kia",
+    "Bình Tân",
+    "Phú Trung"
+  ],
+  "highlights": [
+    "Quảng trường 6-1",
+    "Công viên giải trí CoCoPark"
+  ],
+  "specialties": [
+    "Sầu riêng Bình Sơn",
+    "Điều rang muối Đất Đỏ"
+  ],
+  "products": [
+    "Bộ sản phẩm hạt điều Vinahe"
+  ],
+  "coverImage": "/images/communes/phuong-phuoc-binh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phước Bình, Long Phước, Long Giang, Bình Sơn",
+  "updatedAt": ""
+}

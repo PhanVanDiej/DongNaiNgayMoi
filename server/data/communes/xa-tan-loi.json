@@ -1,0 +1,58 @@
+{
+  "id": "xa-tan-loi",
+  "name": "Xã Tân Lợi",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 13213,
+  "area_km2": 379.78,
+  "admin_center": "Ấp Đồng Xê, xã Tân Lợi, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Dương Thanh Huân",
+    "chairman": "Lê Văn Trân"
+  },
+  "nature": [
+    "Hệ sinh thái rừng phong phú",
+    "Quần thể 162 cây cổ thụ được công nhận Cây di sản Việt Nam"
+  ],
+  "arteries": [
+    "Tuyến ĐT.753",
+    "Cao tốc Gia Nghĩa – Chơn Thành",
+    "Đường Đồng Phú – Bình Dương",
+    "Mở rộng ĐT.753",
+    "Cầu Mã Đà"
+  ],
+  "key_projects": [
+    "KCN Tân Hưng",
+    "KCN Đồng Nam Đồng Phú",
+    "KDC ấp Thạch Màng"
+  ],
+  "industry_residential": [
+    "Nông nghiệp chủ lực (90%)",
+    "Cây lâm nghiệp",
+    "Thương mại dịch vụ"
+  ],
+  "adjacent": [
+    "Tri An",
+    "Phú Lý",
+    "Đồng Tâm",
+    "Đồng Phú",
+    "Bình Phước",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Khu quần thể Cây di sản Việt Nam (Tiểu khu 379)"
+  ],
+  "specialties": [
+    "Bánh khảo",
+    "Khâu nhục"
+  ],
+  "products": [
+    "Cây di sản",
+    "Nông sản rừng"
+  ],
+  "coverImage": "/images/communes/xa-tan-loi/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tân Hưng, Tân Lợi, Tân Hòa",
+  "updatedAt": ""
+}

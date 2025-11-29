@@ -1,0 +1,55 @@
+{
+  "id": "phuong-tran-bien",
+  "name": "Phường Trần Biên",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 197060,
+  "area_km2": 31.03,
+  "admin_center": "Số 75, đường Hùng Đạo Vương, phường Trần Biên, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Hồ Văn Nam",
+    "chairman": "Nguyễn Duy Tân"
+  },
+  "nature": [
+    "“Siêu phường” đông dân nhất, trung tâm chính trị – kinh tế – văn hóa – khoa học – công nghệ của tỉnh Đồng Nai"
+  ],
+  "arteries": [
+    "Quốc lộ 1",
+    "Quốc lộ 51",
+    "Tuyến đường sắt Bắc – Nam"
+  ],
+  "key_projects": [
+    "Dự án trọng điểm: Đường ven sông Đồng Nai, đường trục trung tâm đoạn từ Võ Thị Sáu đến Đặng Văn Trơn"
+  ],
+  "industry_residential": [
+    "Trung tâm hành chính – kinh tế – văn hóa"
+  ],
+  "adjacent": [
+    "Biên Hòa",
+    "Tam Triều",
+    "Tam Hiệp",
+    "Long Bình",
+    "Long Hưng"
+  ],
+  "highlights": [
+    "Thất Phủ Cổ Miếu",
+    "Văn miếu Trấn Biên",
+    "Cầu Ghềnh",
+    "Công viên Biên Hùng",
+    "Chợ Biên Hòa",
+    "Khu du lịch Bửu Long"
+  ],
+  "specialties": [
+    "Lẩu tôm 5 Ri",
+    "Chả lụi Biên Hòa"
+  ],
+  "products": [
+    "Hột vịt lộn Thu Hà",
+    "Bánh xèo chợ Kỷ Niệm"
+  ],
+  "coverImage": "/images/communes/phuong-tran-bien/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Bửu Long, Quang Vinh, Trung Dũng, Thống Nhất, Hiệp Hòa và An Bình",
+  "updatedAt": ""
+}

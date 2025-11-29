@@ -1,0 +1,58 @@
+{
+  "id": "xa-cam-my",
+  "name": "Xã Cẩm Mỹ",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 45728,
+  "area_km2": 113.14,
+  "admin_center": "Ấp Suối Cả, xã Cẩm Mỹ, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Đỗ Khôi Nguyên",
+    "chairman": "Nguyễn Đại Thắng"
+  },
+  "nature": [
+    "Xã có nền tảng phát triển đồng bộ, vững chắc từ khi thành lập",
+    "100% đơn vị thành phần đạt chuẩn trước sáp nhập"
+  ],
+  "arteries": [
+    "Quốc lộ 56",
+    "Cao tốc Dầu Giây – Phan Thiết",
+    "ĐT.773",
+    "ĐT.765B",
+    "ĐT.764"
+  ],
+  "key_projects": [
+    "CCN Long Giao",
+    "Khu tái định cư xã Nhân Nghĩa (dự án)"
+  ],
+  "industry_residential": [
+    "Công nghiệp – thương mại – dịch vụ"
+  ],
+  "adjacent": [
+    "Sông Ray",
+    "Xuân Dương",
+    "Xuân Quế",
+    "Xuân Định",
+    "Xuân Đông",
+    "phường Hàng Gòn",
+    "TP.HCM"
+  ],
+  "highlights": [
+    "Hồ Suối Vọng",
+    "Điểm du lịch Đồi Sơn Thủy"
+  ],
+  "specialties": [
+    "Com tấm Minh Quân",
+    "Gà nướng",
+    "Bánh canh chả cá giòn"
+  ],
+  "products": [
+    "Tiêu",
+    "Sầu riêng"
+  ],
+  "coverImage": "/images/communes/xa-cam-my/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Nhân Nghĩa, Xuân Mỹ, Bảo Bình và Long Giao",
+  "updatedAt": ""
+}

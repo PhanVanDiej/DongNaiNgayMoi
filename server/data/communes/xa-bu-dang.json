@@ -1,0 +1,51 @@
+{
+  "id": "xa-bu-dang",
+  "name": "Xã Bù Đăng",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "2025-07-01",
+  "population": 28862,
+  "area_km2": 156.14,
+  "admin_center": "Trung tâm Phục vụ hành chính công (xã Bù Đăng)",
+  "leaders": {
+    "partySecretary": "Vũ Lương",
+    "chairman": "Nguyễn Thanh Tùng"
+  },
+  "nature": [
+    "Thiên nhiên Bù Đăng nổi bật với cảnh quan hùng vĩ, đa dạng, trong đó nổi bật là các rừng cao su bạt ngàn với những hàng cây thẳng tắp, tạo nên khung cảnh lãng mạn và thích hợp để chụp ảnh, dã ngoại.",
+    "Ngoài ra, địa điểm này còn là nơi du khách có thể khám phá các giá trị văn hóa và lịch sử của cộng đồng địa phương, hòa mình vào thiên nhiên tươi đẹp của Bình Phước. "
+  ],
+  "arteries": [
+    "QL.14",
+    "DT.760"
+  ],
+  "key_projects": [
+    "Phát triển đô thị – dân cư tại địa bàn",
+    "Các dự án giao thông kết nối vùng"
+  ],
+  "industry_residential": [
+    "CCN Minh Hưng 1",
+    "CCN Minh Hưng 2"
+  ],
+  "adjacent": [
+    "Phước Sơn",
+    "Nghĩa Trung",
+    "Bom Bo",
+    "Thọ Sơn"
+  ],
+  "highlights": [
+    "Thác Đứng"
+  ],
+  "specialties": [
+    "Canh thục",
+    "Cơm lam"
+  ],
+  "products": [
+    "Yến sào",
+    "Măng cụt"
+  ],
+  "coverImage": "/images/communes/xa-bu-dang/cover.jpg",
+  "gallery": [],
+  "note": "",
+  "updatedAt": "2025-11-12"
+}

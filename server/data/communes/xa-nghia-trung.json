@@ -1,0 +1,52 @@
+{
+  "id": "xa-nghia-trung",
+  "name": "Xã Nghĩa Trung",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 32897,
+  "area_km2": 222.04,
+  "admin_center": "Thôn 14, xã Nghĩa Trung, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Võ Thị Anh Đào",
+    "chairman": "Nguyễn Văn Lưu"
+  },
+  "nature": [
+    "Chùa Đức Bổn A Lan Nhã",
+    "cảnh quan rừng và hồ tự nhiên"
+  ],
+  "arteries": [
+    "Cao tốc Gia Nghĩa – Chơn Thành",
+    "Quốc lộ 14",
+    "ĐT755"
+  ],
+  "key_projects": [
+    "Thụ phủ sầu riêng Nghĩa Trung",
+    "phát triển nông nghiệp VietGAP",
+    "khai thác bauxite"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Thác Mơ",
+    "Đồng Tâm",
+    "Phước Sơn",
+    "Bù Đăng",
+    "Phú Trung"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Đọt mây nướng",
+    "Canh thụ",
+    "Lá nhíp xào"
+  ],
+  "products": [
+    "Sầu riêng",
+    "Hạt điều"
+  ],
+  "coverImage": "/images/communes/xa-nghia-trung/cover.jpg",
+  "gallery": [],
+  "note": "",
+  "updatedAt": ""
+}

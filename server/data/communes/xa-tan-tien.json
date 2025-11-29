@@ -1,0 +1,48 @@
+{
+  "id": "xa-tan-tien",
+  "name": "Xã Tân Tiến",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 30160,
+  "area_km2": 147.47,
+  "admin_center": "Đường DT 759B, thôn Tân Hiệp, xã Tân Tiến, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thị Hoài Thanh",
+    "chairman": "Văn Công Danh"
+  },
+  "nature": [
+    "Khu di chỉ Bãi Tiên"
+  ],
+  "arteries": [
+    "DT.759B"
+  ],
+  "key_projects": [
+    "Khu thương mại – Dịch vụ – Công nghiệp cửa khẩu Tân Tiến",
+    "Dự án mới gọi đầu tư: Khu thương mại – Dịch vụ – Công nghiệp cửa khẩu Tân Tiến"
+  ],
+  "industry_residential": [
+    "Thiện Hưng",
+    "Lộc Thạnh",
+    "Lộc Tân",
+    "Lộc Quang",
+    "Đa Kia",
+    "Vương quốc Campuchia"
+  ],
+  "adjacent": [],
+  "highlights": [],
+  "specialties": [
+    "Canh bồi",
+    "Canh thụt của đồng bào S’tiêng"
+  ],
+  "products": [
+    "Lúa gạo Sóc Nê",
+    "Hạt điều rang muối Fresh Food Bình Phước",
+    "Sản phẩm mây tre đan – gửi – đơ vót của đồng bào S’tiêng",
+    "Cà phê đặc sản Bù Đốp"
+  ],
+  "coverImage": "/images/communes/xa-tan-tien/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tân Tiến; Tân Thành; Lộc An",
+  "updatedAt": ""
+}

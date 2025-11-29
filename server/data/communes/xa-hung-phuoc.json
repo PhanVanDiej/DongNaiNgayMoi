@@ -1,0 +1,51 @@
+{
+  "id": "xa-hung-phuoc",
+  "name": "Xã Hưng Phước",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 12286,
+  "area_km2": 187.18,
+  "admin_center": "Ấp A, xã Hưng Phước, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trịnh Tiến Tâm",
+    "chairman": "Nguyễn Công Danh"
+  },
+  "nature": [
+    "Địa điểm thảm sát Bù Đốp"
+  ],
+  "arteries": [
+    "ĐT.759B"
+  ],
+  "key_projects": [
+    "Đập M26",
+    "đập Bù Tam"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Thiện Hưng",
+    "Phú Nghĩa",
+    "Đa Kia",
+    "Đắk Ơ",
+    "Vương quốc Campuchia"
+  ],
+  "highlights": [
+    "Cửa khẩu Hoàng Diệu",
+    "Cột mốc 65 (2)",
+    "Nhà bia tưởng niệm nạn nhân bị sát hại trong chiến tranh biên giới Tây Nam"
+  ],
+  "specialties": [
+    "Tiêu",
+    "điều",
+    "cao su"
+  ],
+  "products": [
+    "Đang cập nhật"
+  ],
+  "coverImage": "/images/communes/xa-hung-phuoc/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Hưng Phước và Phước Thiện",
+  "updatedAt": ""
+}

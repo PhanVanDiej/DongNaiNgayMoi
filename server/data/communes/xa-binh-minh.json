@@ -1,0 +1,48 @@
+{
+  "id": "xa-binh-minh",
+  "name": "Xã Bình Minh",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 107663,
+  "area_km2": 36679,
+  "admin_center": "Quốc lộ 1A, ấp Tân Thành, xã Bình Minh, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Kim Phước",
+    "chairman": "Trần Đức Hòa"
+  },
+  "nature": [],
+  "arteries": [],
+  "key_projects": [
+    "Quốc lộ 1A",
+    "Võ Nguyên Giáp",
+    "ĐT.767",
+    "ĐT.778"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp Sông Mây",
+    "Khu công nghiệp Hố Nai",
+    "Cụm làng nghề mỹ nghệ Bình Minh"
+  ],
+  "adjacent": [
+    "Trảng Bom",
+    "Phước Tân",
+    "Hố Nai",
+    "Tân An"
+  ],
+  "highlights": [
+    "Khu sinh thái ven hồ Sông Mây"
+  ],
+  "specialties": [
+    "Bánh bèo Nhớ",
+    "Lẩu bò Ông Đốc",
+    "Lẩu pheo Tân Bình"
+  ],
+  "products": [
+    "7 sản phẩm OCOP về thủ công mỹ nghệ"
+  ],
+  "coverImage": "/images/communes/xa-binh-minh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Bình Minh và Bắc Sơn",
+  "updatedAt": ""
+}

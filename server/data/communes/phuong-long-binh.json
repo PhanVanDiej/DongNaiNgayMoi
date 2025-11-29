@@ -1,0 +1,62 @@
+{
+  "id": "phuong-long-binh",
+  "name": "Phường Long Bình",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 168614,
+  "area_km2": 44.91,
+  "admin_center": "Số 68, Thân Nhân Trung, khu phố 8, phường Long Bình, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thị Thu Hiền",
+    "chairman": "Hồ Sỹ Tiến"
+  },
+  "nature": [
+    "Nghĩa trang Liệt sĩ tỉnh Đồng Nai",
+    "Làng nghề gò thùng Kim Bích",
+    "Nhiều nhà thờ Công giáo kiến trúc đa dạng"
+  ],
+  "arteries": [
+    "Quốc lộ 1",
+    "Quốc lộ 1K",
+    "Quốc lộ 51",
+    "Đường Võ Nguyên Giáp",
+    "Cao tốc Biên Hòa – Vũng Tàu"
+  ],
+  "key_projects": [
+    "Khu công nghiệp Amata",
+    "Cụm khu công nghiệp Long Bình (Lotecco)",
+    "Khu dân cư Long Bình (Sonadezi)",
+    "Khu dân cư Tân Biên"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp Amata",
+    "Cụm CN Long Bình",
+    "Khu dân cư Tân Biên"
+  ],
+  "adjacent": [
+    "Hố Nai",
+    "Phước Tân",
+    "Long Hưng",
+    "Tân Biên",
+    "Tam Hiệp",
+    "Trảng Dài"
+  ],
+  "highlights": [
+    "Lotte Mart Đồng Nai",
+    "Cổng viện 30-4",
+    "Nhà thờ Giáo xứ Kẻ Sặt"
+  ],
+  "specialties": [
+    "Bún mọc Hố Nai",
+    "Bún cá Lộc Lâm",
+    "Bánh gài Tân Biên"
+  ],
+  "products": [
+    "Đang cập nhật"
+  ],
+  "coverImage": "/images/communes/phuong-long-binh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Long Bình, Hố Nai và Tân Biên",
+  "updatedAt": ""
+}

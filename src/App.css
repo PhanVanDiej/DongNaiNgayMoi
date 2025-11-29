@@ -1,0 +1,73 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+/* Full-viewport cho map */
+html, body, #root { height: 100%; margin: 0; padding: 0; }
+* { box-sizing: border-box; }
+
+.app { position: relative; height: 100%; width: 100%; background: #f6f7f9; }
+.map-wrap { position: absolute; inset: 0; }
+
+/* Panel thông tin bên phải */
+.info-panel {
+  position: absolute; top: 16px; right: 16px; width: 380px;
+  max-height: calc(100% - 32px); overflow: auto;
+  background: rgba(255,255,255,0.98); border: 1px solid #e5e7eb;
+  border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,.08);
+  padding: 12px; font: 14px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+}
+.info-panel header { display: flex; align-items: center; justify-content: space-between; padding: 6px 4px 10px; border-bottom: 1px solid #eee; }
+.info-kv { margin: 10px 0; color: #374151; }
+.info-kv b { color: #111827; }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 999px; border: 1px solid #e5e7eb; background: #f9fafb; font-size: 12px; }
+
+/* Banner thiếu key */
+.key-banner {
+  position: absolute; top: 16px; left: 16px;
+  background: #f59e0b; color: #fff; padding: 6px 10px;
+  border-radius: 10px; font-size: 12px; box-shadow: 0 6px 20px rgba(0,0,0,.12);
+}
+
+/* Nút nhỏ */
+.btn { appearance: none; border: 0; border-radius: 999px; padding: 6px 12px; cursor: pointer; background: #111827; color: #fff; font-size: 12px; }
+.btn:hover { background: #000; }
+

@@ -1,0 +1,51 @@
+{
+  "id": "phuong-binh-long",
+  "name": "Phường Bình Long",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 41048,
+  "area_km2": 49.1,
+  "admin_center": "Đường Lê Quý Đôn, khu phố Phú Trung, phường Bình Long, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Bùi Quốc Bảo",
+    "chairman": "Đặng Hoàng Thái"
+  },
+  "nature": [
+    "Phường có vị trí địa lý chiến lược, nhiều lợi thế phát triển du lịch lịch sử và du lịch tâm linh"
+  ],
+  "arteries": [
+    "Quốc lộ 13",
+    "kết nối TP.HCM và cửa khẩu quốc tế Hoa Lư"
+  ],
+  "key_projects": [
+    "Phát triển các cụm công nghiệp",
+    "xây dựng tuyến du lịch liên kết địa phương"
+  ],
+  "industry_residential": [
+    "Các cụm công nghiệp địa phương",
+    "khu dân cư Bình Long - Tà Thiết - X16"
+  ],
+  "adjacent": [
+    "An Lộc",
+    "Tân Khai",
+    "Tân Quan",
+    "Minh Đức"
+  ],
+  "highlights": [
+    "Trường THPT Chuyên Bình Long",
+    "Khách sạn An Lộc",
+    "Khu du lịch Bình Long Phố"
+  ],
+  "specialties": [
+    "Bún đọt mây Khách sạn An Lộc",
+    "Hủ tiếu Tư Quảng Ngãi"
+  ],
+  "products": [
+    "Đang cập nhật"
+  ],
+  "coverImage": "/images/communes/phuong-binh-long/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: An Lộc, Hưng Chiến, Phú Đức và Thanh Bình",
+  "updatedAt": ""
+}

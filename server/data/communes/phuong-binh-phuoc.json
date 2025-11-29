@@ -1,0 +1,58 @@
+{
+  "id": "phuong-binh-phuoc",
+  "name": "Phường Bình Phước",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 111440,
+  "area_km2": 86.38,
+  "admin_center": "Số 1379 đường Phú Riềng Đỏ, phường Bình Phước, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Giang Thị Phương Hạnh",
+    "chairman": "Ngô Hồng Khang"
+  },
+  "nature": [
+    "Di tích Chiến thắng Đồng Xoài",
+    "Bảo tàng Đồng Nai",
+    "Quảng trường phường Bình Phước"
+  ],
+  "arteries": [
+    "Quốc lộ 14",
+    "DT.741",
+    "DT.753",
+    "Cao tốc Gia Nghĩa – Chơn Thành (dự án)"
+  ],
+  "key_projects": [
+    "Dự án đường Cao tốc Gia Nghĩa – Chơn Thành",
+    "phát triển đô thị trung tâm phía Tây Bắc"
+  ],
+  "industry_residential": [
+    "Đông Xoài – Trung tâm vùng",
+    "Khu – cụm công nghiệp Đồng Xoài III, Tiến Hưng 1"
+  ],
+  "adjacent": [
+    "Đông Xoài",
+    "Đồng Phú",
+    "Thuận Lợi",
+    "Đồng Tâm",
+    "Tân Lợi",
+    "TP. Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Bảo tàng Đồng Nai",
+    "Quảng trường Bình Phước",
+    "Khu đô thị Cát Tường Phú Hưng"
+  ],
+  "specialties": [
+    "Bánh canh cá lóc Huế",
+    "Mì Quảng",
+    "Cơm niêu Anh Em"
+  ],
+  "products": [
+    "Đặc sản OCOP Bình Phước (điều, tiêu, nông sản)"
+  ],
+  "coverImage": "/images/communes/phuong-binh-phuoc/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tân Phú, Tân Bình, Tân Đồng, Tân Thiện, Tân Xuân và Tiến Hưng",
+  "updatedAt": ""
+}

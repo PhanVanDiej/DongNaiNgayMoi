@@ -1,0 +1,48 @@
+{
+  "id": "xa-phu-rieng",
+  "name": "Xã Phú Riềng",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 34957,
+  "area_km2": 117.37,
+  "admin_center": "Thôn Tân Bình, xã Phú Riềng, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thị Xuân Hòa",
+    "chairman": "Nguyễn Danh Tùng"
+  },
+  "nature": [
+    "Cuộc nổi dậy của đồng bào S’tiêng (Mã Thắng Tây)",
+    "Đền thờ Vua Hùng"
+  ],
+  "arteries": [
+    "ĐT741",
+    "ĐT757",
+    "ĐT753"
+  ],
+  "key_projects": [
+    "Cụm công nghiệp trung tâm Phú Riềng",
+    "329 công ty – doanh nghiệp",
+    "1.260 cơ sở kinh doanh"
+  ],
+  "industry_residential": [],
+  "adjacent": [
+    "Thuận Lợi",
+    "Long Hà",
+    "Bình Tân",
+    "Phú Trung",
+    "Đồng Tâm"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Dê quay Phú Riềng"
+  ],
+  "products": [
+    "Yến sào",
+    "Bộ sản phẩm Hạt Điều Vàng"
+  ],
+  "coverImage": "/images/communes/xa-phu-rieng/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Bù Nho và Phú Riềng",
+  "updatedAt": ""
+}

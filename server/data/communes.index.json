@@ -1,0 +1,1749 @@
+{
+  "phuong-bien-hoa": {
+    "id": "phuong-bien-hoa",
+    "code": "26068",
+    "name": "Phường Biên Hòa",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 74919,
+    "area_km2": 21.5,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.webp",
+      "img2.webp"
+    ]
+  },
+  "phuong-tran-bien": {
+    "id": "phuong-tran-bien",
+    "code": "26041",
+    "name": "Phường Trấn Biên",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 19706,
+    "area_km2": 31,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.webp",
+      "img2.jpg"
+    ]
+  },
+  "phuong-tam-hiep": {
+    "id": "phuong-tam-hiep",
+    "code": "26017",
+    "name": "Phường Tam Hiệp",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 139441,
+    "area_km2": 10.8,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "phuong-long-binh": {
+    "id": "phuong-long-binh",
+    "code": "26020",
+    "name": "Phường Long Bình",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 26378,
+    "area_km2": 40.2,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.png"
+    ]
+  },
+  "phuong-trang-dai": {
+    "id": "phuong-trang-dai",
+    "code": "25993",
+    "name": "Phường Trảng Dài",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 104972,
+    "area_km2": 37.3,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg",
+      "img2.webp"
+    ]
+  },
+  "phuong-ho-nai": {
+    "id": "phuong-ho-nai",
+    "code": "26005",
+    "name": "Phường Hố Nai",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 78902,
+    "area_km2": 22.9,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.png",
+      "img2.png"
+    ]
+  },
+  "phuong-long-hung": {
+    "id": "phuong-long-hung",
+    "code": "26380",
+    "name": "Phường Long Hưng",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 74184,
+    "area_km2": 32.4,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-dai-phuoc": {
+    "id": "xa-dai-phuoc",
+    "code": "26491",
+    "name": "Xã Đại Phước",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 55364,
+    "area_km2": 98,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg"
+    ]
+  },
+  "xa-nhon-trach": {
+    "id": "xa-nhon-trach",
+    "code": "26485",
+    "name": "Xã Nhơn Trạch",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 78589,
+    "area_km2": 108,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-phuoc-an": {
+    "id": "xa-phuoc-an",
+    "code": "26503",
+    "name": "Xã Phước An",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 51088,
+    "area_km2": 170.7,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-phuoc-thai": {
+    "id": "xa-phuoc-thai",
+    "code": "26422",
+    "name": "Xã Phước Thái",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 55914,
+    "area_km2": 85.9,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp"
+    ]
+  },
+  "xa-long-phuoc": {
+    "id": "xa-long-phuoc",
+    "code": "26413",
+    "name": "Xã Long Phước",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 42453,
+    "area_km2": 81.8,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-binh-an": {
+    "id": "xa-binh-an",
+    "code": "26389",
+    "name": "Xã Bình An",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 59475,
+    "area_km2": 73.43,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-long-thanh": {
+    "id": "xa-long-thanh",
+    "code": "26368",
+    "name": "Xã Long Thành",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 15429,
+    "area_km2": 51.51,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-an-phuoc": {
+    "id": "xa-an-phuoc",
+    "code": "26383",
+    "name": "Xã An Phước",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 23788,
+    "area_km2": 64.9,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-an-vien": {
+    "id": "xa-an-vien",
+    "code": "26296",
+    "name": "Xã An Viễn",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 2415,
+    "area_km2": 47.7,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-binh-minh": {
+    "id": "xa-binh-minh",
+    "code": "26278",
+    "name": "Xã Bình Minh",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 83354,
+    "area_km2": 36.7,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.png"
+    ]
+  },
+  "xa-trang-bom": {
+    "id": "xa-trang-bom",
+    "code": "26248",
+    "name": "Xã Trảng Bom",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 92712,
+    "area_km2": 68.8,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.webp",
+      "img2.webp"
+    ]
+  },
+  "xa-bau-ham": {
+    "id": "xa-bau-ham",
+    "code": "26254",
+    "name": "Xã Bàu Hàm",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 55559,
+    "area_km2": 97.5,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-hung-thinh": {
+    "id": "xa-hung-thinh",
+    "code": "26281",
+    "name": "Xã Hưng Thịnh",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 57825,
+    "area_km2": 57.6,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-dau-giay": {
+    "id": "xa-dau-giay",
+    "code": "26326",
+    "name": "Xã Dầu Giây",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 71921,
+    "area_km2": 98.9,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-gia-kiem": {
+    "id": "xa-gia-kiem",
+    "code": "26311",
+    "name": "Xã Gia Kiệm",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 79274,
+    "area_km2": 82.7,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.webp"
+    ]
+  },
+  "xa-thong-nhat": {
+    "id": "xa-thong-nhat",
+    "code": "26299",
+    "name": "Xã Thống Nhất",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 71665,
+    "area_km2": 120.1,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.webp",
+      "img2.png"
+    ]
+  },
+  "phuong-binh-loc": {
+    "id": "phuong-binh-loc",
+    "code": "26089",
+    "name": "Phường Bình Lộc",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 36195,
+    "area_km2": 77.2,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "phuong-bao-vinh": {
+    "id": "phuong-bao-vinh",
+    "code": "26098",
+    "name": "Phường Bảo Vinh",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 36989,
+    "area_km2": 50.9,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "phuong-xuan-lap": {
+    "id": "phuong-xuan-lap",
+    "code": "26104",
+    "name": "Phường Xuân Lập",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 18947,
+    "area_km2": 29.2,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "phuong-long-khanh": {
+    "id": "phuong-long-khanh",
+    "code": "26080",
+    "name": "Phường Long Khánh",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 7707,
+    "area_km2": 21.3,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "phuong-hang-gon": {
+    "id": "phuong-hang-gon",
+    "code": "26113",
+    "name": "Phường Hàng Gòn",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 24931,
+    "area_km2": 45.6,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-xuan-que": {
+    "id": "xa-xuan-que",
+    "code": "26332",
+    "name": "Xã Xuân Quế",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 21189,
+    "area_km2": 92.9,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-xuan-duong": {
+    "id": "xa-xuan-duong",
+    "code": "26347",
+    "name": "Xã Xuân Đường",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 26565,
+    "area_km2": 82.1,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-cam-my": {
+    "id": "xa-cam-my",
+    "code": "26341",
+    "name": "Xã Cẩm Mỹ",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 45728,
+    "area_km2": 113.1,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpeg"
+    ]
+  },
+  "xa-song-ray": {
+    "id": "xa-song-ray",
+    "code": "26362",
+    "name": "Xã Sông Ray",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 31346,
+    "area_km2": 65.6,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-xuan-dong": {
+    "id": "xa-xuan-dong",
+    "code": "26359",
+    "name": "Xã Xuân Đông",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 47623,
+    "area_km2": 108,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-xuan-dinh": {
+    "id": "xa-xuan-dinh",
+    "code": "26461",
+    "name": "Xã Xuân Định",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 3687,
+    "area_km2": 52.3,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-xuan-phu": {
+    "id": "xa-xuan-phu",
+    "code": "26458",
+    "name": "Xã Xuân Phú",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 29608,
+    "area_km2": 55.6,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.gif",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-xuan-loc": {
+    "id": "xa-xuan-loc",
+    "code": "26425",
+    "name": "Xã Xuân Lộc",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 104304,
+    "area_km2": 140.5,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.webp",
+      "img2.jpg",
+      "img3.jpg"
+    ]
+  },
+  "xa-xuan-hoa": {
+    "id": "xa-xuan-hoa",
+    "code": "26446",
+    "name": "Xã Xuân Hòa",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 78491,
+    "area_km2": 306,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.webp",
+      "img2.jpg"
+    ]
+  },
+  "xa-xuan-thanh": {
+    "id": "xa-xuan-thanh",
+    "code": "26434",
+    "name": "Xã Xuân Thành",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 22007,
+    "area_km2": 122.7,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg"
+    ]
+  },
+  "xa-xuan-bac": {
+    "id": "xa-xuan-bac",
+    "code": "26428",
+    "name": "Xã Xuân Bắc",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 44866,
+    "area_km2": 96.4,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.webp",
+      "img2.jpg"
+    ]
+  },
+  "xa-la-nga": {
+    "id": "xa-la-nga",
+    "code": "26227",
+    "name": "Xã La Ngà",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 33311,
+    "area_km2": 133.5,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-dinh-quan": {
+    "id": "xa-dinh-quan",
+    "code": "26206",
+    "name": "Xã Định Quán",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 85523,
+    "area_km2": 295.8,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-phu-vinh": {
+    "id": "xa-phu-vinh",
+    "code": "26215",
+    "name": "Xã Phú Vinh",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 31328,
+    "area_km2": 69.5,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-phu-hoa": {
+    "id": "xa-phu-hoa",
+    "code": "26221",
+    "name": "Xã Phú Hòa",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 41306,
+    "area_km2": 71.8,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpeg"
+    ]
+  },
+  "xa-ta-lai": {
+    "id": "xa-ta-lai",
+    "code": "26134",
+    "name": "Xã Tà Lài",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 34158,
+    "area_km2": 83.3,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-nam-cat-tien": {
+    "id": "xa-nam-cat-tien",
+    "code": "26122",
+    "name": "Xã Nam Cát Tiên",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 15922,
+    "area_km2": 82.9,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpeg",
+      "img1.webp",
+      "img2.jpg"
+    ]
+  },
+  "xa-tan-phu": {
+    "id": "xa-tan-phu",
+    "code": "26116",
+    "name": "Xã Tân Phú",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 3136,
+    "area_km2": 38.6,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-phu-lam": {
+    "id": "xa-phu-lam",
+    "code": "26158",
+    "name": "Xã Phú Lâm",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 33186,
+    "area_km2": 43.07,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg"
+    ]
+  },
+  "xa-tri-an": {
+    "id": "xa-tri-an",
+    "code": "26170",
+    "name": "Xã Trị An",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 51028,
+    "area_km2": 660.5,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpeg",
+      "img1.webp",
+      "img2.jpg"
+    ]
+  },
+  "xa-tan-an": {
+    "id": "xa-tan-an",
+    "code": "26179",
+    "name": "Xã Tân An",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 41922,
+    "area_km2": 40.61,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg"
+    ]
+  },
+  "phuong-tan-trieu": {
+    "id": "phuong-tan-trieu",
+    "code": "26188",
+    "name": "Phường Tân Triều",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 101608,
+    "area_km2": 63.3,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "phuong-minh-hung": {
+    "id": "phuong-minh-hung",
+    "code": "25441",
+    "name": "Phường Minh Hưng",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 34123,
+    "area_km2": 99.7,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpeg",
+      "img2.webp"
+    ]
+  },
+  "phuong-chon-thanh": {
+    "id": "phuong-chon-thanh",
+    "code": "25432",
+    "name": "Phường Chơn Thành",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 415,
+    "area_km2": 124.4,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpeg",
+      "img2.jpeg"
+    ]
+  },
+  "xa-nha-bich": {
+    "id": "xa-nha-bich",
+    "code": "25450",
+    "name": "Xã Nha Bích",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 22278,
+    "area_km2": 137.1,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-tan-quan": {
+    "id": "xa-tan-quan",
+    "code": "25351",
+    "name": "Xã Tân Quan",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 30385,
+    "area_km2": 148.3,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-tan-hung": {
+    "id": "xa-tan-hung",
+    "code": "25345",
+    "name": "Xã Tân Hưng",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 35222,
+    "area_km2": 92.41,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.webp"
+    ]
+  },
+  "xa-tan-khai": {
+    "id": "xa-tan-khai",
+    "code": "25357",
+    "name": "Xã Tân Khai",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 3614,
+    "area_km2": 161.8,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-minh-duc": {
+    "id": "xa-minh-duc",
+    "code": "25349",
+    "name": "Xã Minh Đức",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 16944,
+    "area_km2": 167.1,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.png"
+    ]
+  },
+  "phuong-binh-long": {
+    "id": "phuong-binh-long",
+    "code": "25326",
+    "name": "Phường Bình Long",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 41048,
+    "area_km2": 49.1,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "phuong-an-loc": {
+    "id": "phuong-an-loc",
+    "code": "25333",
+    "name": "Phường An Lộc",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 35531,
+    "area_km2": 88.7,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "anloc1.jpg",
+      "anloc2.jpg",
+      "cover.png"
+    ]
+  },
+  "xa-loc-thanh": {
+    "id": "xa-loc-thanh",
+    "code": "25280",
+    "name": "Xã Lộc Thạnh",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 10339,
+    "area_km2": 125.5,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg"
+    ]
+  },
+  "xa-loc-thanhh": {
+    "id": "xa-loc-thanhh",
+    "code": "25294",
+    "name": "Xã Lộc Thành",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 15338,
+    "area_km2": 207,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpeg"
+    ]
+  },
+  "xa-loc-ninh": {
+    "id": "xa-loc-ninh",
+    "code": "25270",
+    "name": "Xã Lộc Ninh",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 32213,
+    "area_km2": 67.4,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-loc-hung": {
+    "id": "xa-loc-hung",
+    "code": "25303",
+    "name": "Xã Lộc Hưng",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 266,
+    "area_km2": 99,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg"
+    ]
+  },
+  "xa-loc-tan": {
+    "id": "xa-loc-tan",
+    "code": "25279",
+    "name": "Xã Lộc Tấn",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 23697,
+    "area_km2": 183.36,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp"
+    ]
+  },
+  "xa-loc-quang": {
+    "id": "xa-loc-quang",
+    "code": "25292",
+    "name": "Xã Lộc Quang",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 26314,
+    "area_km2": 105,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg"
+    ]
+  },
+  "xa-tan-tien": {
+    "id": "xa-tan-tien",
+    "code": "25318",
+    "name": "Xã Tân Tiến",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 33994,
+    "area_km2": 207.2,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-thien-hung": {
+    "id": "xa-thien-hung",
+    "code": "25308",
+    "name": "Xã Thiện Hưng",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 35041,
+    "area_km2": 111,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-hung-phuoc": {
+    "id": "xa-hung-phuoc",
+    "code": "25309",
+    "name": "Xã Hưng Phước",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 12427,
+    "area_km2": 187.2,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg"
+    ]
+  },
+  "xa-phu-nghia": {
+    "id": "xa-phu-nghia",
+    "code": "25267",
+    "name": "Xã Phú Nghĩa",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 3392,
+    "area_km2": 279.4,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp"
+    ]
+  },
+  "xa-da-kia": {
+    "id": "xa-da-kia",
+    "code": "25231",
+    "name": "Xã Đa Kia",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 31752,
+    "area_km2": 196.3,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg"
+    ]
+  },
+  "phuong-phuoc-binh": {
+    "id": "phuong-phuoc-binh",
+    "code": "25220",
+    "name": "Phường Phước Bình",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 44771,
+    "area_km2": 72.6,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "phuong-phuoc-long": {
+    "id": "phuong-phuoc-long",
+    "code": "25217",
+    "name": "Phường Phước Long",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": null,
+    "area_km2": 71.8838,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpeg",
+      "img2.jpg"
+    ]
+  },
+  "xa-binh-tan": {
+    "id": "xa-binh-tan",
+    "code": "25246",
+    "name": "Xã Bình Tân",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 28642,
+    "area_km2": 190.9,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg"
+    ]
+  },
+  "xa-long-ha": {
+    "id": "xa-long-ha",
+    "code": "25255",
+    "name": "Xã Long Hà",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 27614,
+    "area_km2": 168.4,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-phu-rieng": {
+    "id": "xa-phu-rieng",
+    "code": "25252",
+    "name": "Xã Phú Riềng",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 36232,
+    "area_km2": 117.4,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.png",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-phu-trung": {
+    "id": "xa-phu-trung",
+    "code": "25261",
+    "name": "Xã Phú Trung",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 13585,
+    "area_km2": 172,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg"
+    ]
+  },
+  "phuong-dong-xoai": {
+    "id": "phuong-dong-xoai",
+    "code": "25210",
+    "name": "Phường Đồng Xoài",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 35887,
+    "area_km2": 81.3,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "phuong-binh-phuoc": {
+    "id": "phuong-binh-phuoc",
+    "code": "25195",
+    "name": "Phường Bình Phước",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 11144,
+    "area_km2": 86.4,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg",
+      "img2.webp"
+    ]
+  },
+  "xa-thuan-loi": {
+    "id": "xa-thuan-loi",
+    "code": "25387",
+    "name": "Xã Thuận Lợi",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 23655,
+    "area_km2": 167.2,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-dong-tam": {
+    "id": "xa-dong-tam",
+    "code": "25390",
+    "name": "Xã Đồng Tâm",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 35573,
+    "area_km2": 248.8,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.png"
+    ]
+  },
+  "xa-tan-loi": {
+    "id": "xa-tan-loi",
+    "code": "25378",
+    "name": "Xã Tân Lợi",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 22774,
+    "area_km2": 379.8,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "im2.png",
+      "img1.webp"
+    ]
+  },
+  "xa-dong-phu": {
+    "id": "xa-dong-phu",
+    "code": "25363",
+    "name": "Xã Đồng Phú",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 45557,
+    "area_km2": 138.7,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-phuoc-son": {
+    "id": "xa-phuoc-son",
+    "code": "25420",
+    "name": "Xã Phước Sơn",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 31005,
+    "area_km2": 386.6,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "im2.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-nghia-trung": {
+    "id": "xa-nghia-trung",
+    "code": "25417",
+    "name": "Xã Nghĩa Trung",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 32897,
+    "area_km2": 222,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-bu-dang": {
+    "id": "xa-bu-dang",
+    "code": "25396",
+    "name": "Xã Bù Đăng",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 32145,
+    "area_km2": 156.1,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-tho-son": {
+    "id": "xa-tho-son",
+    "code": "25402",
+    "name": "Xã Thọ Sơn",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 21457,
+    "area_km2": 307.7,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-dak-nhau": {
+    "id": "xa-dak-nhau",
+    "code": "25399",
+    "name": "Xã Đak Nhau",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": null,
+    "area_km2": 182.571,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg"
+    ]
+  },
+  "xa-bom-bo": {
+    "id": "xa-bom-bo",
+    "code": "25405",
+    "name": "Xã Bom Bo",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 27064,
+    "area_km2": 245.9,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "phuong-tam-phuoc": {
+    "id": "phuong-tam-phuoc",
+    "code": "26374",
+    "name": "Phường Tam Phước",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 48313,
+    "area_km2": 45.1,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "phuong-phuoc-tan": {
+    "id": "phuong-phuoc-tan",
+    "code": "26377",
+    "name": "Phường Phước Tân",
+    "type": "phường",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 64181,
+    "area_km2": 42.8,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-thanh-son": {
+    "id": "xa-thanh-son",
+    "code": "26209",
+    "name": "Xã Thanh Sơn",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 33342,
+    "area_km2": 315.4,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-dak-lua": {
+    "id": "xa-dak-lua",
+    "code": "26119",
+    "name": "Xã Đak Lua",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": null,
+    "area_km2": 415.604,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg"
+    ]
+  },
+  "xa-phu-ly": {
+    "id": "xa-phu-ly",
+    "code": "26173",
+    "name": "Xã Phú Lý",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 15992,
+    "area_km2": 279,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg"
+    ]
+  },
+  "xa-bu-gia-map": {
+    "id": "xa-bu-gia-map",
+    "code": "25222",
+    "name": "Xã Bù Gia Mập",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": 8274,
+    "area_km2": 342.5,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.jpg",
+      "img1.jpg",
+      "img2.jpg"
+    ]
+  },
+  "xa-dak-o": {
+    "id": "xa-dak-o",
+    "code": "25225",
+    "name": "Xã Đăk Ơ",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "province": "Đồng Nai",
+    "established": "",
+    "population": null,
+    "area_km2": 246.711,
+    "admin_center": "",
+    "note": "",
+    "updatedAt": "",
+    "images": [
+      "cover.webp"
+    ]
+  }
+}

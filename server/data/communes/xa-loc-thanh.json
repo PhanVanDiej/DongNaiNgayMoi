@@ -1,0 +1,50 @@
+{
+  "id": "xa-loc-thanh",
+  "name": "Xã Lộc Thạnh",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 10383,
+  "area_km2": 125.93,
+  "admin_center": "Ấp Thanh Trung, xã Lộc Thạnh, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trần Hoàng Trực",
+    "chairman": "Nguyễn Văn Thảo"
+  },
+  "nature": [
+    "Bồn xăng kho nhiên liệu VK99",
+    "Cụm di tích cấp tỉnh Hun Sen",
+    "Đàn đá Lộc Hòa"
+  ],
+  "arteries": [
+    "Quốc lộ 13",
+    "ĐT741",
+    "ĐT753"
+  ],
+  "key_projects": [
+    "Khu Kinh tế Hoa Lư",
+    "Quốc gia và cửa khẩu quốc tế Hoa Lư"
+  ],
+  "industry_residential": [
+    "Tân Tiến",
+    "Lộc Tấn",
+    "phía Tây và 2 xã Phitnhanu (Shara­cha, Snoul – Cam­pu­chia)"
+  ],
+  "adjacent": [
+    "Cửa khẩu quốc tế Hoa Lư",
+    "Không gian văn hóa hơn 3.000 người S’tiêng sinh sống"
+  ],
+  "highlights": [],
+  "specialties": [],
+  "products": [
+    "Mít nghệ",
+    "Gạo ruộng",
+    "Xoài keo",
+    "Sầu riêng",
+    "Tiêu"
+  ],
+  "coverImage": "/images/communes/xa-loc-thanh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Lộc Hòa và Lộc Thạnh",
+  "updatedAt": ""
+}

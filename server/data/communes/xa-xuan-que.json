@@ -1,0 +1,53 @@
+{
+  "id": "xa-xuan-que",
+  "name": "Xã Xuân Quế",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 21189,
+  "area_km2": 92.91,
+  "admin_center": "Ấp 1, xã Xuân Quế, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lê Văn Tưởng",
+    "chairman": "Lê Văn Bình"
+  },
+  "nature": [
+    "Lễ cúng miếu Thành Hoàng"
+  ],
+  "arteries": [
+    "Cao tốc Long Thành – Dầu Giây",
+    "Cao tốc Dầu Giây – Phan Thiết",
+    "các tuyến ĐT.780, ĐT.780B, ĐT.769E, ĐT.770B",
+    "đường vành đai 4 (dự án)"
+  ],
+  "key_projects": [
+    "KCN Xuân Quế – Sông Nhạn (dự án)"
+  ],
+  "industry_residential": [
+    "Xuân Dương",
+    "Cẩm Mỹ",
+    "Long Thành",
+    "Bình An",
+    "Dầu Giây",
+    "phường Xuân Lập",
+    "phường Hàng Gòn"
+  ],
+  "adjacent": [
+    "Làng Quảng Trị ở Xuân Quế",
+    "Nông trường cao su Ông Quế"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Bún bò Nam Phát",
+    "Bánh canh cá lóc",
+    "Cháo vịt cô Nhung"
+  ],
+  "products": [
+    "Sầu riêng Sáu Hiệp",
+    "Chôm chôm Sông Nhạn"
+  ],
+  "coverImage": "/images/communes/xa-xuan-que/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Xuân Quế và Sông Nhạn",
+  "updatedAt": ""
+}

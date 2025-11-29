@@ -1,0 +1,51 @@
+{
+  "id": "xa-bau-ham",
+  "name": "Xã Bầu Hàm",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 55559,
+  "area_km2": 97.5,
+  "admin_center": "Ấp Thuận Hòa, xã Bầu Hàm, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lê Huy Thiêm",
+    "chairman": "Nguyễn Đức Can"
+  },
+  "nature": [
+    "Khu di tích Căn cứ Tỉnh ủy Biên Hòa U1"
+  ],
+  "arteries": [
+    "Tuyến đường nội thôn (Sông Thao)"
+  ],
+  "key_projects": [
+    "Trung tâm hỗ trợ sản xuất nông nghiệp",
+    "Quỹ đất lợi thế phát triển Trảng Bom – Xuân Lộc"
+  ],
+  "industry_residential": [
+    "Hưng Thịnh",
+    "Trảng Bom",
+    "Tân An",
+    "Trị An",
+    "Thống Nhất",
+    "Gia Kiệm",
+    "Dầu Giây"
+  ],
+  "adjacent": [],
+  "highlights": [],
+  "specialties": [
+    "Lẩu cá lăng Cây Gáo",
+    "Cá – ếch Đồng U1"
+  ],
+  "products": [
+    "Bún gạo",
+    "Bún huế",
+    "Dũa Đồng Nhì",
+    "Bưởi da xanh Gia Phát",
+    "Sữa chua HTX Trường Phát",
+    "Chuối sấy HTX Thanh Bình"
+  ],
+  "coverImage": "/images/communes/xa-bau-ham/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Thanh Bình; Cây Gáo; Sông Thao; Bầu Hàm",
+  "updatedAt": ""
+}

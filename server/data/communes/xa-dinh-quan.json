@@ -1,0 +1,59 @@
+{
+  "id": "xa-dinh-quan",
+  "name": "Xã Định Quán",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 85523,
+  "area_km2": 295.82,
+  "admin_center": "Ấp Hiệp Tâm 1, xã Định Quán, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Cao Cường",
+    "chairman": "Hồ Thanh Trúc"
+  },
+  "nature": [
+    "Tượng đài Chiến thắng La Ngà",
+    "Đá Ba Chồng"
+  ],
+  "arteries": [
+    "Quốc lộ 20",
+    "Cao tốc Dầu Giây - Tân Phú",
+    "ĐT.775",
+    "ĐT.776",
+    "ĐT.774B",
+    "hệ thống đường thủy La Ngà"
+  ],
+  "key_projects": [
+    "Phát triển nông nghiệp chủ lực: bắp, ca cao, chuối, xoài, gà",
+    "du lịch Thác Mai – Bàu Nước Sôi",
+    "khai thác tiềm năng danh thắng đá độc đáo"
+  ],
+  "industry_residential": [
+    "Không nêu trong infographic (bạn bổ sung sau nếu muốn)"
+  ],
+  "adjacent": [
+    "Xuân Thanh",
+    "Xuân Bắc",
+    "La Ngà",
+    "Thanh Sơn",
+    "Phú Vinh",
+    "Phú Hòa",
+    "Lâm Đồng"
+  ],
+  "highlights": [
+    "Đình thần Định Quán",
+    "KDL sinh thái Thác Mai – Bàu Nước Sôi",
+    "Bè cá sông La Ngà"
+  ],
+  "specialties": [
+    "Lẩu cá lăng măng chua",
+    "Hạt điều rang muối",
+    "Khô cá thát lát muối ớt",
+    "Gà đồi xá kiến"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/xa-dinh-quan/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Định Quán, Phú Ngọc, Gia Canh, Ngọc Định",
+  "updatedAt": ""
+}

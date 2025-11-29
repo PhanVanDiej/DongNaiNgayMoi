@@ -1,0 +1,60 @@
+{
+  "id": "phuong-long-hung",
+  "name": "Phường Long Hưng",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 74184,
+  "area_km2": 32.4,
+  "admin_center": "Số 188-190, đường Nguyễn Văn Tỏ, phường Long Hưng, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thị Như Ý",
+    "chairman": "Phan Huy Toàn"
+  },
+  "nature": [],
+  "arteries": [
+    "Quốc lộ 1A",
+    "Quốc lộ 51",
+    "Hương lộ 2",
+    "Đường Bùi Văn Hòa",
+    "ĐT.771",
+    "Tuyến đường sắt Trảng Bom - Hòa Hưng",
+    "Các tuyến đường sông"
+  ],
+  "key_projects": [
+    "Phát triển du lịch sinh thái, nghỉ dưỡng",
+    "Thương mại dịch vụ ven sông",
+    "Các dự án đô thị mới và không gian ven sông"
+  ],
+  "industry_residential": [
+    "Khu Công nghiệp Biên Hòa 2 (một phần)",
+    "Khu đô thị Aqua City",
+    "Khu dân cư Long Hưng",
+    "Khu đô thị Waterfront",
+    "Khu đô thị Sơn Tiên"
+  ],
+  "adjacent": [
+    "Trấn Biên",
+    "Tam Phước",
+    "Phước Tân",
+    "Long Bình",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Dinh An Hòa",
+    "Khu du lịch Sơn Tiên",
+    "Khu đô thị Aqua City"
+  ],
+  "specialties": [
+    "Lẩu bò Bến Gò",
+    "Rượu Bến Gò"
+  ],
+  "products": [
+    "Lẩu bò Bến Gò",
+    "Rượu Bến Gò"
+  ],
+  "coverImage": "/images/communes/phuong-long-hung/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Long Bình Tân, An Hòa và Long Hưng",
+  "updatedAt": ""
+}

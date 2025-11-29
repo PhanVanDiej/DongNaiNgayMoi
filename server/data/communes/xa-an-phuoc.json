@@ -1,0 +1,53 @@
+{
+  "id": "xa-an-phuoc",
+  "name": "Xã An Phước",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 59666,
+  "area_km2": 58.32,
+  "admin_center": "Ấp 4, xã An Phước, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trần Thế Vinh",
+    "chairman": "Đoàn Minh Trí"
+  },
+  "nature": [
+    "Xã có vai trò gắn kết vùng với TP.HCM, tạo động lực mới thúc đẩy đầu tư và phát triển kinh tế – xã hội"
+  ],
+  "arteries": [
+    "Quốc lộ 51",
+    "Cao tốc Biên Hòa – Vũng Tàu"
+  ],
+  "key_projects": [
+    "Cụm công nghiệp Long Thành",
+    "Khu công nghiệp An Phước"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp – dịch vụ"
+  ],
+  "adjacent": [
+    "An Viễn",
+    "Bình An",
+    "Long Thành",
+    "Nhơn Trạch",
+    "Tam Phước",
+    "Long Hưng",
+    "TP.HCM"
+  ],
+  "highlights": [
+    "Thiền viện Trúc Lâm Trí Đức",
+    "Sản phẩm OCOP Domilk",
+    "Thiền An Tự"
+  ],
+  "specialties": [
+    "Met gà Long Thành",
+    "Gà quay Tam An"
+  ],
+  "products": [
+    "Quán ăn Năm Dế"
+  ],
+  "coverImage": "/images/communes/xa-an-phuoc/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tam An và An Phước",
+  "updatedAt": ""
+}

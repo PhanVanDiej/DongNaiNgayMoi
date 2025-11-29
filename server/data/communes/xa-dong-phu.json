@@ -1,0 +1,47 @@
+{
+  "id": "xa-dong-phu",
+  "name": "Xã Đồng Phú",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 45557,
+  "area_km2": 138.66,
+  "admin_center": "Thôn Tân An, xã Đồng Phú, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Tấn Hùng",
+    "chairman": "Hồ Hùng Phi"
+  },
+  "nature": [
+    "Hồ suối Giai",
+    "Đảo yến Sơn Hà"
+  ],
+  "arteries": [
+    "ĐT.741"
+  ],
+  "key_projects": [
+    "Các khu - cụm công nghiệp Bắc Đồng Phú, Nam Đồng Phú, Tân Tiến 1, Tân Tiến 2, Tân Phú, Hà My"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Tân Lợi",
+    "Bình Phước",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Hồ suối Giai",
+    "Đảo yến Sơn Hà"
+  ],
+  "specialties": [
+    "Chuối cây mô xuất khẩu",
+    "Dưa lưới"
+  ],
+  "products": [
+    "Bộ sản phẩm hạt điều Hà My"
+  ],
+  "coverImage": "/images/communes/xa-dong-phu/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tân Phú, Tân Tiến, Tân Lập",
+  "updatedAt": ""
+}

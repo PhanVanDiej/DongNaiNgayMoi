@@ -1,0 +1,54 @@
+{
+  "id": "xa-thanh-son",
+  "name": "Xã Thanh Sơn",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 33342,
+  "area_km2": 315.4,
+  "admin_center": "Ấp 2, xã Thanh Sơn, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Ngô Hoàng Hải",
+    "chairman": "Võ Văn Trung"
+  },
+  "nature": [
+    "Lễ hội Lồng Tồng",
+    "Lễ hội cúng miễu thờ Thổ Địa"
+  ],
+  "arteries": [
+    "Cầu treo bắc qua sông Đồng Nai",
+    "Đường DT.776"
+  ],
+  "key_projects": [
+    "Thủy điện Thanh Sơn",
+    "Phòng khám đa khoa"
+  ],
+  "industry_residential": [
+    "Khu dân cư Thanh Sơn"
+  ],
+  "adjacent": [
+    "Phú Lý",
+    "Đak Lua",
+    "Trị An",
+    "La Ngà",
+    "Định Quán",
+    "Phú Vinh",
+    "Tà Lài"
+  ],
+  "highlights": [
+    "Lâm trường La Ngà",
+    "Cánh đồng lúa Bàu Lùng",
+    "Bàu Kiên",
+    "Bè cá trên sông"
+  ],
+  "specialties": [
+    "Bột sương sâm Lamoi-Pro",
+    "Bột đậu Ngũ Hành",
+    "Quýt đường Thanh Sơn"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/xa-thanh-son/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: (không sáp nhập, giữ nguyên theo NQ 1662)",
+  "updatedAt": ""
+}

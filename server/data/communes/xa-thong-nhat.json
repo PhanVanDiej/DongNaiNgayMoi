@@ -1,0 +1,52 @@
+{
+  "id": "xa-thong-nhat",
+  "name": "Xã Thống Nhất",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 71665,
+  "area_km2": 120.07,
+  "admin_center": "Quốc lộ 20, ấp Đức Long 2, xã Thống Nhất, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trịnh Văn Trường",
+    "chairman": "Phạm Hồng Đông"
+  },
+  "nature": [],
+  "arteries": [
+    "Quốc lộ 20",
+    "Tỉnh lộ 763"
+  ],
+  "key_projects": [
+    "Cụm công nghiệp Phú Cường và Phú Túc",
+    "Các dự án phát triển nông nghiệp công nghệ cao và dịch vụ - đô thị - y tế"
+  ],
+  "industry_residential": [
+    "Cụm công nghiệp Phú Cường",
+    "Cụm công nghiệp Phú Túc"
+  ],
+  "adjacent": [
+    "Trị An",
+    "Bàu Hàm",
+    "Gia Kiệm",
+    "Xuân Bắc",
+    "La Ngà",
+    "Bình Lộc"
+  ],
+  "highlights": [
+    "Trung tâm hành hương Đức Mẹ Núi Cúi",
+    "Lòng hồ Trị An",
+    "Vườn trái cây Phú Túc"
+  ],
+  "specialties": [
+    "Khô cá kìm Sông Nước (OCOP 3 sao)",
+    "Trái cây sấy Thuận Hương (OCOP 4 sao)"
+  ],
+  "products": [
+    "Khô cá kìm Sông Nước",
+    "Trái cây sấy Thuận Hương"
+  ],
+  "coverImage": "/images/communes/xa-thong-nhat/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Gia Tân 1, Gia Tân 2, Phú Cường, Phú Túc",
+  "updatedAt": ""
+}

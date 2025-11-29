@@ -1,0 +1,43 @@
+{
+  "id": "xa-loc-tan",
+  "name": "Xã Lộc Tấn",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 23697,
+  "area_km2": 183.36,
+  "admin_center": "Quốc lộ 13, ấp 3A, xã Lộc Tấn, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Hoàng Mạnh Thường",
+    "chairman": "Nguyễn Mạnh Dũng"
+  },
+  "nature": [
+    "Thành đất hình tròn Lộc Tấn 2",
+    "Bệnh viện Lộc Ninh"
+  ],
+  "arteries": [
+    "Đường biên giới 19km",
+    "Quốc lộ 13",
+    "ĐT759"
+  ],
+  "key_projects": [
+    "Đang cập nhật"
+  ],
+  "industry_residential": [
+    "Cụm công trình lưu niệm X16"
+  ],
+  "adjacent": [],
+  "highlights": [],
+  "specialties": [
+    "Hạt điều tươi rang củi Hoàng Phú"
+  ],
+  "products": [
+    "Tiêu đen ASTA Mỹ Lệ",
+    "Tiêu sọ mọc tiết trưng Mỹ Lệ",
+    "Tiêu sọ trắng tiết trưng Mỹ Lệ"
+  ],
+  "coverImage": "/images/communes/xa-loc-tan/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Lộc Tân và Lộc Thiện",
+  "updatedAt": ""
+}

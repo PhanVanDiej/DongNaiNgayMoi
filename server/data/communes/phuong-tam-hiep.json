@@ -1,0 +1,56 @@
+{
+  "id": "phuong-tam-hiep",
+  "name": "Phường Tam Hiệp",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 139441,
+  "area_km2": 10.81,
+  "admin_center": "Số 544 Phạm Văn Thuận, khu phố 9, phường Tam Hiệp, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Xuân Thanh",
+    "chairman": "Lê Kim Hường"
+  },
+  "nature": [
+    "“Siêu phường” với quy mô lớn, dân số đông và tiềm năng phát triển vượt bậc"
+  ],
+  "arteries": [
+    "Quốc lộ 1 (xa lộ Hà Nội)",
+    "Quốc lộ 1K",
+    "Quốc lộ 15"
+  ],
+  "key_projects": [
+    "Dự án trọng điểm: Vành đai 3",
+    "Cao tốc TP.HCM – Long Thành – Dầu Giây",
+    "Sân bay quốc tế Long Thành"
+  ],
+  "industry_residential": [
+    "Khu tái định cư Thống Nhất – Tân Mai"
+  ],
+  "adjacent": [
+    "Trần Biên",
+    "Long Bình",
+    "Trảng Dài",
+    "Tân Triều",
+    "Tân Mai"
+  ],
+  "highlights": [
+    "Nhà lao Tân Hiệp",
+    "Đền thờ Đoàn Văn Cự và 16 nghĩa binh",
+    "Đền thờ Quốc tổ Hùng Vương",
+    "Công viên Dương Tử Giang",
+    "The Mira Central Park"
+  ],
+  "specialties": [
+    "Gỏi cá Tân Mai",
+    "Bánh bèo chén Tân Mai",
+    "Xôi mặn ngã ba Tam Hiệp"
+  ],
+  "products": [
+    "Cháo gà Tường Vy"
+  ],
+  "coverImage": "/images/communes/phuong-tam-hiep/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tam Hiệp, Tân Hiệp, Tân Mai và Bình Đa",
+  "updatedAt": ""
+}

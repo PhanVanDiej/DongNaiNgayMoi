@@ -1,0 +1,52 @@
+{
+  "id": "xa-phu-lam",
+  "name": "Xã Phú Lâm",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 62355,
+  "area_km2": 67.35,
+  "admin_center": "Ấp Phú Tân, xã Phú Lâm, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Hữu Ký",
+    "chairman": "Phạm Thanh Hải"
+  },
+  "nature": [
+    "Đền thờ Quốc tổ Hùng Vương",
+    "Chùa Linh Phú"
+  ],
+  "arteries": [
+    "Cao tốc Dầu Giây - Đà Lạt",
+    "Quốc lộ 20",
+    "ĐT774",
+    "Đường sông La Ngà"
+  ],
+  "key_projects": [
+    "Đang cập nhật"
+  ],
+  "industry_residential": [
+    "Làng nghề trầm hương Phú Sơn",
+    "Thác Hòa Bình"
+  ],
+  "adjacent": [
+    "Tân Phú",
+    "Nam Cát Tiên",
+    "Lâm Đồng"
+  ],
+  "highlights": [
+    "Lẩu cá lăng sông",
+    "Canh lá nhíp nấu tép đồng",
+    "Rau dớn xào tỏi"
+  ],
+  "specialties": [
+    "Hạt điều rang muối",
+    "Tinh dầu trầm hương"
+  ],
+  "products": [
+    "Gạo sạch Bến Thuyền"
+  ],
+  "coverImage": "/images/communes/xa-phu-lam/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Thanh Sơn, Phú Sơn, Phú Bình và Phú Lâm",
+  "updatedAt": ""
+}

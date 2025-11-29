@@ -1,0 +1,52 @@
+{
+  "id": "phuong-bien-hoa",
+  "name": "Phường Biên Hòa",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 74919,
+  "area_km2": 21.46,
+  "admin_center": "Số 2429, đường Nguyễn Ái Quốc, phường Biên Hòa, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Viên Hồng Tiến",
+    "chairman": "Thái Thanh Phong"
+  },
+  "nature": [
+    "Hệ thống hạ tầng phát triển",
+    "nổi tiếng với nghề gốm truyền thống"
+  ],
+  "arteries": [
+    "Quốc lộ 1 (xa lộ Hà Nội)",
+    "Quốc lộ 1K",
+    "Tuyến sông Đồng Nai"
+  ],
+  "key_projects": [
+    "Cụm công nghiệp Gốm Tân Hạnh",
+    "Các dự án phát triển dịch vụ – công nghiệp"
+  ],
+  "industry_residential": [
+    "Gốm Tân Hạnh",
+    "Cụm công nghiệp địa phương"
+  ],
+  "adjacent": [
+    "Trảng Biên",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Đền thờ Nguyễn Tri Phương",
+    "Nhà cổ Trần Ngọc Du",
+    "Cụm CN gốm sứ Tân Hạnh",
+    "Tổ đình Quan Âm tu viện"
+  ],
+  "specialties": [
+    "Nem nướng Hồng Hoa",
+    "Tiệm mì Xí Mứng"
+  ],
+  "products": [
+    "Lẩu vịt nấu chao Tân Vạn"
+  ],
+  "coverImage": "/images/communes/phuong-bien-hoa/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tân Hạnh, Hóa An, Bửu Hòa và Tân Vạn",
+  "updatedAt": ""
+}

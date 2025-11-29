@@ -1,0 +1,51 @@
+{
+  "id": "xa-binh-tan",
+  "name": "Xã Bình Tân",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 25074,
+  "area_km2": 190.89,
+  "admin_center": "Thôn Long Hưng 1, xã Bình Tân, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Bá Việt",
+    "chairman": "Doãn Thị Xuân Mai"
+  },
+  "nature": [
+    "Thành đất hình tròn Long Hưng (di tích khảo cổ cấp tỉnh)"
+  ],
+  "arteries": [
+    "Đường DT741"
+  ],
+  "key_projects": [
+    "Sản xuất nông nghiệp theo chuỗi giá trị",
+    "phát triển du lịch nông nghiệp"
+  ],
+  "industry_residential": [
+    "Không có"
+  ],
+  "adjacent": [
+    "Không có"
+  ],
+  "highlights": [
+    "Lộc Quang",
+    "Đa Kia",
+    "Tân Hưng",
+    "Long Hà",
+    "Phú Riềng",
+    "Phú Trung",
+    "Phước Bình"
+  ],
+  "specialties": [
+    "Thành đất hình tròn Long Hưng"
+  ],
+  "products": [
+    "Hạt điều rang muối",
+    "Bưởi da xanh",
+    "Hạt điều sấy nguyên vị"
+  ],
+  "coverImage": "/images/communes/xa-binh-tan/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Long Bình, Long Hưng và Bình Tân",
+  "updatedAt": ""
+}

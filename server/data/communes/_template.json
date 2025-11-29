@@ -1,0 +1,25 @@
+{
+    "id": "slug-khong-dau",
+    "name": "Tên xã",
+    "type": "xã",
+    "district": "Đồng Nai",
+    "established": null,
+    "population": null,
+    "area_km2": null,
+    "admin_center": "Đang cập nhật",
+    "leaders": {
+        "partySecretary": null,
+        "chairman": null
+    },
+    "nature": [],
+    "arteries": [],
+    "key_projects": [],
+    "industry_residential": [],
+    "adjacent": [],
+    "highlights": [],
+    "specialties": [],
+    "coverImage": "",
+    "gallery": [],
+    "note": "",
+    "updatedAt": "2025-11-12"
+}

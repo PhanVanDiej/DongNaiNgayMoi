@@ -1,0 +1,53 @@
+{
+  "id": "xa-tan-quan",
+  "name": "Xã Tân Quan",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 31346,
+  "area_km2": 148.31,
+  "admin_center": "Ấp Vạn Hiên 2, xã Tân Quan, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Văn Thư",
+    "chairman": "Nguyễn Hồ Nam"
+  },
+  "nature": [
+    "Mỏ đá Núi Gió",
+    "Tài nguyên khoáng sản"
+  ],
+  "arteries": [
+    "ĐT.756B",
+    "ĐT.756C"
+  ],
+  "key_projects": [
+    "Quy hoạch phát triển công nghiệp nguyên liệu"
+  ],
+  "industry_residential": [
+    "Khu dân cư Tân Quan",
+    "Nhà máy chế biến mủ Quân Lợi"
+  ],
+  "adjacent": [
+    "Tân Khai",
+    "Tân Hưng",
+    "Nha Bích",
+    "Bình Long",
+    "An Lộc",
+    "Chơn Thành",
+    "Minh Hưng"
+  ],
+  "highlights": [
+    "Khu du lịch sinh thái Thác số 4",
+    "Nhà máy chế biến mủ Quân Lợi"
+  ],
+  "specialties": [
+    "Hạt điều rang muối Nam Hoa Thanh",
+    "Bột trân châu"
+  ],
+  "products": [
+    "Đang cập nhật"
+  ],
+  "coverImage": "/images/communes/xa-tan-quan/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tân Quan, Tân Lợi, Phước An, Quang Minh",
+  "updatedAt": ""
+}

@@ -1,0 +1,50 @@
+{
+  "id": "xa-phu-trung",
+  "name": "Xã Phú Trung",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 13585,
+  "area_km2": 172,
+  "admin_center": "Thôn Phú Tâm, xã Phú Trung, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Phạm Kim Trọng",
+    "chairman": "Lê Văn Chung"
+  },
+  "nature": [
+    "Hồ Thác Mơ"
+  ],
+  "arteries": [
+    "Quốc lộ 14",
+    "ĐT.759",
+    "ĐT.753B"
+  ],
+  "key_projects": [
+    "Phát triển nông nghiệp chủ lực: cao su, điều",
+    "tiềm năng du lịch sinh thái"
+  ],
+  "industry_residential": [
+    "Phú Riềng",
+    "Đồng Tâm",
+    "Nghĩa Trung",
+    "Bình Tân",
+    "Phước Long",
+    "Phước Bình"
+  ],
+  "adjacent": [],
+  "highlights": [],
+  "specialties": [
+    "Bơ sáp",
+    "Sầu riêng tươi",
+    "Mật ong Keybee"
+  ],
+  "products": [
+    "Bơ sáp",
+    "Sầu riêng tươi",
+    "Mật ong Keybee"
+  ],
+  "coverImage": "/images/communes/xa-phu-trung/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phước Tân và Phú Trung",
+  "updatedAt": ""
+}

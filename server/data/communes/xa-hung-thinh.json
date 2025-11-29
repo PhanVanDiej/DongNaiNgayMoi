@@ -1,0 +1,48 @@
+{
+  "id": "xa-hung-thinh",
+  "name": "Xã Hưng Thịnh",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 57825,
+  "area_km2": 57.64,
+  "admin_center": "Quốc lộ 1A, ấp Nhân Hòa, xã Hưng Thịnh, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Đỗ Ngọc Nam",
+    "chairman": "Lê Mạnh Hùng"
+  },
+  "nature": [
+    "Xã có hệ thống giao thông trọng điểm đi qua, tạo điều kiện thuận lợi cho phát triển kinh tế và nông sản"
+  ],
+  "arteries": [
+    "Quốc lộ 1",
+    "Tuyến đường sắt Bắc – Nam"
+  ],
+  "key_projects": [
+    "Cụm công nghiệp Hưng Thịnh",
+    "Dự án du lịch tại ấp Bàu Cá"
+  ],
+  "industry_residential": [
+    "Nông nghiệp – công nghiệp"
+  ],
+  "adjacent": [
+    "Dầu Giây",
+    "Bàu Hàm",
+    "Trảng Bom",
+    "An Viễn",
+    "Bình An"
+  ],
+  "highlights": [
+    "Miếu thờ Thành Hoàng",
+    "Cánh đồng cao cao, mía và hồ tiêu Trung Hòa"
+  ],
+  "specialties": [],
+  "products": [
+    "Thực phẩm bảo vệ sức khỏe Hưng Long Essential",
+    "Thực phẩm bảo vệ sức khỏe Phúc Hưng Long Premium"
+  ],
+  "coverImage": "/images/communes/xa-hung-thinh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tây Hòa, Trung Hòa, Đông Hòa và Hưng Thịnh",
+  "updatedAt": ""
+}

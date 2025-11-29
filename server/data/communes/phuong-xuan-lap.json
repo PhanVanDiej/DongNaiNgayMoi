@@ -1,0 +1,49 @@
+{
+  "id": "phuong-xuan-lap",
+  "name": "Phường Xuân Lập",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 18947,
+  "area_km2": 29.19,
+  "admin_center": "Khu phố Bàu Sen, phường Xuân Lập, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Trung Tín",
+    "chairman": "Trần Vĩnh Hiền"
+  },
+  "nature": [
+    "Địa phương dẫn đầu mô hình du lịch sinh thái vườn, thu hút du khách trải nghiệm nông nghiệp"
+  ],
+  "arteries": [
+    "Quốc lộ 1",
+    "Tuyến đường sắt Bắc – Nam",
+    "Đường Vành đai 1"
+  ],
+  "key_projects": [
+    "Các dự án đô thị mới",
+    "Dự án Khu đô thị dọc theo đường quốc lộ 1"
+  ],
+  "industry_residential": [
+    "Khu nông nghiệp – công nghệ cao"
+  ],
+  "adjacent": [
+    "Long Khánh",
+    "Hàng Gòn",
+    "Bình Lộc",
+    "Dầu Giây",
+    "Xuân Quế"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Bún riêu Cô Lan",
+    "Cơm gà cá mặn",
+    "Bánh xèo Xuân Lập"
+  ],
+  "products": [
+    "3 sản phẩm OCOP 3 sao (gà tre thả đồi Long Khánh, mứt gừng Phố Minh, sản phẩm sầu riêng)"
+  ],
+  "coverImage": "/images/communes/phuong-xuan-lap/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Bàu Sen và Xuân Lập",
+  "updatedAt": ""
+}

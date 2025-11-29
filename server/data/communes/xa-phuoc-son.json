@@ -1,0 +1,49 @@
+{
+  "id": "xa-phuoc-son",
+  "name": "Xã Phước Sơn",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 30000,
+  "area_km2": 386,
+  "admin_center": "Đường ĐT.755B, thôn 4, xã Phước Sơn, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thế Hải",
+    "chairman": "Trần Ngọc Công"
+  },
+  "nature": [
+    "Vườn quốc gia Cát Tiên"
+  ],
+  "arteries": [
+    "ĐT.755",
+    "ĐT.755B"
+  ],
+  "key_projects": [
+    "Cao tốc Bắc–Nam phía Tây",
+    "đoạn Gia Nghĩa – Chơn Thành"
+  ],
+  "industry_residential": [
+    "Phú Lý",
+    "Đak Lua",
+    "Đồng Tâm",
+    "Nghĩa Trung",
+    "Bù Đăng",
+    "Thọ Sơn",
+    "tỉnh Lâm Đồng"
+  ],
+  "adjacent": [],
+  "highlights": [],
+  "specialties": [
+    "Cơm lam",
+    "Khâu nhục",
+    "Bánh dày – bánh chưng"
+  ],
+  "products": [
+    "Bộ sản phẩm hạt điều Bazan",
+    "Hạt điều lụa rang muối Đức Thịnh"
+  ],
+  "coverImage": "/images/communes/xa-phuoc-son/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phước Sơn; Thống Nhất; Đăng Hà",
+  "updatedAt": ""
+}

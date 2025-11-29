@@ -1,0 +1,54 @@
+{
+  "id": "xa-phuoc-thai",
+  "name": "Xã Phước Thái",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 55914,
+  "area_km2": 85.86,
+  "admin_center": "Ấp Long Phú, xã Phước Thái, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Huỳnh Minh Dũng",
+    "chairman": "Vũ Quốc Việt"
+  },
+  "nature": [
+    "Đền thờ liệt sĩ Phước Thái",
+    "Tượng đài Chiến thắng Số Tiêu",
+    "Thiền viện Thường Chiếu",
+    "Các cơ sở tôn giáo (50+ đình, chùa, nhà thờ)"
+  ],
+  "arteries": [
+    "Quốc lộ 51",
+    "Đường cao tốc Biên Hòa – Vũng Tàu",
+    "Đường cao tốc Bến Lức – Nhơn Trạch – Long Thành",
+    "Đường DT.770B",
+    "Tuyến đường sắt Biên Hòa – Vũng Tàu"
+  ],
+  "key_projects": [
+    "Khu công nghiệp Gò Dầu",
+    "Cụm công nghiệp Phước Bình",
+    "Quy hoạch Khu công nghiệp Tân Hiệp – Bàu Cạn"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp – đô thị mới: Gò Dầu, Phước Bình",
+    "khu dân cư và giao thương Long Thành – Nhơn Trạch"
+  ],
+  "adjacent": [
+    "Long Phước",
+    "Phước An",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Thiền viện Thường Chiếu",
+    "Các cơ sở tôn giáo"
+  ],
+  "specialties": [
+    "Cơm tấm Phước Bình",
+    "Bánh bao 69"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/xa-phuoc-thai/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Tân Hiệp, Phước Bình, Phước Thái",
+  "updatedAt": ""
+}

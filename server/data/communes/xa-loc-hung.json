@@ -1,0 +1,48 @@
+{
+  "id": "xa-loc-hung",
+  "name": "Xã Lộc Hưng",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 26600,
+  "area_km2": 99.02,
+  "admin_center": "Ấp 2, xã Lộc Hưng, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lý Thanh Tâm",
+    "chairman": "Nguyễn Thị Xuân Linh"
+  },
+  "nature": [
+    "Chùa Sóc Lớn",
+    "Lễ Phá Bàu (Dua Tpeng)",
+    "Các lễ hội của người Khmer – S’tiêng"
+  ],
+  "arteries": [
+    "Quốc lộ 13",
+    "đường liên xã Lộc Hưng – Lộc Thạnh"
+  ],
+  "key_projects": [
+    "Phát triển mạnh nông nghiệp công nghệ cao",
+    "định hướng nông thôn mới nâng cao"
+  ],
+  "industry_residential": [
+    "Lộc Quang",
+    "Lộc Thạnh",
+    "Lộc Ninh",
+    "An Lộc"
+  ],
+  "adjacent": [
+    "Chùa Sóc Lớn",
+    "Thác Rùa"
+  ],
+  "highlights": [],
+  "specialties": [],
+  "products": [
+    "Đan gùi",
+    "nơm bắt cá",
+    "giỏ đựng cá"
+  ],
+  "coverImage": "/images/communes/xa-loc-hung/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Lộc Hưng; Lộc Khánh; Lộc Điền",
+  "updatedAt": ""
+}

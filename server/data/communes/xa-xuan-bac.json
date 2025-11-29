@@ -1,0 +1,51 @@
+{
+  "id": "xa-xuan-bac",
+  "name": "Xã Xuân Bắc",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 44866,
+  "area_km2": 96.44,
+  "admin_center": "Ấp 3 và Ấp 2B, xã Xuân Bắc, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trần Lâm Sinh",
+    "chairman": "Nguyễn Bảo Khang"
+  },
+  "nature": [
+    "Thác trời Xuân Lộc",
+    "Vườn Hoa Bốn Mùa"
+  ],
+  "arteries": [
+    "Cao tốc Dầu Giây – Tân Phú (dự án)",
+    "ĐT.770B"
+  ],
+  "key_projects": [
+    "Phát triển nông nghiệp hàng hóa tập trung, cây công nghiệp lâu năm",
+    "chăn nuôi quy mô lớn"
+  ],
+  "industry_residential": [
+    "La Ngà",
+    "Thống Nhất",
+    "Bình Lộc",
+    "Bảo Vinh",
+    "Xuân Lộc",
+    "Xuân Thành",
+    "Định Quán"
+  ],
+  "adjacent": [],
+  "highlights": [],
+  "specialties": [
+    "Canh chua cá lóc",
+    "Cá kho tộ",
+    "Các món từ gà vườn"
+  ],
+  "products": [
+    "Nấm mèo Trường Giang",
+    "Hạt điều Tâm Phố",
+    "Yến sào Dương Vũ"
+  ],
+  "coverImage": "/images/communes/xa-xuan-bac/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Suối Nho và Xuân Bắc (huyện Xuân Lộc cũ)",
+  "updatedAt": ""
+}

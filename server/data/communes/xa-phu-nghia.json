@@ -1,0 +1,54 @@
+{
+  "id": "xa-phu-nghia",
+  "name": "Xã Phú Nghĩa",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 33920,
+  "area_km2": 279.4,
+  "admin_center": "Thôn Khắc Khoan, xã Phú Nghĩa, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lê Thành Long",
+    "chairman": "Lại Thế Hòa"
+  },
+  "nature": [
+    "Kinh tế nông nghiệp là trụ cột",
+    "vùng trồng cây lâu năm"
+  ],
+  "arteries": [
+    "Quốc lộ 14C",
+    "DT.741"
+  ],
+  "key_projects": [
+    "2 cụm công nghiệp Phú Nghĩa 2 và Phú Nghĩa 3"
+  ],
+  "industry_residential": [
+    "Phát triển cây lâu năm",
+    "hợp tác xã",
+    "tổ hợp tác nông nghiệp"
+  ],
+  "adjacent": [
+    "Phước Bình",
+    "Phước Long",
+    "Bom Bo",
+    "Đăk Nhau",
+    "Bù Gia Mập",
+    "Đăk Ơ",
+    "Hưng Phước",
+    "Đa Kia"
+  ],
+  "highlights": [
+    "Hồ Thác Mơ",
+    "Nhà máy thủy điện Thác Mơ"
+  ],
+  "specialties": [
+    "Hạt điều rang muối",
+    "Trái sầu riêng tươi VietGAP",
+    "Mật ong Dú"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/xa-phu-nghia/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phú Nghĩa, Phú Văn, Đức Hạnh",
+  "updatedAt": ""
+}

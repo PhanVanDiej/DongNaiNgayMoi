@@ -1,0 +1,54 @@
+{
+  "id": "xa-dak-lua",
+  "name": "Xã Đắk Lua",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 8234,
+  "area_km2": 415.13,
+  "admin_center": "Tổ 5, ấp 5, xã Đắk Lua, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Phan Văn Tùng",
+    "chairman": "Nguyễn Thanh Hiền"
+  },
+  "nature": [],
+  "arteries": [
+    "Lộ tuyến Đắk Lua – Đăng Hà",
+    "đường sông Đak Lua",
+    "cầu Đak Lua"
+  ],
+  "key_projects": [
+    "Phát triển du lịch sinh thái",
+    "khu nghỉ dưỡng",
+    "mô hình trồng dâu",
+    "nuôi tằm"
+  ],
+  "industry_residential": [
+    "Trồng dâu",
+    "nuôi tằm"
+  ],
+  "adjacent": [
+    "Phước Sơn",
+    "Phú Lý",
+    "Thanh Sơn",
+    "Tà Lài",
+    "Nam Cát Tiên",
+    "Lâm Đồng"
+  ],
+  "highlights": [
+    "Vườn quốc gia Cát Tiên",
+    "Lễ cúng thần rừng",
+    "Lễ hội cầu mưa"
+  ],
+  "specialties": [
+    "Dưa lưới",
+    "Bưởi da xanh"
+  ],
+  "products": [
+    "Các sản phẩm tơ tằm"
+  ],
+  "coverImage": "/images/communes/xa-dak-lua/cover.jpg",
+  "gallery": [],
+  "note": "Không sáp nhập",
+  "updatedAt": ""
+}

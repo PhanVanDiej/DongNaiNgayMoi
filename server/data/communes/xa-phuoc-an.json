@@ -1,0 +1,52 @@
+{
+  "id": "xa-phuoc-an",
+  "name": "Xã Phước An",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 51088,
+  "area_km2": 170.72,
+  "admin_center": "Đường Hùng Vương, ấp Bàu Bông, xã Phước An, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Đỗ Huy Khánh",
+    "chairman": "Huỳnh Minh Đức"
+  },
+  "nature": [],
+  "arteries": [
+    "Đường 769 (Lý Thái Tổ)",
+    "Đường 25B (Tôn Đức Thắng)",
+    "Đường 25C (Nguyễn Ái Quốc)"
+  ],
+  "key_projects": [
+    "Cảng Phước An – cảng biển lớn nhất Đồng Nai, trung tâm logistics – xuất nhập khẩu",
+    "Vùng đất anh hùng – nhiều di tích lịch sử chống Pháp – Mỹ",
+    "Tiềm năng cảng biển – logistics",
+    "Kết nối vùng kinh tế trọng điểm"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp Nhơn Trạch I, II, III, IV, V, VI",
+    "Cụm tiểu thủ công nghiệp Phú Thạnh – Vĩnh Thanh"
+  ],
+  "adjacent": [
+    "Phước Thái",
+    "Nhơn Trạch",
+    "Đại Phước",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Địa đạo Nhơn Trạch",
+    "Căn cứ Rừng Sác Nhơn Trạch"
+  ],
+  "specialties": [
+    "Bạch tuộc nhúng mẻ làng bè Phước An",
+    "Mắm"
+  ],
+  "products": [
+    "Làng bè Phước An",
+    "Chi-Bu Riverside"
+  ],
+  "coverImage": "/images/communes/xa-phuoc-an/cover.jpg",
+  "gallery": [],
+  "note": "",
+  "updatedAt": ""
+}

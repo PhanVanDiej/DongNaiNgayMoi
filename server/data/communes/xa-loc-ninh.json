@@ -1,0 +1,50 @@
+{
+  "id": "xa-loc-ninh",
+  "name": "Xã Lộc Ninh",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 31441,
+  "area_km2": 67.42,
+  "admin_center": "Đường 3/2, khu phố Phan Thịnh, xã Lộc Ninh, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Gia Hòa",
+    "chairman": "Nguyễn Thị Nghĩa"
+  },
+  "nature": [
+    "Trụ sở Chính phủ Cách mạng Lâm thời",
+    "Sân bay quân sự Lộc Ninh",
+    "Khu di tích Sư đoàn Bộ binh 302",
+    "Địa điểm chiến thắng Đốc 31"
+  ],
+  "arteries": [
+    "Quốc lộ 13"
+  ],
+  "key_projects": [
+    "Khu kinh tế cửa khẩu Hoa Lư"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Lộc Thành",
+    "Lộc Quang",
+    "Lộc Hưng",
+    "An Lộc"
+  ],
+  "highlights": [
+    "Khu KOI Paradise Kem 7 Mùi",
+    "Khu Diamond City"
+  ],
+  "specialties": [
+    "Heo nướng thả ống tre",
+    "Hạt điều rang muối Thảo Nguyên Lộc Ninh"
+  ],
+  "products": [
+    "Đang cập nhật"
+  ],
+  "coverImage": "/images/communes/xa-loc-ninh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Lộc Thái, Lộc Thuận và Lộc Ninh",
+  "updatedAt": ""
+}

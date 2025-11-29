@@ -1,0 +1,50 @@
+{
+  "id": "phuong-dong-xoai",
+  "name": "Phường Đồng Xoài",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 35887,
+  "area_km2": 81.33,
+  "admin_center": "Số 1041, Quốc lộ 14, khu phố Tiến Thành 1, phường Đồng Xoài, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Vũ Văn Mười",
+    "chairman": "Dương Hoài Pha"
+  },
+  "nature": [],
+  "arteries": [
+    "Có không gian rộng lớn, hỗ trợ quy hoạch đô thị hiện đại",
+    "quỹ đất lớn",
+    "quần thể dân cư hiệu quả"
+  ],
+  "key_projects": [
+    "Quốc lộ 14",
+    "các dự án tuyến cao tốc Đắk Nông – Chơn Thành"
+  ],
+  "industry_residential": [
+    "Quy hoạch đô thị hiện đại",
+    "thu hút đầu tư",
+    "công nghiệp",
+    "dịch vụ"
+  ],
+  "adjacent": [
+    "Kề giáp: Nha Bích",
+    "Thanh Lợi",
+    "Bình Phước",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Farm Đồn Bình Minh",
+    "Khu đô thị The Gold City"
+  ],
+  "specialties": [],
+  "products": [
+    "Mật ong Sông Bé",
+    "Nấm mối đen",
+    "Nấm bào ngư xám"
+  ],
+  "coverImage": "/images/communes/phuong-dong-xoai/cover.jpg",
+  "gallery": [],
+  "note": "Không sáp nhập",
+  "updatedAt": ""
+}

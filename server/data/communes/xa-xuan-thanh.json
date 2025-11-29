@@ -1,0 +1,47 @@
+{
+  "id": "xa-xuan-thanh",
+  "name": "Xã Xuân Thành",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 22007,
+  "area_km2": 122.71,
+  "admin_center": "Ấp Phượng Vỹ, xã Xuân Thành, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lâm Hữu Tú",
+    "chairman": "Nguyễn Thị Thùy Linh"
+  },
+  "nature": [
+    "Ga Trảng Táo"
+  ],
+  "arteries": [
+    "DT.766",
+    "DT.772",
+    "đường sắt Bắc – Nam"
+  ],
+  "key_projects": [
+    "Khu du lịch sinh thái Suối Cao",
+    "Hợp tác xã hồ tiêu Suối Cao"
+  ],
+  "industry_residential": [
+    "Định Quán",
+    "Xuân Bắc",
+    "Xuân Lộc",
+    "Xuân Hòa",
+    "tỉnh Lâm Đồng"
+  ],
+  "adjacent": [
+    "Khu du lịch sinh thái Suối Cao"
+  ],
+  "highlights": [],
+  "specialties": [],
+  "products": [
+    "Sầu riêng",
+    "Xoài",
+    "Tiêu"
+  ],
+  "coverImage": "/images/communes/xa-xuan-thanh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Suối Cao và Xuân Thành",
+  "updatedAt": ""
+}

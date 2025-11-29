@@ -1,0 +1,18 @@
+[
+    {
+        "id": "thac-dung",
+        "name": "Thác Đứng",
+        "aliases": [
+            "thac dung",
+            "thac dung bu dang"
+        ]
+    },
+    {
+        "id": "kdl-buu-long",
+        "name": "Khu du lịch Bửu Long",
+        "aliases": [
+            "kdl buu long",
+            "buu long"
+        ]
+    }
+]

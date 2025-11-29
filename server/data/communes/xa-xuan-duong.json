@@ -1,0 +1,60 @@
+{
+  "id": "xa-xuan-duong",
+  "name": "Xã Xuân Đường",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 26565,
+  "area_km2": 82.11,
+  "admin_center": "Ấp Cẩm Đường, xã Xuân Đường",
+  "leaders": {
+    "partySecretary": "Lê Hồng Cường",
+    "chairman": "Bùi Văn Thọ"
+  },
+  "nature": [
+    "Suối đá Cẩm Đường",
+    "Đập suối Quýt",
+    "Điều kiện tự nhiên thuận lợi"
+  ],
+  "arteries": [
+    "cao tốc Bắc – Nam",
+    "đường Vành đai 4",
+    "ĐT.770B",
+    "ĐT.773"
+  ],
+  "key_projects": [
+    "KCN Cẩm Mỹ",
+    "Khu công nghệ cao Đồng Nai",
+    "Sân Golf Xuân Đường 180ha"
+  ],
+  "industry_residential": [
+    "KCN Cẩm Mỹ",
+    "Khu công nghệ cao",
+    "khu dân cư"
+  ],
+  "adjacent": [
+    "Long Phước",
+    "Long Thành",
+    "Xuân Quế",
+    "Cẩm Mỹ",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Suối đá Cẩm Đường",
+    "Đập suối Quýt"
+  ],
+  "specialties": [
+    "Đệ tại bàn",
+    "Gà hấp mắm nhĩ",
+    "Lẩu đồng quê"
+  ],
+  "products": [
+    "Hạt điều",
+    "Bưởi da xanh",
+    "Sầu riêng"
+  ],
+  "coverImage": "/images/communes/xa-xuan-duong/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Xuân Đường, Thừa Đức, Cẩm Đường",
+  "updatedAt": ""
+}

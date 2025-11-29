@@ -1,0 +1,51 @@
+{
+  "id": "xa-an-vien",
+  "name": "Xã An Viễn",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 24150,
+  "area_km2": 47.74,
+  "admin_center": "Ấp Tân Hưng, xã An Viễn, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Vũ Đình Trung",
+    "chairman": "Nguyễn Quốc Tần"
+  },
+  "nature": [
+    "Rừng cao su Đồi 61",
+    "Các trang trại nuôi cá lóc, cá rô đồng"
+  ],
+  "arteries": [
+    "Quốc lộ 51",
+    "Đường vành đai 4",
+    "ĐT.778",
+    "ĐT.777",
+    "Đường Bình Minh – Giang Điền"
+  ],
+  "key_projects": [
+    "KCN Bàu Xéo",
+    "Khu trung chuyển Miền Đông",
+    "Cụm công nghiệp Bàu Xéo 2",
+    "Cụm công nghiệp Đồi 61"
+  ],
+  "industry_residential": [
+    "Trảng Bom",
+    "Tam Phước",
+    "An Phước",
+    "Bình An",
+    "Hưng Thịnh"
+  ],
+  "adjacent": [],
+  "highlights": [],
+  "specialties": [
+    "Cháo vịt",
+    "Các món cá đồng"
+  ],
+  "products": [
+    "Sản phẩm OCOP: Sáp ong, mật ong, gừng sấy lạnh, tinh nghệ, mứt ong"
+  ],
+  "coverImage": "/images/communes/xa-an-vien/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: An Viễn và Đồi 61",
+  "updatedAt": ""
+}

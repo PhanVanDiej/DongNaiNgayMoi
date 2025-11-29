@@ -1,0 +1,55 @@
+{
+  "id": "xa-dak-nhau",
+  "name": "Xã Đăk Nhau",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 23076,
+  "area_km2": 182.47,
+  "admin_center": "Thôn Thống Nhất, xã Đăk Nhau, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Trọng Lâm",
+    "chairman": "Đang cập nhật"
+  },
+  "nature": [
+    "Nông nghiệp giữ vai trò chủ đạo",
+    "diện tích rừng lớn",
+    "26 thành phần dân tộc"
+  ],
+  "arteries": [
+    "Tuyến ĐT.760"
+  ],
+  "key_projects": [
+    "Bến xe xã Đăk Nhau",
+    "Trung tâm thương mại xã Đăk Nhau (chợ Đăk Nhau)"
+  ],
+  "industry_residential": [
+    "Nông nghiệp",
+    "lâm nghiệp",
+    "thủy sản chủ lực"
+  ],
+  "adjacent": [
+    "Thọ Sơn",
+    "Bom Bo",
+    "Phú Nghĩa",
+    "Bù Gia Mập",
+    "tỉnh Lâm Đồng"
+  ],
+  "highlights": [
+    "Lễ hội cầu mưa",
+    "Các lễ hội dân tộc thiểu số"
+  ],
+  "specialties": [
+    "Canh bồi",
+    "Thịt heo cuộn bắp cải",
+    "Khâu nhục"
+  ],
+  "products": [
+    "Hạt điều rang muối",
+    "Yến sào"
+  ],
+  "coverImage": "/images/communes/xa-dak-nhau/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Đường 10, Đăk Nhau",
+  "updatedAt": ""
+}

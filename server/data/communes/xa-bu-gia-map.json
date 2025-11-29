@@ -1,0 +1,48 @@
+{
+  "id": "xa-bu-gia-map",
+  "name": "Xã Bù Gia Mập",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 8000,
+  "area_km2": 342,
+  "admin_center": "Thôn Bù Lư, xã Bù Gia Mập, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lê Hoàng Nam",
+    "chairman": "Trần Lâm"
+  },
+  "nature": [
+    "66% diện tích tự nhiên thuộc vùng lõi Vườn quốc gia Bù Gia Mập"
+  ],
+  "arteries": [
+    "Quốc lộ 14C",
+    "ĐT760B"
+  ],
+  "key_projects": [
+    "Điểm cuối đường ống dẫn xăng dầu VK96",
+    "Thác Đak Mai 1"
+  ],
+  "industry_residential": [
+    "Vườn quốc gia Bù Gia Mập (du lịch sinh thái)",
+    "khu dân cư Bù Lư"
+  ],
+  "adjacent": [
+    "Đắk Ơ",
+    "Phú Nghĩa",
+    "Đắk Nhau",
+    "Vương quốc Campuchia"
+  ],
+  "highlights": [
+    "Điểm cuối đường ống xăng dầu VK96",
+    "Thác Đak Mai 1",
+    "Vườn quốc gia Bù Gia Mập"
+  ],
+  "specialties": [
+    "Khu du lịch sinh thái Vườn quốc gia Bù Gia Mập"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/xa-bu-gia-map/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Bù Gia Mập và Binh Minh",
+  "updatedAt": ""
+}

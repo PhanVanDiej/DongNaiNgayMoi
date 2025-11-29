@@ -1,0 +1,53 @@
+{
+  "id": "xa-dong-tam",
+  "name": "Xã Đồng Tâm",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 30654,
+  "area_km2": 248.74,
+  "admin_center": "ĐT.753, ấp Cây Điệp, xã Đồng Tâm, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Đinh Văn Kỹ",
+    "chairman": "Nguyễn Thanh Phương"
+  },
+  "nature": [
+    "Quy mô nông nghiệp lớn, nhiều cây lâu năm, sản xuất – chế biến nông lâm sản phát triển"
+  ],
+  "arteries": [
+    "Quốc lộ 14",
+    "ĐT.753B",
+    "Cao tốc Bắc – Nam phía Tây"
+  ],
+  "key_projects": [
+    "Phát triển du lịch sinh thái (KDL Quả Điều Vàng, Ladona), phát triển nông nghiệp công nghệ cao"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp Bình Phước",
+    "Khu du lịch sinh thái Quả Điều Vàng"
+  ],
+  "adjacent": [
+    "Tân Lợi",
+    "Phú Lợi",
+    "Phú Sơn",
+    "Nghĩa Trung",
+    "Phú Trung",
+    "Phú Riềng",
+    "Thuận Lợi",
+    "Bình Phước"
+  ],
+  "highlights": [
+    "Khu du lịch sinh thái Quả Điều Vàng",
+    "Khu du lịch Ladona"
+  ],
+  "specialties": [
+    "Sầu riêng",
+    "Bưởi",
+    "Mít ruột đỏ"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/xa-dong-tam/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Đồng Tâm, Đồng Tiến và Tân Phước",
+  "updatedAt": ""
+}

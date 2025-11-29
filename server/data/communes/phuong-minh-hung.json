@@ -1,0 +1,47 @@
+{
+  "id": "phuong-minh-hung",
+  "name": "Phường Minh Hưng",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 34123,
+  "area_km2": 99.67,
+  "admin_center": "Quốc lộ 13, khu phố 3A, phường Minh Hưng, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lê Tiến Hiếu",
+    "chairman": "Lê Khắc Đồng"
+  },
+  "nature": [
+    "Chợ Minh Hưng"
+  ],
+  "arteries": [
+    "Quốc lộ 13",
+    "Quốc lộ 13 cũ",
+    "ĐT.752B",
+    "ĐT.751"
+  ],
+  "key_projects": [
+    "KCN Minh Hưng – Hàn Quốc",
+    "KCN Minh Hưng III",
+    "KDC Đại Nam",
+    "Minh Hưng III",
+    "Minh Hưng",
+    "Phúc Hưng",
+    "khu nhà ở xã hội Minh Hưng"
+  ],
+  "industry_residential": [
+    "Tân Khai",
+    "Tân Quan",
+    "Chơn Thành",
+    "Nha Bích",
+    "TP Hồ Chí Minh"
+  ],
+  "adjacent": [],
+  "highlights": [],
+  "specialties": [],
+  "products": [],
+  "coverImage": "/images/communes/phuong-minh-hung/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Minh Hưng và Minh Long",
+  "updatedAt": ""
+}

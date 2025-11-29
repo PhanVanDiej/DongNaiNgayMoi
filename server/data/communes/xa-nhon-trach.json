@@ -1,0 +1,53 @@
+{
+  "id": "xa-nhon-trach",
+  "name": "Xã Nhơn Trạch",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 78589,
+  "area_km2": 108.04,
+  "admin_center": "Số 01 và 02 đường Phạm Văn Thuận, xã Nhơn Trạch, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Từ Nam Thành",
+    "chairman": "Lư Thành Nam"
+  },
+  "nature": [
+    "Làng cổ Phú Hội",
+    "Đình Phú Mỹ"
+  ],
+  "arteries": [
+    "Đường 769",
+    "đường 25B",
+    "đường 25C",
+    "đường Vành đai 3"
+  ],
+  "key_projects": [
+    "Các tuyến cao tốc Bến Lức – Long Thành",
+    "cao tốc Hồ Chí Minh – Long Thành – Dầu Giây"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp Nhơn Trạch I–VII",
+    "Cụm CN Phú Thạnh – Vĩnh Thanh"
+  ],
+  "adjacent": [
+    "Phước An",
+    "Đại Phước",
+    "Long Thành",
+    "Long Phước",
+    "Phước Thái",
+    "An Phước",
+    "TP Hồ Chí Minh"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Vịt nướng Đại Hiệp"
+  ],
+  "products": [
+    "Trà Phú Hội",
+    "Cơm rượu Tám Điệp Phú Hội"
+  ],
+  "coverImage": "/images/communes/xa-nhon-trach/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phú Thạnh, Long Tân, Phú Hội, Phước Thiền, Hiệp Phước",
+  "updatedAt": ""
+}

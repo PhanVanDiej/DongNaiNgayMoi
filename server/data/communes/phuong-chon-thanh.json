@@ -1,0 +1,52 @@
+{
+  "id": "phuong-chon-thanh",
+  "name": "Phường Chơn Thành",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 43789,
+  "area_km2": 124.41,
+  "admin_center": "Đường Nguyễn Văn Linh, khu phố Trung Lợi, phường Chơn Thành, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Minh Bình",
+    "chairman": "Nguyễn Anh Tài"
+  },
+  "nature": [
+    "Đình thần Hưng Long",
+    "Địa điểm cuối đường Hồ Chí Minh"
+  ],
+  "arteries": [
+    "Quốc lộ 13",
+    "Quốc lộ 14",
+    "Cao tốc Gia Nghĩa – Chơn Thành"
+  ],
+  "key_projects": [
+    "Phát triển KCN Chơn Thành 1, 2",
+    "Đô thị Hoa Lư"
+  ],
+  "industry_residential": [
+    "Không gian khu dân cư – đô thị mới",
+    "KCN Chơn Thành – Becamex"
+  ],
+  "adjacent": [
+    "Bình Hưng",
+    "Nhà Bích",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Trung tâm thương mại Chơn Thành Plaza",
+    "Vườn nhà Glamping Bình Phước",
+    "Hội quán Mai Vàng Chơn Thành"
+  ],
+  "specialties": [
+    "Bánh canh giò heo Tường Vy",
+    "Cơm gia đình Cây Điệp"
+  ],
+  "products": [
+    "Bưởi da xanh Chơn Thành"
+  ],
+  "coverImage": "/images/communes/phuong-chon-thanh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Hưng Long, Thành Tâm, Minh Thành",
+  "updatedAt": ""
+}

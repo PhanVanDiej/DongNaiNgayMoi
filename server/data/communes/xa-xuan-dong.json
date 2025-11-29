@@ -1,0 +1,45 @@
+{
+  "id": "xa-xuan-dong",
+  "name": "Xã Xuân Đông",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 47623,
+  "area_km2": 107.97,
+  "admin_center": "Ấp 1, xã Xuân Đông, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Phan Trung Hưng Hà",
+    "chairman": "Trần Văn Thức"
+  },
+  "nature": [
+    "Miếu Quan Âm ấp 7",
+    "Lễ Tạ Tai Phán"
+  ],
+  "arteries": [
+    "ĐT.764",
+    "ĐT.765"
+  ],
+  "key_projects": [
+    "Sản xuất nông nghiệp",
+    "Định hướng đô thị – công nghiệp"
+  ],
+  "industry_residential": [],
+  "adjacent": [
+    "Chùa Viên Quang",
+    "Giáo xứ Xuân Tây"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Gà nướng Phú Gia",
+    "Cơm gà xối mỡ Lâm Beo 3"
+  ],
+  "products": [
+    "Nấm mối đen Anh Minh",
+    "Cà phê",
+    "Sầu riêng Mùi Đồng Lành"
+  ],
+  "coverImage": "/images/communes/xa-xuan-dong/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Xuân Tây, Xuân Đông và một phần Xuân Tâm",
+  "updatedAt": ""
+}

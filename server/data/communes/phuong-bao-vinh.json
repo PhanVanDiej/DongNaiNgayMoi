@@ -1,0 +1,51 @@
+{
+  "id": "phuong-bao-vinh",
+  "name": "Phường Bảo Vinh",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 36989,
+  "area_km2": 50.85,
+  "admin_center": "Đường Duy Tân, phường Bảo Vinh, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Bích Thủy",
+    "chairman": "Bùi Quốc Thể"
+  },
+  "nature": [
+    "Vườn sinh thái Cánh đồng hạ"
+  ],
+  "arteries": [
+    "Bắc – Nam",
+    "Quốc lộ 1"
+  ],
+  "key_projects": [
+    "Phát triển nông nghiệp chất lượng cao",
+    "Kết nối giao thông vùng"
+  ],
+  "industry_residential": [
+    "Hiệu quả từ cây ăn trái đặc sản",
+    "khu công nghiệp Suối Tre và dịch vụ"
+  ],
+  "adjacent": [
+    "Bình Lộc",
+    "Long Khánh",
+    "Xuân Lộc",
+    "Xuân Thành",
+    "Xuân Bắc"
+  ],
+  "highlights": [
+    "Vườn sinh thái Cánh đồng hạ",
+    "cảnh quan tự nhiên"
+  ],
+  "specialties": [
+    "Sầu riêng Bảo Vinh",
+    "Gỏi gà măng cụt Hai Phượng"
+  ],
+  "products": [
+    "Các sản phẩm OCOP (hạt điều rang muối, mít sấy, dứa lưới…)"
+  ],
+  "coverImage": "/images/communes/phuong-bao-vinh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Bảo Vinh và Bảo Quang",
+  "updatedAt": ""
+}

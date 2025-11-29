@@ -1,0 +1,56 @@
+{
+  "id": "xa-tan-phu",
+  "name": "Xã Tân Phú",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 76765,
+  "area_km2": 105.81,
+  "admin_center": "Khu 7, xã Tân Phú, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trần Quang Tú",
+    "chairman": "Phạm Ngọc Hưng"
+  },
+  "nature": [
+    "Là xã miền núi, nằm giữa tuyến du lịch TP.HCM – Đà Lạt, có vai trò liên kết vùng quan trọng"
+  ],
+  "arteries": [
+    "Quốc lộ 20",
+    "Cao tốc Dầu Giây – Tân Phú",
+    "ĐT.774B"
+  ],
+  "key_projects": [
+    "KCN Tân Phú",
+    "Quy hoạch khu đô thị khoảng 629.91ha"
+  ],
+  "industry_residential": [
+    "KCN Tân Phú"
+  ],
+  "adjacent": [
+    "Phú Hòa",
+    "Phú Lâm",
+    "Nam Cát Tiên",
+    "Tà Lài",
+    "Phú Vinh",
+    "tỉnh Lâm Đồng"
+  ],
+  "highlights": [
+    "Công viên Suối Mơ",
+    "Khu du lịch hồ Đa Tôn",
+    "Cánh đồng lúa Phú Thanh"
+  ],
+  "specialties": [
+    "Lẩu cua đồng Tân Phú",
+    "Bánh xèo Tân Phú",
+    "Quán nướng và lẩu Phố Xưa"
+  ],
+  "products": [
+    "Cà phê YES WIN-WIN",
+    "Rượu Kabin",
+    "Trứng cút ăn liền VINA EGG"
+  ],
+  "coverImage": "/images/communes/xa-tan-phu/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phú Lộc, Trà Cổ, Phú Thanh, Phú Xuân và Tân Phú",
+  "updatedAt": ""
+}

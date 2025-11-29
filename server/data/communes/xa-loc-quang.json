@@ -1,0 +1,51 @@
+{
+  "id": "xa-loc-quang",
+  "name": "Xã Lộc Quang",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 26314,
+  "area_km2": 104.95,
+  "admin_center": "Ấp Vê Vang, xã Lộc Quang, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trần Đức Thịnh",
+    "chairman": "Võ Văn Lượng"
+  },
+  "nature": [
+    "Bồn xăng VK98",
+    "Căn cứ Cục hậu cần QGP miền Nam"
+  ],
+  "arteries": [
+    "ĐT.756",
+    "ĐT.759B"
+  ],
+  "key_projects": [
+    "Đang cập nhật"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Lộc Tân",
+    "Lộc Ninh",
+    "Lộc Hưng",
+    "Tân Hưng",
+    "Bình Tân",
+    "Đa Kia",
+    "Tân Tiến"
+  ],
+  "highlights": [
+    "Đảo Châu Homestay"
+  ],
+  "specialties": [
+    "Rượu cần Bố Thạch",
+    "Trà dược liệu thiên nhiên Mạnh Hùng"
+  ],
+  "products": [
+    "Đang cập nhật"
+  ],
+  "coverImage": "/images/communes/xa-loc-quang/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Lộc Quang, Lộc Phú và Lộc Hiệp",
+  "updatedAt": ""
+}

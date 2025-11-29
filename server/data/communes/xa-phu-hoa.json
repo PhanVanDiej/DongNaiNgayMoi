@@ -1,0 +1,55 @@
+{
+  "id": "xa-phu-hoa",
+  "name": "Xã Phú Hòa",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 36781,
+  "area_km2": 61.53,
+  "admin_center": "Ấp Phú Lợi 3, xã Phú Hòa, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trần Nam Biên",
+    "chairman": "Nguyễn Văn Viện"
+  },
+  "nature": [
+    "Cánh đồng lúa Phú Điền",
+    "Đá chủ thạch",
+    "cảnh quan thiên nhiên nông thôn"
+  ],
+  "arteries": [
+    "Quốc lộ 20",
+    "Cao tốc Dầu Giây – Tân Phú",
+    "ĐT.774B",
+    "sông La Ngà"
+  ],
+  "key_projects": [
+    "Phát triển cụm công nghiệp nhỏ và vừa",
+    "phát triển du lịch sinh thái Suối Mơ – Thác Bà Giọt – Thác Mai"
+  ],
+  "industry_residential": [
+    "Cụm công nghiệp nhỏ và vừa"
+  ],
+  "adjacent": [
+    "Định Quán",
+    "Phú Vinh",
+    "Tân Phú",
+    "Lâm Đồng"
+  ],
+  "highlights": [
+    "Đá Nam Tài",
+    "Điểm dừng chân Ca cao Trọng Đức"
+  ],
+  "specialties": [
+    "Trứng vịt Oanh Tới",
+    "Canh thục",
+    "Lá nhíp xào"
+  ],
+  "products": [
+    "Ca cao Trọng Đức",
+    "Cà phê Nguyên Anh"
+  ],
+  "coverImage": "/images/communes/xa-phu-hoa/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phú Hòa, Phú Lợi, Phú Điền",
+  "updatedAt": ""
+}

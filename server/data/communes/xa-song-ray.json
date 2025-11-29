@@ -1,0 +1,52 @@
+{
+  "id": "xa-song-ray",
+  "name": "Xã Sông Ray",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 31346,
+  "area_km2": 65.6,
+  "admin_center": "Ấp 1, xã Sông Ray, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lưu Văn Sửu",
+    "chairman": "Phan Tấn Tài"
+  },
+  "nature": [
+    "Xã nổi tiếng với hệ thống hồ nước ngọt và cảnh quan phong phú như hồ Sông Ray, suối Thẻ"
+  ],
+  "arteries": [
+    "Quốc lộ 51C (quy hoạch)",
+    "ĐT.765",
+    "ĐT.765B",
+    "ĐT.764"
+  ],
+  "key_projects": [
+    "Các dự án du lịch sinh thái",
+    "Phát triển thương mại – dịch vụ tại khu vực hồ Sông Ray và suối Thẻ"
+  ],
+  "industry_residential": [
+    "Nông nghiệp – du lịch – dịch vụ"
+  ],
+  "adjacent": [
+    "Xuân Đông",
+    "Cẩm Mỹ",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Hồ Sông Ray",
+    "Cánh đồng Nông trường 4"
+  ],
+  "specialties": [
+    "Cá chép om dưa",
+    "Gà hấp rượu mận"
+  ],
+  "products": [
+    "Lẩu cá kèo",
+    "Lúa hữu cơ",
+    "Tiêu Lâm San"
+  ],
+  "coverImage": "/images/communes/xa-song-ray/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Lâm San và Sông Ray",
+  "updatedAt": ""
+}

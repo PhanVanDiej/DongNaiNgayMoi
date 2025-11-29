@@ -1,0 +1,51 @@
+{
+  "id": "xa-phu-vinh",
+  "name": "Xã Phú Vinh",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 31328,
+  "area_km2": 69.45,
+  "admin_center": "Ấp 1, xã Phú Vinh, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Đào Văn Tuấn",
+    "chairman": "Lê Triết Như Vũ"
+  },
+  "nature": [
+    "Thác Ba Giọt",
+    "Lễ Tả Tai Phán"
+  ],
+  "arteries": [
+    "Quốc lộ 20",
+    "sông Đồng Nai"
+  ],
+  "key_projects": [
+    "Phát triển du lịch sinh thái và nông nghiệp bền vững",
+    "dự án NLTT gắn với du lịch khám phá"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Thanh Sơn",
+    "Định Quán",
+    "Phú Hòa",
+    "Tân Phú",
+    "Tà Lài"
+  ],
+  "highlights": [
+    "Hang Dơi",
+    "Nhà máy Thủy điện Phú Tân 2"
+  ],
+  "specialties": [
+    "Các món ngon về gà trống thiến",
+    "Thịt khẩu nhục"
+  ],
+  "products": [
+    "Các sản phẩm OCOP địa phương"
+  ],
+  "coverImage": "/images/communes/xa-phu-vinh/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phú Tân và Phú Vinh",
+  "updatedAt": ""
+}

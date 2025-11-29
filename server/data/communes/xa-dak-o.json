@@ -1,0 +1,52 @@
+{
+  "id": "xa-dak-o",
+  "name": "Xã Đắc Ơ",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "27/05/2025",
+  "population": 19023,
+  "area_km2": 246,
+  "admin_center": "Thôn Đắk Lim, xã Đắc Ơ, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Phùng Hiệp Quốc",
+    "chairman": "Nguyễn Tấn Lực"
+  },
+  "nature": [
+    "Là xã biên giới",
+    "Vùng sâu, vùng xa"
+  ],
+  "arteries": [
+    "Tuyến Quốc lộ 14C"
+  ],
+  "key_projects": [
+    "Đang cập nhật"
+  ],
+  "industry_residential": [
+    "Nông nghiệp là chủ lực"
+  ],
+  "adjacent": [
+    "Bù Gia Mập",
+    "Phú Nghĩa",
+    "Hưng Phước",
+    "Vương quốc Campuchia"
+  ],
+  "highlights": [
+    "Điểm cuối đường ống dẫn xăng dầu VK96",
+    "Thác Đak Mai 1",
+    "Vườn quốc gia Bù Gia Mập"
+  ],
+  "specialties": [
+    "Lá nhíp xào đọt mây rừng",
+    "Đọt mây rừng nướng",
+    "Cơm lam"
+  ],
+  "products": [
+    "Tiêu sạch Cô Hai",
+    "Sầu riêng Phường Nghĩa",
+    "Mít thái sấy giòn"
+  ],
+  "coverImage": "/images/communes/xa-dak-o/cover.jpg",
+  "gallery": [],
+  "note": "Không sáp nhập, thuộc nhóm 7 xã giữ nguyên theo NQ 1662",
+  "updatedAt": ""
+}

@@ -1,0 +1,54 @@
+{
+  "id": "xa-xuan-phu",
+  "name": "Xã Xuân Phú",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 29608,
+  "area_km2": 55.63,
+  "admin_center": "Đường Lang Minh – Xuân Đông, xã Xuân Phú, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Lại Thế Thông",
+    "chairman": "Nguyễn Văn Linh"
+  },
+  "nature": [
+    "Địa phương tiên phong nông thôn mới kiểu mẫu với sản phẩm nông nghiệp chất lượng cao"
+  ],
+  "arteries": [
+    "Quốc lộ 1",
+    "Cao tốc Dầu Giây – Phan Thiết",
+    "ĐT.765",
+    "ĐT.763B"
+  ],
+  "key_projects": [
+    "Các tuyến giao thông liên kết phát triển kinh tế",
+    "Hỗ trợ các ngành công nghiệp và dịch vụ nông thôn"
+  ],
+  "industry_residential": [
+    "Giao thương – nông nghiệp – dịch vụ"
+  ],
+  "adjacent": [
+    "Xuân Lộc",
+    "Xuân Hòa",
+    "Xuân Đông",
+    "Xuân Định",
+    "Long Khánh"
+  ],
+  "highlights": [
+    "Cánh đồng bắp Lang Minh",
+    "Vườn trái cây thanh long"
+  ],
+  "specialties": [
+    "Trứng chim trĩ",
+    "Quán lẩu Cây Dừa",
+    "Phở gia truyền Thiên Ân"
+  ],
+  "products": [
+    "Gạo sạch",
+    "Thanh long"
+  ],
+  "coverImage": "/images/communes/xa-xuan-phu/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Xuân Phú và Lang Minh",
+  "updatedAt": ""
+}

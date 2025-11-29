@@ -1,0 +1,54 @@
+{
+  "id": "xa-nam-cat-tien",
+  "name": "Xã Nam Cát Tiên",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 15922,
+  "area_km2": 82.93,
+  "admin_center": "Ấp 1, xã Nam Cát Tiên, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Võ Hoàng Phương",
+    "chairman": "Trương Hồng Phúc"
+  },
+  "nature": [
+    "Vườn quốc gia Cát Tiên",
+    "Chùa Hồng Trung Sơn"
+  ],
+  "arteries": [
+    "Quốc lộ 20",
+    "ĐT.774B",
+    "Cao tốc Dầu Giây – Liên Khương (đoạn Tân Phú – Bảo Lộc dự kiến hoàn thành)"
+  ],
+  "key_projects": [
+    "Trung tâm cứu hộ linh trưởng",
+    "Du lịch sinh thái Vườn quốc gia Cát Tiên"
+  ],
+  "industry_residential": [
+    "Đang cập nhật"
+  ],
+  "adjacent": [
+    "Đak Lua",
+    "Tà Lài",
+    "Phú Lâm",
+    "Tân Phú",
+    "Lâm Đồng"
+  ],
+  "highlights": [
+    "Trung tâm cứu hộ linh trưởng đảo Tiên",
+    "Bàu Sấu",
+    "Hồ cây si trăm thân"
+  ],
+  "specialties": [
+    "Đang cập nhật"
+  ],
+  "products": [
+    "Nấm mỡ",
+    "Sầu riêng",
+    "Nấm hương"
+  ],
+  "coverImage": "/images/communes/xa-nam-cat-tien/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phú An và Nam Cát Tiên",
+  "updatedAt": ""
+}

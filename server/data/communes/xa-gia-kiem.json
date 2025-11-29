@@ -1,0 +1,50 @@
+{
+  "id": "xa-gia-kiem",
+  "name": "Xã Gia Kiệm",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 79274,
+  "area_km2": 82.72,
+  "admin_center": "Ấp Nam Sơn, xã Gia Kiệm, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Huy Du",
+    "chairman": "La Nguyễn Minh Hiền"
+  },
+  "nature": [
+    "Xã có tỷ lệ người dân theo đạo rất lớn (hơn 98%)"
+  ],
+  "arteries": [
+    "Quốc lộ 20",
+    "ĐT.762",
+    "Đường Suối Tre – Bình Lộc"
+  ],
+  "key_projects": [
+    "Cụm công nghiệp Quang Trung 1",
+    "Quang Trung 2",
+    "Khu thương mại – dịch vụ số 1 và số 2 xã Quang Trung"
+  ],
+  "industry_residential": [
+    "Nông nghiệp – công nghiệp"
+  ],
+  "adjacent": [
+    "Thống Nhất",
+    "Bàu Hàm",
+    "Dầu Giây",
+    "phường Bình Lộc"
+  ],
+  "highlights": [
+    "Đốc Mơ Farm",
+    "Nhà thờ Giáo xứ Võ Dõng"
+  ],
+  "specialties": [
+    "Giò chả Gia Kiệm"
+  ],
+  "products": [
+    "Bánh xèo Quang Trung"
+  ],
+  "coverImage": "/images/communes/xa-gia-kiem/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Quang Trung, Gia Kiệm và Gia Tân 3",
+  "updatedAt": ""
+}

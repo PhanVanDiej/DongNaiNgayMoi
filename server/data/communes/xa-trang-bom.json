@@ -1,0 +1,50 @@
+{
+  "id": "xa-trang-bom",
+  "name": "Xã Trảng Bom",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 92712,
+  "area_km2": 68.77,
+  "admin_center": "Đường Nguyễn Hữu Cảnh, xã Trảng Bom, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Đặng Doãn Thành",
+    "chairman": "Lê Ngọc Tiên"
+  },
+  "nature": [
+    "Gỏi cá 102",
+    "Cơm niêu Sông Trầu"
+  ],
+  "arteries": [
+    "Quốc lộ 1A",
+    "ĐT.777",
+    "tuyến Bình Minh – Giang Điền"
+  ],
+  "key_projects": [
+    "KCN Bàu Xéo",
+    "KCN Giang Điền"
+  ],
+  "industry_residential": [
+    "Bàu Hàm",
+    "Tân An",
+    "Bình Minh",
+    "Phước Tân",
+    "Tam Phước",
+    "An Viễn",
+    "Hưng Thịnh"
+  ],
+  "adjacent": [
+    "Thác Giang Điền",
+    "Thác Đá Hàn"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Gỏi cá 102",
+    "Cơm niêu Sông Trầu"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/xa-trang-bom/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Giang Điền, Quảng Tiến, Sông Trầu, Trảng Bom",
+  "updatedAt": ""
+}

@@ -1,0 +1,55 @@
+{
+  "id": "xa-xuan-loc",
+  "name": "Xã Xuân Lộc",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 104304,
+  "area_km2": 140.5,
+  "admin_center": "Số 263, đường Hùng Vương, xã Xuân Lộc, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thị Cát Tiên",
+    "chairman": "Lê Khắc Sơn"
+  },
+  "nature": [
+    "Địa phương tiên phong xây dựng nông thôn mới kiểu mẫu của tỉnh"
+  ],
+  "arteries": [
+    "Quốc lộ 1",
+    "Cao tốc Dầu Giây – Phan Thiết",
+    "Đường sắt Bắc – Nam"
+  ],
+  "key_projects": [
+    "Phát triển du lịch sinh thái – vườn",
+    "Các dự án dịch vụ và văn hóa tại Xuân Lộc"
+  ],
+  "industry_residential": [
+    "Nông nghiệp – du lịch – dịch vụ"
+  ],
+  "adjacent": [
+    "Xuân Bắc",
+    "Xuân Thành",
+    "Xuân Hòa",
+    "Xuân Phú",
+    "phường Bảo Vinh",
+    "phường Long Khánh"
+  ],
+  "highlights": [
+    "Núi Chứa Chan",
+    "Chùa Bửu Quang",
+    "Hồ Núi Le",
+    "Dấu tích Nhà nghi toàn quyền Pháp",
+    "Vườn trái cây"
+  ],
+  "specialties": [
+    "Chuối rừng núi Gia Lào",
+    "Hạt điều rang muối"
+  ],
+  "products": [
+    "Xoài cát Hòa Lộc"
+  ],
+  "coverImage": "/images/communes/xa-xuan-loc/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Suối Cát, Xuân Thọ, Xuân Trường, Xuân Hiệp và Gia Ray",
+  "updatedAt": ""
+}

@@ -1,0 +1,60 @@
+{
+  "id": "xa-tri-an",
+  "name": "Xã Trị An",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 51028,
+  "area_km2": 660.46,
+  "admin_center": "Đường Nguyễn Tất Thành, ấp Vĩnh An 8, xã Trị An, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Thanh Tú",
+    "chairman": "Nguyễn Thị Dung"
+  },
+  "nature": [
+    "Căn cứ Khu ủy miền Đông Nam Bộ",
+    "Nghĩa trang liệt sĩ Mã Đà"
+  ],
+  "arteries": [
+    "ĐT762",
+    "ĐT767",
+    "ĐT753"
+  ],
+  "key_projects": [
+    "Quy hoạch các tuyến giao thông trọng điểm",
+    "Hồ Trị An – Nhà máy thủy điện Trị An"
+  ],
+  "industry_residential": [
+    "Khu bảo tồn thiên nhiên Vĩnh Cửu",
+    "Rừng Mã Đà",
+    "Hệ thống thủy điện Trị An"
+  ],
+  "adjacent": [
+    "Tân An",
+    "Bàu Hàm",
+    "Thống Nhất",
+    "La Ngà",
+    "Thanh Sơn",
+    "Phú Lý",
+    "Tân Lợi",
+    "Thành phố Hồ Chí Minh"
+  ],
+  "highlights": [
+    "Khu bảo tồn Vĩnh Cửu",
+    "Nhà máy thủy điện Trị An",
+    "Rừng Mã Đà",
+    "Hồ Trị An và các đảo nhỏ"
+  ],
+  "specialties": [
+    "Gỏi xoài khô cá",
+    "Lẩu cá lăng rau bìm bịp",
+    "Cá cơm chiên bột"
+  ],
+  "products": [
+    "Đang cập nhật"
+  ],
+  "coverImage": "/images/communes/xa-tri-an/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Vĩnh An, Mã Đà và Trị An",
+  "updatedAt": ""
+}

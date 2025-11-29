@@ -1,0 +1,54 @@
+{
+  "id": "xa-thuan-loi",
+  "name": "Xã Thuận Lợi",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 23650,
+  "area_km2": 167.23,
+  "admin_center": "ĐT.741, ấp Thuận Hòa 1, xã Thuận Lợi, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Bùi Thị Minh Thúy",
+    "chairman": "Hoa Vận Định"
+  },
+  "nature": [
+    "Thành đất hình tròn Thuận Lợi 1",
+    "Thành đất hình tròn Thuận Phú 2",
+    "Địa điểm thành lập Chi bộ Đông Dương Cộng sản Đảng ở Phú Riềng",
+    "Kết nứa – địa điểm Mỹ – nguy sát hại đồng bào Làng 2"
+  ],
+  "arteries": [
+    "ĐT.758",
+    "ĐT.741"
+  ],
+  "key_projects": [
+    "KCN Bắc Đồng Phú",
+    "KCN Phú Riềng Đỏ",
+    "Cụm công nghiệp 50ha",
+    "Khu nông nghiệp ứng dụng công nghệ cao"
+  ],
+  "industry_residential": [
+    "Phú Riềng",
+    "Long Hà",
+    "Tân Hưng",
+    "Nha Bích",
+    "Đồng Tâm",
+    "Bình Phước",
+    "Đồng Xoài"
+  ],
+  "adjacent": [
+    "Khu du lịch Phú Riềng Đỏ",
+    "Hồ Suối Lam",
+    "Hồ chứa nước Đồng Xoài"
+  ],
+  "highlights": [],
+  "specialties": [],
+  "products": [
+    "Cao su",
+    "Sản phẩm từ hạt điều"
+  ],
+  "coverImage": "/images/communes/xa-thuan-loi/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Thuận Lợi và Thuận Phú",
+  "updatedAt": ""
+}

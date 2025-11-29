@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+server/node_modules/
+
+# Vite build
+dist/
+
+# Logs
+logs/
+*.log
+
+# Env files
+.env
+server/.env
+
+# Editor & OS junk
+.DS_Store
+.idea/
+.vscode/

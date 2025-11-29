@@ -1,0 +1,50 @@
+{
+  "id": "xa-ta-lai",
+  "name": "Xã Tà Lài",
+  "type": "xã",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 34158,
+  "area_km2": 83.34,
+  "admin_center": "Đường Tà Lài, xã Tà Lài, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Trịnh Văn Luận",
+    "chairman": "Nguyễn Hùng Hải"
+  },
+  "nature": [
+    "Điểm vượt sông Tà Lài",
+    "Nhà Dài Tà Lài",
+    "Làng du lịch cộng đồng Tà Lài"
+  ],
+  "arteries": [
+    "DT.774B"
+  ],
+  "key_projects": [
+    "Phát triển du lịch cộng đồng",
+    "bảo tồn văn hóa Mạ & S’Tiêng"
+  ],
+  "industry_residential": [
+    "Dak Lua",
+    "Thanh Sơn",
+    "Phú Vinh",
+    "Tân Phú",
+    "Nam Cát Tiên"
+  ],
+  "adjacent": [
+    "Đồi muồng hoa đào",
+    "Cánh đồng lúa Láng Dầu",
+    "Làng dệt thổ cẩm"
+  ],
+  "highlights": [],
+  "specialties": [
+    "Đọt mây nướng",
+    "Cơm lam gà nướng",
+    "Rau nhíp xào",
+    "Rượu cần"
+  ],
+  "products": [],
+  "coverImage": "/images/communes/xa-ta-lai/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Phú Thịnh, Phú Lập và Tà Lài",
+  "updatedAt": ""
+}

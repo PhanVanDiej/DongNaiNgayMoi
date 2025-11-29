@@ -1,0 +1,60 @@
+{
+  "id": "phuong-binh-loc",
+  "name": "Phường Bình Lộc",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 36195,
+  "area_km2": 77.21,
+  "admin_center": "Đường Lê A, phường Bình Lộc, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Nguyễn Xuân Hà",
+    "chairman": "Đào Đại Giang"
+  },
+  "nature": [
+    "Di tích khảo cổ Cấu Sắt",
+    "Đồi Suối Tre"
+  ],
+  "arteries": [
+    "Quốc lộ 1",
+    "DT763B",
+    "DT770B",
+    "DT770"
+  ],
+  "key_projects": [
+    "Tuyến đường sắt Bắc – Nam",
+    "cao tốc Dầu Giây – Tân Phú",
+    "cao tốc Phan Thiết – Dầu Giây",
+    "cao tốc TP.HCM – Long Thành – Dầu Giây"
+  ],
+  "industry_residential": [
+    "Khu công nghiệp Long Khánh",
+    "Khu công nghiệp Suối Tre"
+  ],
+  "adjacent": [
+    "Bảo Vinh",
+    "Xuân Lập",
+    "Dầu Giây",
+    "Gia Kiệm",
+    "Thống Nhất",
+    "Xuân Bắc"
+  ],
+  "highlights": [
+    "Nhà thờ 32 mái",
+    "Nhà vườn du lịch trái cây Bình Lộc"
+  ],
+  "specialties": [
+    "Tương hoa sen",
+    "Chôm chôm Bình Lộc",
+    "Cơm gà cá mặn Hương Phát"
+  ],
+  "products": [
+    "Tương hoa sen",
+    "Chôm chôm Bình Lộc",
+    "Cơm gà cá mặn Hương Phát"
+  ],
+  "coverImage": "/images/communes/phuong-binh-loc/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: Bình Lộc, Suối Tre, Xuân Thiện",
+  "updatedAt": ""
+}

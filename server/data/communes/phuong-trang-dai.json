@@ -1,0 +1,52 @@
+{
+  "id": "phuong-trang-dai",
+  "name": "Phường Trảng Dài",
+  "type": "phường",
+  "district": "Đồng Nai",
+  "established": "01/07/2025",
+  "population": 145500,
+  "area_km2": 37.29,
+  "admin_center": "Đường Bùi Trọng Nghĩa, phường Trảng Dài, tỉnh Đồng Nai",
+  "leaders": {
+    "partySecretary": "Phan Quang Tuấn",
+    "chairman": "Nguyễn Đình Kiên"
+  },
+  "nature": [
+    "Là địa phương có dân số đông thứ 5 của tỉnh"
+  ],
+  "arteries": [
+    "Đường Nguyễn Ái Quốc (QL1K cũ)",
+    "ĐT.768"
+  ],
+  "key_projects": [
+    "CCN Thiện Tân – Thanh Phú",
+    "CCN Thiện Tân"
+  ],
+  "industry_residential": [
+    "Cụm công nghiệp và dịch vụ đa dạng"
+  ],
+  "adjacent": [
+    "Hố Nai",
+    "Long Bình",
+    "Tam Hiệp",
+    "Tân Triều",
+    "Tân An"
+  ],
+  "highlights": [
+    "Giáo xứ Thái An",
+    "Sân vận động Trảng Dài",
+    "Hồ bơi Phương Nam",
+    "Café Tím của Nhà văn Nguyễn Một"
+  ],
+  "specialties": [
+    "Dê tươi Vườn Xoài",
+    "Bún ốc Cô Út"
+  ],
+  "products": [
+    "Má heo nướng Nguyễn Cọp"
+  ],
+  "coverImage": "/images/communes/phuong-trang-dai/cover.jpg",
+  "gallery": [],
+  "note": "Sáp nhập từ: phường Trảng Dài (TP. Biên Hòa cũ) và xã Thiện Tân (huyện Vĩnh Cửu cũ)",
+  "updatedAt": ""
+}
