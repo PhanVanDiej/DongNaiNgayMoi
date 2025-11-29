@@ -13,6 +13,7 @@ import { useSpeechRecognition } from "./hooks/useSpeechRecognition";
 import { useTextToSpeech } from "./hooks/useTextToSpeech";
 import { loadPoiIndex, searchPoi } from "./services/poiIndex";
 import { norm } from "./utils/vn";
+import MapLoadingOverlay from "./components/MapLoadingOverlay";
 
 
 // ====== Map & Layer constants ======
@@ -128,7 +129,10 @@ export default function DongNaiSmartMap() {
   const [styleId, setStyleId] = useState("streets");
 
   const [activeCat, setActiveCat] = useState(null);
-  const [mapReady, setMapReady] = useState(false);
+  const [mapLoaded, setMapLoaded] = useState(false);
+  const [communeReady, setCommuneReady] = useState(false);
+
+  const allReady = mapLoaded && communeReady;
 
   const [poiList, setPoiList] = useState([]);
   const [loadingPoi, setLoadingPoi] = useState(false);
@@ -177,10 +181,12 @@ export default function DongNaiSmartMap() {
   // ====== Commune layers (inside App to access setSelectedPoi) ======
   async function ensureCommuneLayers(map) {
     if (map.__dnCommuneLoading) return;
+    map.__dnCommuneLoading = true;
+
     try {
       if (!map.getSource(SOURCE_ID)) {
-        map.__dnCommuneLoading = true;
         const res = await fetch(GEOJSON_URL);
+        if (!res.ok) throw new Error(`GeoJSON HTTP ${res.status}`);
         const fc = await res.json();
         if (!fc || fc.type !== "FeatureCollection") {
           console.error("GeoJSON invalid: cần FeatureCollection");
@@ -244,6 +250,8 @@ export default function DongNaiSmartMap() {
       }
     } catch (err) {
       console.error("Commune layer error:", err);
+      map.__dnCommuneLoading = false;
+    } finally {
       map.__dnCommuneLoading = false;
     }
   }
@@ -526,6 +534,7 @@ export default function DongNaiSmartMap() {
   return (
     <div className="w-screen h-screen relative bg-gray-100">
       {/* Map */}
+      {!allReady && <MapLoadingOverlay />}
       <MapCanvas
         styleId={styleId}
         BASE_STYLES={BASE_STYLES}
@@ -533,20 +542,11 @@ export default function DongNaiSmartMap() {
         defaultZoom={defaultZoom}
         onReady={(map) => {
           mapRef.current = map;
-          // Đợi load geojson + layer xong rồi mới tắt màn loading
-          ensureCommuneLayers(map)
-            .then(() => setMapReady(true))
-            .catch((err) => {
-              console.error("Commune layer error on init:", err);
-              setMapReady(true); // vẫn tắt màn loading để còn thấy lỗi
-            });
+          setMapLoaded(true); // base map ok
         }}
-        onStyleLoad={(map) => {
-          // Khi đổi base layer chỉ cần đảm bảo layer xã được add lại,
-          // không bật loading toàn màn nữa.
-          ensureCommuneLayers(map).catch((err) =>
-            console.error("Commune layer error on style change:", err)
-          );
+        onStyleLoad={async (map) => {
+          await ensureCommuneLayers(map);
+          setCommuneReady(true);    // geojson + layer xong => cho phép tắt overlay
           if (activeCat) runPoiSearchInView(activeCat);
         }}
         onError={(e) => console.error("MapLibre error:", e)}
@@ -559,87 +559,66 @@ export default function DongNaiSmartMap() {
         </div>
       )}
 
-      {/* UI */}
-      <BaseLayerVertical styleId={styleId} setBase={setStyleId} />
-      <SidebarSlim
-        activeCat={activeCat}
-        onSelectCat={handleSelectCategory}
-        resetCamera={() =>
-          mapRef.current?.fitBounds(dongNaiBounds, {
-            padding: 80,
-            duration: 900,
-            maxZoom: 10,
-          })
-        }
-        onClear={handleClearFilters}
-      />
+      {allReady && (
+        <>
 
-      <SearchBar onSearch={handleSearch} speech={speech} />
-      {activeCat && showSearchHere && (
-        <div className="absolute left-1/2 top-20 -translate-x-1/2 z-20">
-          <button
-            onClick={() => runPoiSearchInView()}
-            className="px-3 py-1.5 rounded-full bg-white shadow-md text-xs ring-1 ring-gray-300 hover:bg-gray-50 flex items-center gap-1"
-          >
-            <i className="fa-solid fa-magnifying-glass-location" />
-            <span>Tìm kiếm ở khu vực này</span>
-          </button>
-        </div>
-      )}
-
-
-      {selectedPoi && (
-        <InfoPanel
-          poi={selectedPoi}
-          onClose={() => setSelectedPoi(null)}
-          tts={tts}
-          autoReadPending={autoReadPending}
-          onAutoReadDone={() => setAutoReadPending(false)}
-        />
-      )}
-
-      {/* Loading overlay khi map/geojson chưa sẵn sàng */}
-      {!mapReady && (
-        <div className="fixed inset-0 z-40 flex items-center justify-center overflow-hidden">
-          {/* Ảnh nền che full màn (đổi URL cho phù hợp project của bạn) */}
-          <div
-            className="absolute inset-0 bg-cover bg-center"
-            style={{ backgroundImage: "url('/public/loading_img.jpg')" }}
+          {/* UI */}
+          <BaseLayerVertical styleId={styleId} setBase={setStyleId} />
+          <SidebarSlim
+            activeCat={activeCat}
+            onSelectCat={handleSelectCategory}
+            resetCamera={() =>
+              mapRef.current?.fitBounds(dongNaiBounds, {
+                padding: 80,
+                duration: 900,
+                maxZoom: 10,
+              })
+            }
+            onClear={handleClearFilters}
           />
 
-          {/* Lớp phủ tối nhẹ để chữ nổi bật */}
-          <div className="absolute inset-0 bg-black/60" />
+          <SearchBar onSearch={handleSearch} speech={speech} />
+          {activeCat && showSearchHere && (
+            <div className="absolute left-1/2 top-20 -translate-x-1/2 z-20">
+              <button
+                onClick={() => runPoiSearchInView()}
+                className="px-3 py-1.5 rounded-full bg-white shadow-md text-xs ring-1 ring-gray-300 hover:bg-gray-50 flex items-center gap-1"
+              >
+                <i className="fa-solid fa-magnifying-glass-location" />
+                <span>Tìm kiếm ở khu vực này</span>
+              </button>
+            </div>
+          )}
 
-          {/* Nội dung loading */}
-          <div className="relative z-10 flex flex-col items-center gap-3 text-white text-center px-4">
-            <div className="w-10 h-10 sm:w-12 sm:h-12 border-4 border-white/40 border-t-white rounded-full animate-spin" />
-            <p className="text-sm sm:text-base font-semibold">
-              Bản đồ Đồng Nai đang được tải...
-            </p>
-            <p className="text-xs sm:text-sm text-white/70">
-              Vui lòng chờ trong giây lát.
-            </p>
-          </div>
-        </div>
+
+          {selectedPoi && (
+            <InfoPanel
+              poi={selectedPoi}
+              onClose={() => setSelectedPoi(null)}
+              tts={tts}
+              autoReadPending={autoReadPending}
+              onAutoReadDone={() => setAutoReadPending(false)}
+            />
+          )}
+
+          <ChatDock
+            onAsk={async (text, ui) => {
+              // Ẩn InfoPanel khi người dùng chuyển sang chat
+              setSelectedPoi(null);
+              await aiRef.current?.handleChatQuery(text, ui);
+            }}
+          />
+
+
+          <ChatDock
+            onAsk={async (text, ui) => {
+              // Ẩn InfoPanel khi người dùng chuyển sang chat
+              setSelectedPoi(null);
+              await aiRef.current?.handleChatQuery(text, ui);
+            }}
+          />
+        </>
       )}
-
-      <ChatDock
-        onAsk={async (text, ui) => {
-          // Ẩn InfoPanel khi người dùng chuyển sang chat
-          setSelectedPoi(null);
-          await aiRef.current?.handleChatQuery(text, ui);
-        }}
-      />
-
-
-      <ChatDock
-        onAsk={async (text, ui) => {
-          // Ẩn InfoPanel khi người dùng chuyển sang chat
-          setSelectedPoi(null);
-          await aiRef.current?.handleChatQuery(text, ui);
-        }}
-      />
-
     </div>
   );
 }
