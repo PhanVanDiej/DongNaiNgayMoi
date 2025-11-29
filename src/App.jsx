@@ -128,6 +128,7 @@ export default function DongNaiSmartMap() {
   const [styleId, setStyleId] = useState("streets");
 
   const [activeCat, setActiveCat] = useState(null);
+  const [mapReady, setMapReady] = useState(false);
 
   const [poiList, setPoiList] = useState([]);
   const [loadingPoi, setLoadingPoi] = useState(false);
@@ -532,15 +533,24 @@ export default function DongNaiSmartMap() {
         defaultZoom={defaultZoom}
         onReady={(map) => {
           mapRef.current = map;
-          ensureCommuneLayers(map);
+          // Đợi load geojson + layer xong rồi mới tắt màn loading
+          ensureCommuneLayers(map)
+            .then(() => setMapReady(true))
+            .catch((err) => {
+              console.error("Commune layer error on init:", err);
+              setMapReady(true); // vẫn tắt màn loading để còn thấy lỗi
+            });
         }}
         onStyleLoad={(map) => {
-          ensureCommuneLayers(map);
+          // Khi đổi base layer chỉ cần đảm bảo layer xã được add lại,
+          // không bật loading toàn màn nữa.
+          ensureCommuneLayers(map).catch((err) =>
+            console.error("Commune layer error on style change:", err)
+          );
           if (activeCat) runPoiSearchInView(activeCat);
         }}
         onError={(e) => console.error("MapLibre error:", e)}
       />
-
 
       {/* Banner thiếu key */}
       {!HAS_KEY && (
@@ -587,6 +597,40 @@ export default function DongNaiSmartMap() {
           onAutoReadDone={() => setAutoReadPending(false)}
         />
       )}
+
+      {/* Loading overlay khi map/geojson chưa sẵn sàng */}
+      {!mapReady && (
+        <div className="fixed inset-0 z-40 flex items-center justify-center overflow-hidden">
+          {/* Ảnh nền che full màn (đổi URL cho phù hợp project của bạn) */}
+          <div
+            className="absolute inset-0 bg-cover bg-center"
+            style={{ backgroundImage: "url('/src/assets/loading_img.jpg')" }}
+          />
+
+          {/* Lớp phủ tối nhẹ để chữ nổi bật */}
+          <div className="absolute inset-0 bg-black/60" />
+
+          {/* Nội dung loading */}
+          <div className="relative z-10 flex flex-col items-center gap-3 text-white text-center px-4">
+            <div className="w-10 h-10 sm:w-12 sm:h-12 border-4 border-white/40 border-t-white rounded-full animate-spin" />
+            <p className="text-sm sm:text-base font-semibold">
+              Bản đồ Đồng Nai đang được tải...
+            </p>
+            <p className="text-xs sm:text-sm text-white/70">
+              Vui lòng chờ trong giây lát.
+            </p>
+          </div>
+        </div>
+      )}
+
+      <ChatDock
+        onAsk={async (text, ui) => {
+          // Ẩn InfoPanel khi người dùng chuyển sang chat
+          setSelectedPoi(null);
+          await aiRef.current?.handleChatQuery(text, ui);
+        }}
+      />
+
 
       <ChatDock
         onAsk={async (text, ui) => {

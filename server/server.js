@@ -23,7 +23,11 @@ const COMMUNE_INDEX_PATH = path.join(DATA_DIR, "communes.index.json");
 
 const app = express();
 app.use(express.json());
-app.use(cors({ origin: ["http://localhost:5173"], credentials: false }));
+app.use(cors({ origin: [
+    "http://localhost:5173",
+    "http://178.128.118.203",
+    "http://dongnaingaymoi-smartmap.com",
+    "https://<DOMAIN>",], credentials: false }));
 
 async function readJson(filePath) {
     const raw = await fsp.readFile(filePath, "utf8");
