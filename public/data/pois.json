@@ -13,7 +13,9 @@
         "lng": 107.2153299690211,
         "lat": 11.77703,
         "description": "Thác Đứng là thác nước nằm trên địa bàn xã Bù Đăng, tỉnh Đồng Nai mới. Tên gọi Thác Đứng vốn xuất phát từ địa hình trắc trở của ngọn thác này. Khung cảnh của thác là hình ảnh các hòn đá cao chất chồng lên nhau theo phương thẳng đứng nên thác có tên gọi là Thác Đứng. ",
-        "images": []
+        "images": [
+            "thac-dung.webp"
+        ]
     },
     {
         "id": "kdl-buu-long",
@@ -553,10 +555,12 @@
         "commune": "Xã Bù Đăng",
         "district": "",
         "province": "Tỉnh Đồng Nai",
-        "lng": 107.24652667630347,
-        "lat": 11.815942116936402,
+        "lng": 107.24745594787191,
+        "lat": 11.812516249437916,
         "description": "Chợ Bù Đăng là khu chợ truyền thống quan trọng của vùng, nơi tập trung nhiều tiểu thương kinh doanh nông sản địa phương, rau củ, thịt cá, đồ khô và các mặt hàng thiết yếu hằng ngày. Chợ có quy mô vừa, hoạt động nhộn nhịp vào buổi sáng và đóng vai trò là điểm giao thương phục vụ cư dân khu vực miền núi.",
-        "images": []
+        "images": [
+            "cho-bu-dang.webp"
+        ]
     },
     {
         "id": "cho-duc-lieu",
@@ -1086,10 +1090,12 @@
         "commune": "Đang cập nhật",
         "district": "",
         "province": "Tỉnh Đồng Nai",
-        "lng": 107.27649048743615,
-        "lat": 11.829725402024028,
+        "lng": 107.26804171168618,
+        "lat": 11.828836606019104,
         "description": "",
-        "images": []
+        "images": [
+            "cay-xang-dau-hoang-kim.png"
+        ]
     },
     {
         "id": "tram-xang-dau-phuc-loc-tho",
@@ -1104,7 +1110,9 @@
         "lng": 107.26442620539972,
         "lat": 11.826751123902227,
         "description": "",
-        "images": []
+        "images": [
+            "tram-xang-dau-phuc-loc-tho.png"
+        ]
     },
     {
         "id": "cay-xang-petro-binh-phuoc-18",
@@ -1116,10 +1124,12 @@
         "commune": "Đang cập nhật",
         "district": "",
         "province": "Tỉnh Đồng Nai",
-        "lng": 107.24726006942028,
-        "lat": 11.814653610082491,
+        "lng": 107.24864546206618,
+        "lat": 11.813203448872684,
         "description": "",
-        "images": []
+        "images": [
+            "cay-xang-petro-binh-phuoc-18.png"
+        ]
     },
     {
         "id": "cay-xang-duy-ky-3",
@@ -1131,10 +1141,12 @@
         "commune": "Đang cập nhật",
         "district": "",
         "province": "Tỉnh Đồng Nai",
-        "lng": 107.21531867212242,
-        "lat": 11.803170297257166,
+        "lng": 107.2146617295483,
+        "lat": 11.800143471751891,
         "description": "",
-        "images": []
+        "images": [
+            "cay-xang-duy-ky-3.png"
+        ]
     },
     {
         "id": "cay-xang-viet-hung",
@@ -1149,7 +1161,9 @@
         "lng": 107.16605186186145,
         "lat": 11.774267309390654,
         "description": "",
-        "images": []
+        "images": [
+            "cay-xang-viet-hung.png"
+        ]
     },
     {
         "id": "cay-xang-hy-dung-2",
@@ -2304,7 +2318,11 @@
         "type": "hospital",
         "commune": "",
         "lat": 11.8048412157751,
-        "lng": 107.22911943460133
+        "lng": 107.22911943460133,
+        "description": "Bệnh viện Đa khoa huyện Bù Đăng là cơ sở khám chữa bệnh tuyến huyện trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, đảm nhiệm chức năng khám ngoại trú, điều trị nội trú, cấp cứu và một số dịch vụ cận lâm sàng, chuyên khoa cơ bản cho người dân trong toàn huyện và khu vực lân cận, góp phần bảo đảm chăm sóc sức khỏe ban đầu và nâng cao chất lượng y tế cơ sở.",
+        "images": [
+            "benh-vien-da-khoa-bu-dang.jpg"
+        ]
     },
     {
         "id": "tram-y-te-minh-hung",
@@ -3164,8 +3182,10 @@
         "province": "Tỉnh Đồng Nai",
         "lng": 107.2410345088661,
         "lat": 11.805994585642571,
-        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
-        "images": []
+        "description": "Trường THPT Bù Đăng là cơ sở giáo dục trung học phổ thông trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, đảm nhiệm nhiệm vụ giảng dạy chương trình giáo dục phổ thông cấp THPT cho học sinh trong huyện và khu vực lân cận, góp phần nâng cao mặt bằng dân trí, đào tạo nguồn nhân lực trẻ và tạo nền tảng cho học sinh tiếp tục học lên bậc cao hơn hoặc tham gia lao động, học nghề.",
+        "images": [
+            "truong-thpt-bu-dang.webp"
+        ]
     },
     {
         "id": "truong-thcs-phan-boi-chau",
@@ -3179,8 +3199,10 @@
         "province": "Tỉnh Đồng Nai",
         "lng": 107.24133129968146,
         "lat": 11.806234735846578,
-        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
-        "images": []
+        "description": "Trường THCS Phan Bội Châu là cơ sở giáo dục trung học cơ sở trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, thực hiện nhiệm vụ giảng dạy chương trình giáo dục phổ thông cấp THCS cho học sinh khu vực trung tâm xã và các vùng lân cận. Nhà trường chú trọng trang bị kiến thức nền tảng, rèn luyện phẩm chất, kỹ năng sống và định hướng nghề nghiệp ban đầu cho học sinh, góp phần nâng cao chất lượng giáo dục và tạo nguồn cho bậc học trung học phổ thông sau này.",
+        "images": [
+            "truong-thcs-phan-boi-chau.jpg"
+        ]
     },
     {
         "id": "truong-tieu-hoc-duc-phong",
@@ -3194,8 +3216,10 @@
         "province": "Tỉnh Đồng Nai",
         "lng": 107.2427404707862,
         "lat": 11.802578329378099,
-        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
-        "images": []
+        "description": "Trường Tiểu Học Đức Phong là trường phổ thông cấp tiểu học trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, thực hiện nhiệm vụ giảng dạy chương trình giáo dục phổ thông từ lớp 1 đến lớp 5, chú trọng rèn luyện nền tảng kiến thức, phẩm chất và kỹ năng sống cơ bản cho học sinh, góp phần nâng cao chất lượng giáo dục tiểu học của khu vực trung tâm xã.",
+        "images": [
+            "truong-tieu-hoc-duc-phong.webp"
+        ]
     },
     {
         "id": "truong-thcs-thpt-luong-the-vinh",
@@ -3224,8 +3248,10 @@
         "province": "Tỉnh Đồng Nai",
         "lng": 107.18851841803279,
         "lat": 11.797758788996607,
-        "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
-        "images": []
+        "description": "Trường THCS Minh Hưng là cơ sở giáo dục trung học cơ sở trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, đặt tại khu vực Minh Hưng, thực hiện nhiệm vụ giảng dạy chương trình giáo dục phổ thông cấp THCS cho học sinh trong xã và vùng lân cận, chú trọng trang bị kiến thức nền tảng, rèn luyện phẩm chất, kỹ năng sống và ý thức học tập cho học sinh, góp phần nâng cao chất lượng giáo dục bậc trung học cơ sở của địa phương.",
+        "images": [
+            "truong-thcs-minh-hung.jpg"
+        ]
     },
     {
         "id": "truong-thcs-duc-lieu",
@@ -4562,5 +4588,757 @@
         "lat": 10.703108776082486,
         "description": "Cơ sở giáo dục trên địa bàn tỉnh Đồng Nai.",
         "images": []
+    },
+    {
+        "id": "truong-tieu-hoc-le-loi",
+        "name": "Trường tiểu học Lê Lợi",
+        "aliases": [
+            "truong tieu hoc le loi",
+            "trương th le loi"
+        ],
+        "type": "school",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lng": 107.24076615863122,
+        "lat": 11.806920617092592,
+        "description": "Trường Tiểu học Lê Lợi là một trường công lập, có địa chỉ tại xã Bù Đăng. Trường tập trung vào việc nâng cao chất lượng giáo dục, cơ sở vật chất được đầu tư xây dựng mới và ngày càng phát triển để đáp ứng nhu cầu học tập của học sinh. Thông tin chi tiết về cơ sở vật chất và các thành tích của trường có thể xem trên website chính thức của trường hoặc thông qua các báo cáo của Sở Giáo dục và Đào tạo. ",
+        "images": [
+            "truong-tieu-hoc-le-loi.jpeg"
+        ]
+    },
+    {
+        "id": "truong-mam-non-hoa-mi",
+        "name": "Trường Mầm Non Họa Mi",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.807516444267591,
+        "lng": 107.24103475377113,
+        "type": "school",
+        "description": "Trường Mầm Non Họa Mi là cơ sở giáo dục mầm non trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, tiếp nhận trẻ trong độ tuổi nhà trẻ và mẫu giáo, góp phần chăm sóc, nuôi dưỡng và giáo dục trẻ em khu vực trung tâm xã.",
+        "aliases": [
+            "Trường Mầm Non Họa Mi",
+            "Mam Non Hoa Mi",
+            "Truong Mam Non Hoa Mi",
+            "MN Họa Mi Bù Đăng",
+            "MN Hoa Mi Bu Dang"
+        ],
+        "images": [
+            "truong-mam-non-hoa-mi.jpg"
+        ]
+    },
+    {
+        "id": "truong-pho-thong-dan-toc-noi-tru-dieu-ong",
+        "name": "Trường Phổ Thông Dân Tộc Nội Trú Điểu Ong",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.816050946029382,
+        "lng": 107.24750374504661,
+        "type": "school",
+        "description": "Trường Phổ Thông Dân Tộc Nội Trú Điểu Ong là cơ sở giáo dục phổ thông dành cho học sinh dân tộc thiểu số trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, tổ chức dạy học kết hợp nội trú nhằm tạo điều kiện học tập ổn định, lâu dài cho học sinh vùng khó khăn.",
+        "aliases": [
+            "Trường Phổ Thông Dân Tộc Nội Trú Điểu Ong",
+            "PTDTNT Điểu Ong",
+            "Truong Pho Thong Dan Toc Noi Tru Dieu Ong",
+            "Noi tru Dieu Ong Bu Dang",
+            "Truong Dieu Ong Bu Dang"
+        ],
+        "images": [
+            "truong-pho-thong-dan-toc-noi-tru-dieu-ong.jpg"
+        ]
+    },
+    {
+        "id": "truong-tieu-hoc-minh-hung",
+        "name": "Trường tiểu học Minh Hưng",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.797143356436028,
+        "lng": 107.18788837626778,
+        "type": "school",
+        "description": "Trường tiểu học Minh Hưng là trường phổ thông cấp tiểu học tại Xã Bù Đăng, tỉnh Đồng Nai, phụ trách giảng dạy chương trình giáo dục phổ thông cho học sinh từ lớp 1 đến lớp 5, góp phần nâng cao mặt bằng dân trí và chất lượng giáo dục của địa phương.",
+        "aliases": [
+            "Trường tiểu học Minh Hưng",
+            "Trường Tiểu Học Minh Hưng",
+            "Tieu hoc Minh Hung",
+            "Truong Tieu Hoc Minh Hung",
+            "TH Minh Hưng Bù Đăng",
+            "TH Minh Hung Bu Dang"
+        ],
+        "images": [
+            "truong-tieu-hoc-minh-hung.webp"
+        ]
+    },
+    {
+        "id": "truong-mam-non-vip-quoc-trang",
+        "name": "Trường Mầm Non VIP Quốc Trạng",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.813909506623611,
+        "lng": 107.24857442931635,
+        "type": "school",
+        "description": "Trường Mầm Non VIP Quốc Trạng là cơ sở mầm non tư thục tại Xã Bù Đăng, tỉnh Đồng Nai, cung cấp dịch vụ chăm sóc, nuôi dạy trẻ theo mô hình chất lượng cao, đáp ứng nhu cầu gửi trẻ của phụ huynh khu vực trung tâm xã.",
+        "aliases": [
+            "Trường Mầm Non VIP Quốc Trạng",
+            "Mam Non VIP Quoc Trang",
+            "MN VIP Quốc Trạng",
+            "MN VIP Quoc Trang Bu Dang",
+            "Quoc Trang Kindergarten Bu Dang"
+        ],
+        "images": [
+            "truong-mam-non-vip-quoc-trang.jpg"
+        ]
+    },
+    {
+        "id": "lop-mam-non-doc-lap-baby-house",
+        "name": "LỚP MẦM NON ĐỘC LẬP BABY HOUSE",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.809926341189746,
+        "lng": 107.24146869346994,
+        "type": "school",
+        "description": "Lớp Mầm Non Độc Lập BABY HOUSE là nhóm lớp mầm non tư thục tại Xã Bù Đăng, tỉnh Đồng Nai, nhận trông giữ và chăm sóc trẻ nhỏ theo hình thức độc lập, phục vụ nhu cầu gửi trẻ linh hoạt của các gia đình.",
+        "aliases": [
+            "LỚP MẦM NON ĐỘC LẬP BABY HOUSE",
+            "Lop Mam Non Doc Lap Baby House",
+            "Baby House Bu Dang",
+            "MN Baby House Bù Đăng",
+            "Nhom lop mam non Baby House"
+        ],
+        "images": [
+            "lop-mam-non-doc-lap-baby-house.jpg"
+        ]
+    },
+    {
+        "id": "mam-non-happy-kids",
+        "name": "MẦM NON HAPPY KIDS",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.81148145790112,
+        "lng": 107.23774540731436,
+        "type": "school",
+        "description": "Mầm Non HAPPY KIDS là cơ sở giáo dục mầm non tư thục trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, tổ chức các hoạt động chăm sóc, vui chơi và học tập cho trẻ trong môi trường thân thiện, an toàn.",
+        "aliases": [
+            "MẦM NON HAPPY KIDS",
+            "Mam Non Happy Kids",
+            "MN Happy Kids Bù Đăng",
+            "Happy Kids Bu Dang",
+            "Nha tre Happy Kids"
+        ],
+        "images": [
+            "mam-non-happy-kids.jpg"
+        ]
+    },
+    {
+        "id": "truong-tieu-hoc-doan-ket",
+        "name": "Trường Tiểu Học Đoàn Kết",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.7911729020588,
+        "lng": 107.23308647926511,
+        "type": "school",
+        "description": "Trường Tiểu Học Đoàn Kết là trường tiểu học trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, thực hiện nhiệm vụ giảng dạy và giáo dục học sinh bậc tiểu học, chú trọng rèn luyện phẩm chất, năng lực và kỹ năng sống cho học sinh.",
+        "aliases": [
+            "Trường Tiểu Học Đoàn Kết",
+            "Tieu hoc Doan Ket",
+            "Truong Tieu Hoc Doan Ket",
+            "TH Đoàn Kết Bù Đăng",
+            "TH Doan Ket Bu Dang"
+        ],
+        "images": [
+            "truong-tieu-hoc-doan-ket.png"
+        ]
+    },
+    {
+        "id": "truong-mam-non-tu-thuc-hoa-ngoc-lan",
+        "name": "Trường Mầm non tư thục Hoa Ngọc Lan",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.79839415592153,
+        "lng": 107.19707194623344,
+        "type": "school",
+        "description": "Trường Mầm non tư thục Hoa Ngọc Lan là cơ sở mầm non tư thục tại Xã Bù Đăng, tỉnh Đồng Nai, tổ chức chăm sóc và giáo dục trẻ mầm non với sĩ số lớp nhỏ, chú trọng môi trường học tập gần gũi và an toàn.",
+        "aliases": [
+            "Trường Mầm non tư thục Hoa Ngọc Lan",
+            "Mam non Hoa Ngoc Lan",
+            "MN Hoa Ngọc Lan Bù Đăng",
+            "MN Hoa Ngoc Lan Bu Dang",
+            "Hoa Ngoc Lan Kindergarten"
+        ],
+        "images": [
+            "truong-mam-non-tu-thuc-hoa-ngoc-lan.jpg"
+        ]
+    },
+    {
+        "id": "chua-pho-quang-tu",
+        "name": "Chùa Phổ Quang Tự",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.813525630444497,
+        "lng": 107.24934823831823,
+        "type": "tourism",
+        "description": "Chùa Phổ Quang Tự là cơ sở tín ngưỡng Phật giáo tại Xã Bù Đăng, tỉnh Đồng Nai, vừa là nơi sinh hoạt tôn giáo của phật tử, vừa là điểm đến tham quan, chiêm bái và sinh hoạt văn hoá tâm linh của người dân, du khách.",
+        "aliases": [
+            "Chùa Phổ Quang Tự",
+            "Chua Pho Quang Tu",
+            "Chùa Phổ Quang Bù Đăng",
+            "Chua Pho Quang Bu Dang",
+            "Chua Pho Quang"
+        ],
+        "images": [
+            "chua-pho-quang-tu.jpg"
+        ]
+    },
+    {
+        "id": "chua-dang-phap",
+        "name": "Chùa Đăng Pháp",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.824653224800134,
+        "lng": 107.26320033178958,
+        "type": "tourism",
+        "description": "Chùa Đăng Pháp là ngôi chùa trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, là điểm sinh hoạt tôn giáo và tham quan tín ngưỡng của người dân địa phương, thu hút phật tử và du khách đến lễ bái, cầu an.",
+        "aliases": [
+            "Chùa Đăng Pháp",
+            "Chua Dang Phap",
+            "Chùa Đăng Pháp Bù Đăng",
+            "Chua Dang Phap Bu Dang",
+            "Chua Dang Phap Dong Nai"
+        ],
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-petrolimex-so-66",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 66",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.812726886213415,
+        "lng": 107.24700209285778,
+        "type": "fuel",
+        "description": "",
+        "aliases": [
+            "Cửa hàng Xăng dầu Petrolimex Số 66",
+            "Cua hang xang dau Petrolimex 66",
+            "Petrolimex 66 Bu Dang",
+            "Cay xang Petrolimex 66"
+        ],
+        "images": [
+            "cua-hang-xang-dau-petrolimex-so-66.webp"
+        ]
+    },
+    {
+        "id": "tram-xang-dau-thanh-cong",
+        "name": "Trạm Xăng Dầu Thành Công",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.810025878976477,
+        "lng": 107.23246928738541,
+        "type": "fuel",
+        "description": "",
+        "aliases": [
+            "Trạm Xăng Dầu Thành Công",
+            "Tram Xang Dau Thanh Cong",
+            "Cay xang Thanh Cong",
+            "Cay xang Thanh Cong Bu Dang"
+        ],
+        "images": [
+            "tram-xang-dau-thanh-cong.png"
+        ]
+    },
+    {
+        "id": "cua-hang-xang-dau-petrolimex-so-65",
+        "name": "Cửa hàng Xăng dầu Petrolimex Số 65",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.806696310337019,
+        "lng": 107.22481891173275,
+        "type": "fuel",
+        "description": "",
+        "aliases": [
+            "Cửa hàng Xăng dầu Petrolimex Số 65",
+            "Cua hang xang dau Petrolimex 65",
+            "Petrolimex 65 Bu Dang",
+            "Cay xang Petrolimex 65"
+        ],
+        "images": [
+            "cua-hang-xang-dau-petrolimex-so-65.png"
+        ]
+    },
+    {
+        "id": "tram-xang-dau-my-hoa",
+        "name": "Trạm Xăng Dầu Mỹ Hoa",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.798693828588044,
+        "lng": 107.20496669864237,
+        "type": "fuel",
+        "description": "",
+        "aliases": [
+            "Trạm Xăng Dầu Mỹ Hoa",
+            "Tram Xang Dau My Hoa",
+            "Cay xang My Hoa",
+            "Cay xang My Hoa Bu Dang"
+        ],
+        "images": [
+            "tram-xang-dau-my-hoa.png"
+        ]
+    },
+    {
+        "id": "tram-xang-mai-phuc",
+        "name": "Trạm Xăng Mai Phúc",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.785345800741505,
+        "lng": 107.17808605353692,
+        "type": "fuel",
+        "description": "",
+        "aliases": [
+            "Trạm Xăng Mai Phúc",
+            "Tram Xang Mai Phuc",
+            "Cay xang Mai Phuc",
+            "Cay xang Mai Phuc Bu Dang"
+        ],
+        "images": [
+            "tram-xang-mai-phuc.png"
+        ]
+    },
+    {
+        "id": "cay-xang-viet-hung",
+        "name": "Cây xăng Việt Hùng",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.770551454467688,
+        "lng": 107.1655420327347,
+        "type": "fuel",
+        "description": "",
+        "aliases": [
+            "Cây xăng Việt Hùng",
+            "Cay xang Viet Hung",
+            "Cay xang Viet Hung Bu Dang",
+            "Tram xang Viet Hung"
+        ],
+        "images": []
+    },
+    {
+        "id": "cua-hang-xang-dau-nam-tay-nguyen",
+        "name": "Cửa hàng xăng dầu Nam Tây Nguyên",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.767822449550838,
+        "lng": 107.16455614957938,
+        "type": "fuel",
+        "description": "",
+        "aliases": [
+            "Cửa hàng xăng dầu Nam Tây Nguyên",
+            "Cua hang xang dau Nam Tay Nguyen",
+            "Cay xang Nam Tay Nguyen",
+            "Cay xang Nam Tay Nguyen Bu Dang"
+        ],
+        "images": [
+            "cua-hang-xang-dau-nam-tay-nguyen.png"
+        ]
+    },
+    {
+        "id": "cay-xang-bu-dang",
+        "name": "Cây xăng Bù Đăng",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.789906848676377,
+        "lng": 107.23115537161107,
+        "type": "fuel",
+        "description": "",
+        "aliases": [
+            "Cây xăng Bù Đăng",
+            "Cay xang Bu Dang",
+            "Cay xang xa Bu Dang",
+            "Tram xang Bu Dang"
+        ],
+        "images": [
+            "cay-xang-bu-dang.png"
+        ]
+    },
+    {
+        "id": "cho-nong-san-vuon-nha-cam",
+        "name": "Chợ nông sản Vườn nhà Cam",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.811681201269645,
+        "lng": 107.2381017035469,
+        "type": "market",
+        "description": "Chợ nông sản Vườn nhà Cam là khu chợ nông sản địa phương tại Xã Bù Đăng, tỉnh Đồng Nai, nơi người dân bày bán hoa màu, trái cây và các mặt hàng thiết yếu phục vụ sinh hoạt hằng ngày.",
+        "aliases": [
+            "Chợ nông sản Vườn nhà Cam",
+            "Cho nong san Vuon nha Cam",
+            "Cho Vuon nha Cam Bu Dang",
+            "Cho nong san Bu Dang"
+        ],
+        "images": [
+            "cho-nong-san-vuon-nha-cam.png"
+        ]
+    },
+    {
+        "id": "sieu-thi-bach-hoa-xanh-duong-hung-vuong",
+        "name": "Siêu thị Bách hoá XANH Đường Hùng Vương",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.811023528492177,
+        "lng": 107.24749792814298,
+        "type": "market",
+        "description": "Siêu thị Bách hoá XANH Đường Hùng Vương là cửa hàng thuộc hệ thống Bách hoá XANH tại Xã Bù Đăng, tỉnh Đồng Nai, cung cấp thực phẩm tươi sống, đồ khô và các nhu yếu phẩm cho người dân khu vực lân cận.",
+        "aliases": [
+            "Siêu thị Bách hoá XANH Đường Hùng Vương",
+            "Bach hoa Xanh Duong Hung Vuong",
+            "BHX Đường Hùng Vương Bù Đăng",
+            "Bach hoa Xanh Bu Dang"
+        ],
+        "images": [
+            "sieu-thi-bach-hoa-xanh-duong-hung-vuong.png"
+        ]
+    },
+    {
+        "id": "sieu-thi-bach-hoa-xanh-thon-6-minh-hung",
+        "name": "Siêu thị Bách hoá XANH Thôn 6 Minh Hưng",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.797490295053965,
+        "lng": 107.18908866026653,
+        "type": "market",
+        "description": "Siêu thị Bách hoá XANH Thôn 6 Minh Hưng là cửa hàng bán lẻ thuộc hệ thống Bách hoá XANH trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, phục vụ nhu cầu mua sắm thực phẩm và hàng tiêu dùng cho người dân khu vực.",
+        "aliases": [
+            "Siêu thị Bách hoá XANH Thôn 6 Minh Hưng",
+            "Bach hoa Xanh Thon 6 Minh Hung",
+            "BHX Thôn 6 Minh Hưng",
+            "Bach hoa Xanh Minh Hung Bu Dang"
+        ],
+        "images": [
+            "sieu-thi-bach-hoa-xanh-thon-6-minh-hung.png"
+        ]
+    },
+    {
+        "id": "phong-kham-vu-duc-cam",
+        "name": "PHÒNG KHÁM VŨ ĐỨC CẢM",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.809882483963792,
+        "lng": 107.24380471045713,
+        "type": "hospital",
+        "description": "Phòng khám Vũ Đức Cảm là cơ sở khám chữa bệnh tư nhân trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, cung cấp dịch vụ khám, tư vấn và điều trị một số bệnh lý thông thường cho người dân trong khu vực.",
+        "aliases": [
+            "PHÒNG KHÁM VŨ ĐỨC CẢM",
+            "Phong kham Vu Duc Cam",
+            "PK Vũ Đức Cảm Bù Đăng",
+            "Phong kham Vu Duc Cam Bu Dang"
+        ],
+        "images": [
+            "phong-kham-vu-duc-cam.png"
+        ]
+    },
+    {
+        "id": "phong-tiem-vac-xin-dich-vu-duc-phong",
+        "name": "Phòng Tiêm Vắc Xin Dịch Vụ Đức Phong",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.812992282265807,
+        "lng": 107.24326810009323,
+        "type": "hospital",
+        "description": "Phòng Tiêm Vắc Xin Dịch Vụ Đức Phong là điểm tiêm chủng dịch vụ tại Xã Bù Đăng, tỉnh Đồng Nai, cung cấp các loại vắc xin phòng bệnh cho trẻ em và người lớn, phục vụ nhu cầu chăm sóc sức khỏe dự phòng của người dân.",
+        "aliases": [
+            "Phòng Tiêm Vắc Xin Dịch Vụ Đức Phong",
+            "Phong Tiem Vac Xin Dich Vu Duc Phong",
+            "Phong tiem vaccine Duc Phong",
+            "Tiem vac xin Duc Phong Bu Dang"
+        ],
+        "images": [
+            "phong-tiem-vac-xin-dich-vu-duc-phong.jpg"
+        ]
+    },
+    {
+        "id": "tram-y-te-doan-ket",
+        "name": "Trạm Y Tế Đoàn Kết",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.791151686116494,
+        "lng": 107.23255961524073,
+        "type": "hospital",
+        "description": "Trạm Y Tế Đoàn Kết là cơ sở y tế tuyến cơ sở tại Xã Bù Đăng, tỉnh Đồng Nai, thực hiện nhiệm vụ chăm sóc sức khỏe ban đầu, tiêm chủng và một số dịch vụ khám chữa bệnh cho người dân khu vực.",
+        "aliases": [
+            "Trạm Y Tế Đoàn Kết",
+            "Tram Y Te Doan Ket",
+            "TYT Đoàn Kết Bù Đăng",
+            "Tram y te Doan Ket Bu Dang"
+        ],
+        "images": [
+            "tram-y-te-doan-ket.jpg"
+        ]
+    },
+    {
+        "id": "tram-y-te-minh-hung",
+        "name": "Trạm Y Tế Minh Hưng",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.798760586317965,
+        "lng": 107.19665669992227,
+        "type": "hospital",
+        "description": "Trạm Y Tế Minh Hưng là trạm y tế thuộc Xã Bù Đăng, tỉnh Đồng Nai, phụ trách công tác y tế dự phòng, chăm sóc sức khỏe ban đầu và một số dịch vụ khám chữa bệnh thông thường cho người dân trong khu vực.",
+        "aliases": [
+            "Trạm Y Tế Minh Hưng",
+            "Tram Y Te Minh Hung",
+            "TYT Minh Hưng Bù Đăng",
+            "Tram y te Minh Hung Bu Dang"
+        ],
+        "images": [
+            "tram-y-te-minh-hung.jpg"
+        ]
+    },
+    {
+        "id": "phong-kham-da-khoa-long-thinh",
+        "name": "Phòng khám đa khoa Long Thịnh",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.796350276140043,
+        "lng": 107.18772547980493,
+        "type": "hospital",
+        "description": "Phòng khám đa khoa Long Thịnh là cơ sở khám chữa bệnh tư nhân tại Xã Bù Đăng, tỉnh Đồng Nai, cung cấp các dịch vụ khám nội, ngoại và một số chuyên khoa cơ bản, phục vụ nhu cầu chăm sóc sức khỏe của người dân.",
+        "aliases": [
+            "Phòng khám đa khoa Long Thịnh",
+            "Phong kham da khoa Long Thinh",
+            "PKDK Long Thịnh Bù Đăng",
+            "Phong kham Long Thinh Bu Dang"
+        ],
+        "images": [
+            "phong-kham-da-khoa-long-thinh.png"
+        ]
+    },
+    {
+        "id": "tram-dung-chan-phuc-loc-tho",
+        "name": "Trạm Dừng Chân Phúc Lộc Thọ",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.824676401440357,
+        "lng": 107.26320372652805,
+        "type": "tourism",
+        "description": "Trạm Dừng Chân Phúc Lộc Thọ là điểm dừng chân phục vụ khách đường dài trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, cung cấp không gian nghỉ ngơi, ăn uống và dịch vụ tiện ích cho người đi lại, đồng thời là điểm dừng tham quan trên tuyến giao thông qua khu vực.",
+        "aliases": [
+            "Trạm Dừng Chân Phúc Lộc Thọ",
+            "Tram Dung Chan Phuc Loc Tho",
+            "Tram dung Phuc Loc Tho",
+            "Tram dung chan Phuc Loc Tho Bu Dang"
+        ],
+        "images": [
+            "tram-dung-chan-phuc-loc-tho.jpg"
+        ]
+    },
+    {
+        "id": "phong-kham-bac-si-loi",
+        "name": "Phòng khám bác sĩ Lợi",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.812803020723063,
+        "lng": 107.2481299690206,
+        "type": "hospital",
+        "description": "Phòng khám bác sĩ Lợi là cơ sở khám chữa bệnh tư nhân trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, cung cấp dịch vụ khám, tư vấn và điều trị một số bệnh lý thông thường, phục vụ nhu cầu chăm sóc sức khỏe của người dân khu vực trung tâm xã.",
+        "aliases": [
+            "Phòng khám bác sĩ Lợi",
+            "Phong kham bac si Loi",
+            "PK bác sĩ Lợi Bù Đăng",
+            "Phong kham BS Loi Bu Dang",
+            "PKBS Lợi Bu Dang"
+        ],
+        "images": [
+            "phong-kham-bac-si-loi.png"
+        ]
+    },
+    {
+        "id": "phong-kham-da-khoa-bac-si-chien",
+        "name": "Phòng khám Đa khoa bác sĩ Chiến",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.81276058221332,
+        "lng": 107.24614617648582,
+        "type": "hospital",
+        "description": "Phòng khám Đa khoa bác sĩ Chiến là phòng khám tư nhân tại Xã Bù Đăng, tỉnh Đồng Nai, thực hiện khám và điều trị đa khoa cơ bản, hỗ trợ người dân tiếp cận dịch vụ y tế thuận tiện mà không phải di chuyển xa.",
+        "aliases": [
+            "Phòng khám Đa khoa bác sĩ Chiến",
+            "Phong kham Da khoa bac si Chien",
+            "PKĐK bác sĩ Chiến Bù Đăng",
+            "Phong kham da khoa BS Chien Bu Dang",
+            "PK Da khoa Chien Bu Dang"
+        ],
+        "images": [
+            "phong-kham-da-khoa-bac-si-chien.png"
+        ]
+    },
+    {
+        "id": "phong-kham-bac-si-huyen",
+        "name": "Phòng Khám Bác sĩ Huyên",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.812213567266495,
+        "lng": 107.23871156250637,
+        "type": "hospital",
+        "description": "Phòng Khám Bác sĩ Huyên là cơ sở y tế tư nhân trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, cung cấp dịch vụ khám chữa bệnh ban đầu, tư vấn sức khỏe và theo dõi điều trị cho người dân trong khu vực.",
+        "aliases": [
+            "Phòng Khám Bác sĩ Huyên",
+            "Phong kham bac si Huyen",
+            "PK bác sĩ Huyên Bù Đăng",
+            "Phong kham BS Huyen Bu Dang",
+            "PK Huyen Bu Dang"
+        ],
+        "images": [
+            "phong-kham-bac-si-huyen.png"
+        ]
+    },
+    {
+        "id": "phong-kham-san-phu-khoa-bac-si-nguyen-thi-ly",
+        "name": "Phòng Khám Sản Phụ Khoa Bác Sĩ Nguyễn Thị Lý",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.812521437634958,
+        "lng": 107.24554213809998,
+        "type": "hospital",
+        "description": "Phòng Khám Sản Phụ Khoa Bác Sĩ Nguyễn Thị Lý là phòng khám chuyên về sản phụ khoa tại Xã Bù Đăng, tỉnh Đồng Nai, cung cấp các dịch vụ khám thai, tư vấn sức khỏe sinh sản và chăm sóc sức khỏe phụ nữ.",
+        "aliases": [
+            "Phòng Khám Sản Phụ Khoa Bác Sĩ Nguyễn Thị Lý",
+            "Phong kham San Phu Khoa Bac Si Nguyen Thi Ly",
+            "PK Sản phụ khoa BS Nguyễn Thị Lý",
+            "Phong kham SPK BS Ly Bu Dang",
+            "San phu khoa Nguyen Thi Ly Bu Dang"
+        ],
+        "images": [
+            "phong-kham-san-phu-khoa-bac-si-nguyen-thi-ly.png"
+        ]
+    },
+    {
+        "id": "phong-kham-le-van-hoa",
+        "name": "Phòng khám Lê Văn Hòa",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.812736006193298,
+        "lng": 107.24667634651523,
+        "type": "hospital",
+        "description": "Phòng khám Lê Văn Hòa là cơ sở khám chữa bệnh tư nhân tại Xã Bù Đăng, tỉnh Đồng Nai, phục vụ khám bệnh thông thường, tư vấn và theo dõi điều trị cho người dân trong khu vực.",
+        "aliases": [
+            "Phòng khám Lê Văn Hòa",
+            "Phong kham Le Van Hoa",
+            "PK Lê Văn Hòa Bù Đăng",
+            "Phong kham Le Van Hoa Bu Dang",
+            "PK bac si Le Van Hoa"
+        ],
+        "images": [
+            "phong-kham-le-van-hoa.png"
+        ]
+    },
+    {
+        "id": "phong-kham-bac-si-hung-thuy",
+        "name": "Phòng khám bác sĩ Hưng Thúy",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.79731277139228,
+        "lng": 107.18955732293574,
+        "type": "hospital",
+        "description": "Phòng khám bác sĩ Hưng Thúy là phòng khám tư nhân trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, cung cấp các dịch vụ khám chữa bệnh ban đầu, tư vấn và chăm sóc sức khỏe cho người dân khu vực Minh Hưng và lân cận.",
+        "aliases": [
+            "Phòng khám bác sĩ Hưng Thúy",
+            "Phong kham bac si Hung Thuy",
+            "PK bác sĩ Hưng Thúy Bù Đăng",
+            "Phong kham BS Hung Thuy Bu Dang",
+            "PK Hung Thuy Bu Dang"
+        ],
+        "images": [
+            "phong-kham-bac-si-hung-thuy.png"
+        ]
+    },
+    {
+        "id": "phong-kham-benh-sieu-am-bac-si-hung",
+        "name": "Phòng khám bệnh - siêu âm bác sĩ Hưng",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.797640576305973,
+        "lng": 107.18954641981135,
+        "type": "hospital",
+        "description": "Phòng khám bệnh - siêu âm bác sĩ Hưng là cơ sở khám chữa bệnh tư nhân tại Xã Bù Đăng, tỉnh Đồng Nai, cung cấp dịch vụ khám bệnh thông thường kết hợp siêu âm chẩn đoán hình ảnh, hỗ trợ người dân phát hiện và theo dõi các vấn đề sức khỏe.",
+        "aliases": [
+            "Phòng khám bệnh - siêu âm bác sĩ Hưng",
+            "Phong kham benh sieu am bac si Hung",
+            "PK siêu âm bác sĩ Hưng",
+            "Phong kham sieu am BS Hung Bu Dang",
+            "PK benh sieu am Hung Bu Dang"
+        ],
+        "images": [
+            "phong-kham-benh-sieu-am-bac-si-hung.png"
+        ]
+    },
+    {
+        "id": "cau-38-bu-dang",
+        "name": "Cầu 38",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.763131206592416,
+        "lng": 107.16055218771855,
+        "type": "tourism",
+        "description": "Cầu 38 là cây cầu trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, nằm trên trục giao thông chính quốc lộ 14 kết nối các khu dân cư và khu sản xuất của người dân. Điểm cầu thường được người đi đường sử dụng làm mốc định vị, điểm dừng ngắn và là một vị trí dễ nhận biết khi di chuyển qua khu vực.",
+        "aliases": [
+            "Cầu 38",
+            "Cau 38",
+            "Cầu 38 Bù Đăng",
+            "Cau 38 Bu Dang",
+            "Moc cau 38 Bu Dang"
+        ],
+        "images": [
+            "cau-38-bu-dang.jpg"
+        ]
+    },
+    {
+        "id": "cho-xa-minh-hung-bu-dang",
+        "name": "Chợ xã Minh Hưng - Bù Đăng",
+        "commune": "Xã Bù Đăng",
+        "district": "",
+        "province": "Tỉnh Đồng Nai",
+        "lat": 11.797924092120912,
+        "lng": 107.18995622635538,
+        "type": "market",
+        "description": "Chợ xã Minh Hưng là chợ dân sinh trên địa bàn Xã Bù Đăng, tỉnh Đồng Nai, nơi người dân khu vực Minh Hưng và lân cận mua bán nông sản, thực phẩm tươi sống, hàng hóa thiết yếu phục vụ sinh hoạt hằng ngày.",
+        "aliases": [
+            "Chợ xã Minh Hưng",
+            "Cho xa Minh Hung",
+            "Chợ Minh Hưng Bù Đăng",
+            "Cho Minh Hung Bu Dang",
+            "Cho xa Minh Hung Bu Dang"
+        ],
+        "images": ["cho-xa-minh-hung-bu-dang.png"]
     }
 ]

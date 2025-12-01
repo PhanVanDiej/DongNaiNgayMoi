@@ -19,6 +19,12 @@ const COMMUNE_IMAGE_BASE =
         import.meta.env.VITE_COMMUNE_IMAGE_BASE) ||
     "/images/communes";
 
+const POI_IMAGE_BASE =
+    (typeof import.meta !== "undefined" &&
+        import.meta.env &&
+        import.meta.env.VITE_POI_IMAGE_BASE) ||
+    "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois";
+
 function buildCommuneImageUrl(communeId, filename) {
     if (!filename) return null;
     // Nếu đã là URL đầy đủ hoặc path tuyệt đối thì giữ nguyên
@@ -28,6 +34,17 @@ function buildCommuneImageUrl(communeId, filename) {
     const id = String(communeId || "").trim();
     if (!id) return `${base}/${filename}`;
     return `${base}/${id}/${filename}`;
+}
+
+function buildPoiImageUrl(filename) {
+    if (!filename) return null;
+    // Nếu đã là URL đầy đủ hoặc path tuyệt đối thì giữ nguyên
+    if (/^https?:\/\//i.test(filename) || filename.startsWith("/")) return filename;
+
+    const base = String(POI_IMAGE_BASE || "").replace(/\/$/, "");
+    const fn = String(filename || "").trim();
+    if (!fn) return null;
+    return `${base}/${fn}`;
 }
 
 function Stat({ icon, label, value, tone = "blue" }) {
@@ -139,7 +156,7 @@ export default function InfoPanel({
     // 2) merge data hiển thị
     const data =
         poi && poi.category === "commune" && detail ? { ...poi, ...detail } : poi;
-    if (data.category === "commune") {
+    if (data && data.category === "commune") {
         console.log("[InfoPanel commune data]", {
             id: data.id,
             code: data.code,
@@ -147,6 +164,7 @@ export default function InfoPanel({
             images: data.images,
         });
     }
+
 
     // nếu vì lý do gì đó vẫn chưa có data, cho ẩn panel
     if (!data) return null;
@@ -208,10 +226,19 @@ export default function InfoPanel({
                     .filter(Boolean);
             }
         } else {
-            // POI / loại khác: images/coverImage đã là URL/path sẵn
-            const raw = A(data.images);
-            if (raw.length) imageUrls = raw;
-            else if (data.coverImage) imageUrls = [data.coverImage];
+            let filenames = A(data.images)
+                .map((fn) => (fn != null ? String(fn) : ""))
+                .filter((fn) => fn.trim().length > 0);
+
+            if (filenames.length) {
+                imageUrls = filenames
+                    .map((fn) => buildPoiImageUrl(fn))
+                    .filter(Boolean);
+            } else if (data.coverImage) {
+                // nếu lỡ có coverImage riêng thì cũng map qua base
+                const u = buildPoiImageUrl(data.coverImage) || data.coverImage;
+                imageUrls = [u];
+            }
         }
     }
 
@@ -445,9 +472,23 @@ export default function InfoPanel({
                         </>
                     )}
 
-                    {/* === POI MODE (cũ) === */}
+                    {/* === POI MODE === */}
                     {!isChatMode && !isCommuneMode && (
                         <>
+                            {/* Xã/Phường */}
+                            <Section icon="fa-location-dot" title="Xã/Phường">
+                                <div className="px-3 py-2 rounded-lg bg-gray-50 ring-1 ring-gray-200">
+                                    {[
+                                        data.commune,
+                                        data.district,
+                                        data.province,
+                                    ]
+                                        .filter(Boolean)
+                                        .join(", ") || "—"}
+                                </div>
+                            </Section>
+
+                            {/* Địa chỉ (nếu sau này bạn có chi tiết hơn) */}
                             {data.address && (
                                 <Section icon="fa-map" title="Địa chỉ">
                                     <div className="px-3 py-2 rounded-lg bg-gray-50 ring-1 ring-gray-200">
@@ -455,16 +496,19 @@ export default function InfoPanel({
                                     </div>
                                 </Section>
                             )}
+
                             {data.desc && (
                                 <Section icon="fa-circle-info" title="Mô tả">
                                     <div>{data.desc}</div>
                                 </Section>
                             )}
+
                             <div className="mt-3 text-[12px] text-gray-500">
                                 ({data.lat?.toFixed?.(5)}, {data.lng?.toFixed?.(5)})
                             </div>
                         </>
                     )}
+
                 </div>
             </aside>
 
