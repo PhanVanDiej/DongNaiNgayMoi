@@ -14,6 +14,8 @@ import { useTextToSpeech } from "./hooks/useTextToSpeech";
 import { loadPoiIndex, searchPoi } from "./services/poiIndex";
 import { norm } from "./utils/vn";
 import MapLoadingOverlay from "./components/MapLoadingOverlay";
+import { ProvinceInfoButton, ProvinceInfoOverlay } from "./components/ProvinceInfoPanel";
+
 
 
 // ====== Map & Layer constants ======
@@ -124,6 +126,8 @@ function detectCategoryId(text) {
   return null;
 }
 
+
+
 export default function DongNaiSmartMap() {
   const mapRef = useRef(null);
   const [styleId, setStyleId] = useState("streets");
@@ -150,6 +154,8 @@ export default function DongNaiSmartMap() {
   // “Search this area”
   const [showSearchHere, setShowSearchHere] = useState(false);
   const lastSearchBoundsRef = useRef(null);
+  const [showProvinceInfo, setShowProvinceInfo] = useState(false);
+  const chatDockRef = useRef(null);
 
   const defaultCenter = useMemo(() => ({ lng: 107.15, lat: 10.95 }), []);
   const defaultZoom = 7.8;
@@ -564,18 +570,23 @@ export default function DongNaiSmartMap() {
 
           {/* UI */}
           <BaseLayerVertical styleId={styleId} setBase={setStyleId} />
-          <SidebarSlim
-            activeCat={activeCat}
-            onSelectCat={handleSelectCategory}
-            resetCamera={() =>
-              mapRef.current?.fitBounds(dongNaiBounds, {
-                padding: 80,
-                duration: 900,
-                maxZoom: 10,
-              })
-            }
-            onClear={handleClearFilters}
-          />
+          <div className="absolute left-3 top-3 z-20 w-[240px] space-y-2">
+            <SidebarSlim
+              activeCat={activeCat}
+              onSelectCat={handleSelectCategory}
+              resetCamera={() =>
+                mapRef.current?.fitBounds(dongNaiBounds, {
+                  padding: 80,
+                  duration: 900,
+                  maxZoom: 10,
+                })
+              }
+              onClear={handleClearFilters}
+            />
+
+            {/* Nút nằm ngoài sidebar, ngay bên dưới, rộng bằng sidebar */}
+            <ProvinceInfoButton onClick={() => setShowProvinceInfo(true)} />
+          </div>
 
           <SearchBar onSearch={handleSearch} speech={speech} />
           {activeCat && showSearchHere && (
@@ -601,7 +612,16 @@ export default function DongNaiSmartMap() {
             />
           )}
 
+          <ProvinceInfoOverlay
+            open={showProvinceInfo}
+            onClose={() => setShowProvinceInfo(false)}
+            onAskAssistant={() => {
+              chatDockRef.current?.openAndFocus?.();
+            }}
+          />
+
           <ChatDock
+            ref={chatDockRef}
             onAsk={async (text, ui) => {
               // Ẩn InfoPanel khi người dùng chuyển sang chat
               setSelectedPoi(null);
@@ -609,14 +629,6 @@ export default function DongNaiSmartMap() {
             }}
           />
 
-
-          <ChatDock
-            onAsk={async (text, ui) => {
-              // Ẩn InfoPanel khi người dùng chuyển sang chat
-              setSelectedPoi(null);
-              await aiRef.current?.handleChatQuery(text, ui);
-            }}
-          />
         </>
       )}
     </div>

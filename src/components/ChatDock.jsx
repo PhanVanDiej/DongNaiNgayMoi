@@ -1,4 +1,10 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, {
+  useEffect,
+  useRef,
+  useState,
+  forwardRef,
+  useImperativeHandle,
+} from "react";
 import { useSpeechRecognition } from "../hooks/useSpeechRecognition";
 import { useTextToSpeech } from "../hooks/useTextToSpeech";
 
@@ -12,7 +18,7 @@ const nextId = () => msgId++;
  * props:
  *  - onAsk(text, ui)  // ui.push({role, content})
  */
-export default function ChatDock({ onAsk }) {
+function ChatDockInner({ onAsk }, ref) {
   const [open, setOpen] = useState(true);
   const [input, setInput] = useState("");
   const [messages, setMessages] = useState(() => [
@@ -25,7 +31,6 @@ export default function ChatDock({ onAsk }) {
   ]);
   const [loading, setLoading] = useState(false);
 
-  // ✅ trạng thái copy
   const [copiedId, setCopiedId] = useState(null);
 
   // Voice in
@@ -36,14 +41,31 @@ export default function ChatDock({ onAsk }) {
   const tts = useTextToSpeech({ lang: "vi-VN" });
   const [muted, setMuted] = useState(false);
 
-  // auto-read flag cho lượt hỏi hiện tại (chỉ true nếu câu hỏi đến từ mic)
   const micAutoReadRef = useRef(false);
 
   const messagesEndRef = useRef(null);
+  const inputRef = useRef(null);
+
+  // 🔹 cho parent gọi được open + focus input
+  useImperativeHandle(ref, () => ({
+    openAndFocus() {
+      setOpen(true);
+      // chờ render xong rồi mới focus/select
+      requestAnimationFrame(() => {
+        if (inputRef.current) {
+          inputRef.current.focus();
+          inputRef.current.select();
+        }
+      });
+    },
+  }));
 
   // scroll xuống cuối khi có message mới
   useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: "smooth", block: "end" });
+    messagesEndRef.current?.scrollIntoView({
+      behavior: "smooth",
+      block: "end",
+    });
   }, [messages, open]);
 
   // Khi có transcript từ mic -> gửi luôn câu hỏi
@@ -56,7 +78,6 @@ export default function ChatDock({ onAsk }) {
     const text = t.trim();
     if (!text) return;
 
-    // gửi câu hỏi từ mic
     sendQuestion(text, { fromMic: true });
   }, [speech.transcript]); // eslint-disable-line react-hooks/exhaustive-deps
 
@@ -72,7 +93,6 @@ export default function ChatDock({ onAsk }) {
     }
   };
 
-  // ✅ copy message
   const handleCopy = async (text, id) => {
     try {
       if (navigator.clipboard?.writeText) {
@@ -97,7 +117,6 @@ export default function ChatDock({ onAsk }) {
     }
   };
 
-  // ✅ trả lời lại: tìm user message ngay trước assistant đó, gửi lại
   const handleRegenerate = (assistantIndex) => {
     const msgs = messages;
     const assistantMsg = msgs[assistantIndex];
@@ -110,7 +129,6 @@ export default function ChatDock({ onAsk }) {
 
     if (!prevUser) return;
 
-    // gửi lại câu hỏi của user
     sendQuestion(prevUser.content, { fromMic: false });
   };
 
@@ -125,7 +143,6 @@ export default function ChatDock({ onAsk }) {
     setMessages((prev) => [...prev, userMsg]);
     setLoading(true);
 
-    // ui.push được brain.js gọi khi có trả lời
     const ui = {
       push: (msg) => {
         if (!msg) return;
@@ -135,7 +152,6 @@ export default function ChatDock({ onAsk }) {
 
         setMessages((prev) => [...prev, { id, role, content }]);
 
-        // Nếu là trả lời của AI + câu hỏi đến từ mic + không mute -> đọc lên
         if (
           role === "assistant" &&
           micAutoReadRef.current &&
@@ -160,7 +176,6 @@ export default function ChatDock({ onAsk }) {
       });
     } finally {
       setLoading(false);
-      // Nếu câu hỏi từ mic nhưng không có reply nào (lỗi) -> tắt flag
       micAutoReadRef.current = false;
     }
   }
@@ -181,7 +196,6 @@ export default function ChatDock({ onAsk }) {
       speech.stop();
       return;
     }
-    // bắt đầu nghe
     lastTranscriptRef.current = "";
     speech.start();
   };
@@ -190,7 +204,12 @@ export default function ChatDock({ onAsk }) {
     return (
       <button
         className="fixed right-12 bottom-3 z-30 flex items-center gap-2 px-4 py-2 rounded-full bg-sky-600 text-white text-sm shadow-lg hover:bg-sky-700"
-        onClick={() => setOpen(true)}
+        onClick={() => {
+          setOpen(true);
+          requestAnimationFrame(() => {
+            inputRef.current?.focus();
+          });
+        }}
       >
         <i className="fa-solid fa-comments" />
         <span>Chat Đồng Nai</span>
@@ -212,7 +231,6 @@ export default function ChatDock({ onAsk }) {
           </div>
         </div>
         <div className="flex items-center gap-2">
-          {/* Mute / Unmute */}
           {tts?.supported && (
             <button
               onClick={handleToggleMute}
@@ -229,7 +247,6 @@ export default function ChatDock({ onAsk }) {
           <button
             onClick={() => {
               setOpen(false);
-              // dừng đọc nếu đang đọc
               if (tts?.speaking) tts.stop();
             }}
             className="px-3 py-1.5 rounded-full bg-white/10 hover:bg-white/20 text-xs"
@@ -254,7 +271,6 @@ export default function ChatDock({ onAsk }) {
                     : "bg-white text-gray-900 rounded-bl-sm shadow-sm"
                   }`}
               >
-                {/* ✅ Render markdown tại đây */}
                 <ReactMarkdown
                   remarkPlugins={[remarkGfm]}
                   components={{
@@ -276,7 +292,6 @@ export default function ChatDock({ onAsk }) {
                 </ReactMarkdown>
               </div>
 
-              {/* ✅ action bar giống ChatGPT: Copy + Regenerate */}
               <div
                 className={`mt-1 flex gap-3 text-[11px] text-gray-400 ${m.role === "user" ? "justify-end" : "justify-start"
                   } opacity-0 group-hover:opacity-100 transition-opacity`}
@@ -323,6 +338,7 @@ export default function ChatDock({ onAsk }) {
       <div className="border-t border-gray-200 bg-white px-3 py-2">
         <div className="flex items-end gap-2">
           <textarea
+            ref={inputRef}
             rows={1}
             value={input}
             onChange={(e) => setInput(e.target.value)}
@@ -331,7 +347,6 @@ export default function ChatDock({ onAsk }) {
             className="flex-1 resize-none max-h-24 rounded-xl border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-transparent"
           />
 
-          {/* Mic button */}
           {speech.supported && (
             <button
               onClick={handleMicClick}
@@ -357,3 +372,6 @@ export default function ChatDock({ onAsk }) {
     </div>
   );
 }
+
+// export mặc định dưới dạng forwardRef
+export default forwardRef(ChatDockInner);

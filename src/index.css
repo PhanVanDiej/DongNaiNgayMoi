@@ -21,7 +21,8 @@
 .poi-pin::after {
     content: "";
     position: absolute;
-    bottom: -5px;              /* đẩy xuống dưới hình tròn */
+    bottom: -5px;
+    /* đẩy xuống dưới hình tròn */
     left: 50%;
     transform: translateX(-50%) rotate(45deg);
     width: 16px;
@@ -43,4 +44,64 @@
 .poi-pin:hover {
     transform: translateY(-4px) scale(1.05);
     box-shadow: 0 5px 12px rgba(0, 0, 0, 0.35);
+}
+
+@keyframes shine-slow {
+    0% {
+        transform: translateX(-140%);
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 0.45;
+    }
+
+    50% {
+        opacity: 0.6;
+    }
+
+    100% {
+        transform: translateX(140%);
+        opacity: 0;
+    }
+}
+
+/* Nút với gợn sáng mềm, chậm */
+.btn-shine::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    /* dải sáng chéo, giống vệt highlight */
+    background: linear-gradient(120deg,
+            transparent 0%,
+            rgba(255, 255, 255, 0.15) 30%,
+            rgba(255, 255, 255, 0.45) 50%,
+            rgba(255, 255, 255, 0.15) 70%,
+            transparent 100%);
+    filter: blur(1px);
+    transform: translateX(-140%);
+    animation: shine-slow 3s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+    pointer-events: none;
+}
+
+
+@keyframes caret-blink {
+
+    0%,
+    50% {
+        opacity: 1;
+    }
+
+    50.01%,
+    100% {
+        opacity: 0;
+    }
+}
+
+.typing-caret {
+    display: inline-block;
+    height: 1.1em;
+    margin-left: 3px;
+    border-left: 1px solid rgba(255, 255, 255, 0.9);
+    animation: caret-blink 1s step-start infinite;
 }

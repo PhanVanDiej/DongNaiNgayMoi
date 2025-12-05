@@ -17,7 +17,7 @@ export default function SidebarSlim({
     const [open, setOpen] = useState(true);
 
     return (
-        <div className="absolute left-3 top-3 z-20 w-[240px] rounded-2xl shadow-xl ring-1 ring-black/10 overflow-hidden">
+        <div className="w-full rounded-2xl shadow-xl ring-1 ring-black/10 overflow-hidden">
             <div className="bg-gradient-to-b from-slate-900/90 to-slate-700/90 text-white">
                 <div className="flex items-center justify-between px-4 py-3">
                     <div className="text-xs font-bold tracking-wide">BỘ LỌC</div>
