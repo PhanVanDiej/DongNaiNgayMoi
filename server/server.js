@@ -10,7 +10,6 @@ import fsp from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
 
-
 dotenv.config();
 
 const __filename = fileURLToPath(import.meta.url);
@@ -20,14 +19,15 @@ const DATA_DIR = path.join(__dirname, "data");
 const COMMUNE_DIR = path.join(DATA_DIR, "communes");
 const COMMUNE_INDEX_PATH = path.join(DATA_DIR, "communes.index.json");
 
-
 const app = express();
 app.use(express.json());
-app.use(cors({ origin: [
-    "http://localhost:5173",
-    "http://178.128.118.203",
-    "http://dongnaingaymoi-smartmap.com",
-    "https://<DOMAIN>",], credentials: false }));
+app.use(cors({
+    origin: [
+        "http://localhost:5173",
+        "http://178.128.118.203",
+        "http://dongnaingaymoi-smartmap.com",
+        "https://<DOMAIN>",], credentials: false
+}));
 
 async function readJson(filePath) {
     const raw = await fsp.readFile(filePath, "utf8");
@@ -45,6 +45,27 @@ function norm(s = "") {
         .replace(/Đ/g, "d")
         .toLowerCase()
         .trim();
+}
+
+// ======= Commune detail cache =======
+const COMMUNE_DETAIL_CACHE = new Map(); // slug -> fullData
+
+async function readCommuneDetailBySlug(slug) {
+    const s = String(slug || "").trim();
+    if (!s) return null;
+
+    if (COMMUNE_DETAIL_CACHE.has(s)) return COMMUNE_DETAIL_CACHE.get(s);
+
+    const detailPath = path.join(COMMUNE_DIR, `${s}.json`);
+    try {
+        const detail = await readJson(detailPath);
+        COMMUNE_DETAIL_CACHE.set(s, detail);
+        return detail;
+    } catch (e) {
+        console.warn("Cannot read commune detail:", detailPath, e.message);
+        COMMUNE_DETAIL_CACHE.set(s, null);
+        return null;
+    }
 }
 
 
@@ -99,8 +120,6 @@ function loadCommuneNameTokens() {
         COMMUNE_CODE_MAP = {};
     }
 }
-
-
 
 // gọi 1 lần khi khởi động  
 loadCommuneNameTokens();
@@ -212,7 +231,7 @@ async function classifyQuestion(text) {
             Hãy đọc câu hỏi của người dùng và TRẢ LỜI BẰNG JSON THUẦN, dạng:
 
             {
-            "intent": "commune|generic",
+            "intent": "commune|generic|natural_object",
             "commune_name": "tên xã hoặc phường nếu có, ngược lại để chuỗi rỗng",
             "topic": "strict|nature|food|tourism|culture|natural_metric|generic"
             }
@@ -220,7 +239,7 @@ async function classifyQuestion(text) {
             Quy ước:
             - intent = "commune" nếu câu hỏi tập trung vào MỘT xã/phường cụ thể (ví dụ: "Xã Bù Đăng ...", "Phường Tân Hiệp ...").
             - intent = "generic" nếu nói chung về tỉnh Đồng Nai mới, nhiều xã, hoặc không rõ 1 xã nào cụ thể.
-            intent = "natural_object" nếu câu hỏi tập trung vào MỘT đối tượng tự nhiên hoặc công trình cố định: (núi, đồi, thác, sông, hồ, đập, hồ chứa, cầu lớn, hồ Trị An, núi Bà Rá,...).
+            - intent = "natural_object" nếu câu hỏi tập trung vào MỘT đối tượng tự nhiên hoặc công trình cố định: (núi, đồi, thác, sông, hồ, đập, hồ chứa, cầu lớn, hồ Trị An, núi Bà Rá,...).
     
             - topic = "natural_metric" nếu hỏi về CHIỀU CAO, DIỆN TÍCH, CHIỀU DÀI, ĐỘ SÂU, DUNG TÍCH... của các đối tượng này.
             - topic = "strict" nếu câu hỏi thiên về SỐ LIỆU, DIỆN TÍCH, DÂN SỐ, HÀNH CHÍNH, THỐNG KÊ.
@@ -335,8 +354,6 @@ async function answerCommuneRich(communeMeta, userQuestion) {
     return r.output_text;
 }
 
-
-
 export const SYSTEM_PROMPT = `
 Bạn là trợ lý bản đồ cho tỉnh Đồng Nai mới.
 
@@ -384,7 +401,6 @@ NGUYÊN TẮC TRẢ LỜI:
    từ chối ngắn gọn: "Xin lỗi, tôi chỉ hỗ trợ các câu hỏi liên quan đến tỉnh Đồng Nai."
 4) Trả lời ngắn gọn, thực dụng, không bịa số liệu chi tiết. Nếu thiếu dữ liệu, có thể nói "thông tin đang được cập nhật".
 `.trim();
-
 
 
 // ======= 5) Gate: chỉ cho qua câu liên quan Đồng Nai =======
@@ -491,10 +507,6 @@ app.get("/api/communes/:id", async (req, res) => {
         res.status(500).json({ error: "Commune detail API error" });
     }
 });
-
-
-
-
 // ======= chat API =======
 app.post("/api/chat", async (req, res) => {
     try {
@@ -508,29 +520,49 @@ app.post("/api/chat", async (req, res) => {
             });
         }
 
+        const hardHit = tryFindCommuneInText(lastUser);
+        if (hardHit) {
+            const communeMeta = { slug: hardHit.slug, ...hardHit.meta };
+            const detail = await readCommuneDetailBySlug(communeMeta.slug);
+            const full = { ...communeMeta, ...(detail || {}) };
+            // ... images merge như trên ...
+            const reply = await answerCommuneRich(full, lastUser); // hoặc phân topic
+            return res.json({ reply });
+        }
+
         // 1) Phân loại câu hỏi
         const cls = await classifyQuestion(lastUser);
         console.log("Question class:", cls);
 
         // Nếu là câu hỏi về MỘT xã/phường
         if (cls.intent === "commune" && cls.commune_name) {
-            const commune = findCommuneByName(cls.commune_name);
-            if (commune) {
+            const communeMeta = findCommuneByName(cls.commune_name);
+            if (communeMeta) {
+                // 1) đọc file chi tiết theo slug
+                const detail = await readCommuneDetailBySlug(communeMeta.slug);
+
+                // 2) merge meta + detail (detail ưu tiên), nhưng giữ images tốt
+                let full = { ...communeMeta, ...(detail || {}) };
+
+                const metaImages = Array.isArray(communeMeta.images) ? communeMeta.images.filter(Boolean) : [];
+                const detailImages = Array.isArray(detail?.images) ? detail.images.filter(Boolean) : [];
+
+                if (detailImages.length > 0) full.images = detailImages;
+                else if (metaImages.length > 0) full.images = metaImages;
+                else full.images = [];
+
+                // 3) trả lời theo topic
                 let reply;
-                // strict: số liệu / hành chính
                 if (cls.topic === "strict") {
-                    reply = await answerCommuneStrict(commune, lastUser);
-                } else if (
-                    ["nature", "food", "tourism", "culture"].includes(cls.topic)
-                ) {
-                    // rich: thiên nhiên, ẩm thực, du lịch, văn hoá
-                    reply = await answerCommuneRich(commune, lastUser);
+                    reply = await answerCommuneStrict(full, lastUser);
+                } else if (["nature", "food", "tourism", "culture"].includes(cls.topic)) {
+                    reply = await answerCommuneRich(full, lastUser);
                 } else {
-                    // generic: dùng strict nhưng cho phép mô tả ngắn
-                    reply = await answerCommuneStrict(commune, lastUser);
+                    reply = await answerCommuneStrict(full, lastUser);
                 }
                 return res.json({ reply });
             }
+
             // nếu không tìm thấy commune -> fallthrough xuống generic
         }
 
@@ -557,8 +589,6 @@ app.post("/api/chat", async (req, res) => {
         return res.status(500).json({ error: "Chat API error" });
     }
 });
-
-
 
 const port = process.env.PORT || 3001;
 app.listen(port, () => console.log(`API listening on :${port}`));

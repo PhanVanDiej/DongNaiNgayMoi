@@ -60,7 +60,6 @@ function ChatDockInner({ onAsk }, ref) {
     },
   }));
 
-  // scroll xuống cuối khi có message mới
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({
       behavior: "smooth",

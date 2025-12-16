@@ -93,46 +93,58 @@ export function initSmartMapAI({
     function selectCommuneOnMap(f, map) {
         console.log("[selectCommuneOnMap] f.properties:", f.properties);
         const p = f.properties || {};
-        const id = p.id || {};
-        const geoId = String(p.id || code || "").trim();
-        const code = String(p.code || p.id || "").trim();
-        if (map.getLayer(ids.highlight)) {
+
+        // id dùng để highlight theo GeoJSON property "id"
+        const id = String(p.id ?? "").trim();
+
+        // code dùng để gọi API /api/communes/:id (theo server.js đang đọc req.params.id là code)
+        const code = String(p.code ?? p.id ?? "").trim();
+
+        // geoId dùng cho state selectedPoi (ưu tiên id, fallback code)
+        const geoId = String(p.id ?? code ?? "").trim();
+
+        if (map.getLayer(ids.highlight) && id) {
             map.setFilter(ids.highlight, ["==", ["get", "id"], id]);
         }
+
         const fb = featureBounds(f);
         const [cx, cy] = bboxCenter(fb);
         map.fitBounds(fb, { padding: 80, duration: 900, maxZoom: 13 });
 
-        const communeLabel = `${f.properties?.type || ""} ${f.properties?.name || ""
-            }`.trim();
-        const provinceLabel = f.properties?.province || "Tỉnh Đồng Nai mới";
+        const communeLabel = `${p.type || ""} ${p.name || ""}`.trim();
+        const provinceLabel = p.province || "Tỉnh Đồng Nai mới";
 
-        // 1) set trước dữ liệu cơ bản để panel hiện ngay
+        // 1) set trước base để panel hiện ngay
         const base = {
             id: geoId,
             code,
-            name: f.properties?.name,
+            name: p.name,
             category: "commune",
             lng: cx,
             lat: cy,
             address: [communeLabel, provinceLabel].filter(Boolean).join(", "),
             province: provinceLabel,
             images: [],
-            desc: f.properties?.note || "Thông tin đang cập nhật",
+            desc: p.note || "Thông tin đang cập nhật",
         };
+
         setSelectedPoi(base);
 
         // 2) gọi API lấy fact chi tiết rồi merge vào
+        if (!code) return;
+
         fetchCommuneDetail(code)
             .then((facts) => {
                 if (!facts) return;
                 setSelectedPoi((prev) => {
-                    if (!prev || prev.id !== id) return prev; // user đã click sang nơi khác
+                    // so khớp bằng code để chắc chắn (không lệ thuộc id kiểu gì)
+                    if (!prev || prev.category !== "commune" || prev.code !== code) return prev;
                     return { ...prev, ...facts };
                 });
             })
             .catch((e) => console.warn("Load commune facts error:", e));
     }
+
 
 
     // ---- ĐỔ POI LÊN MAP + PANEL (Search) ----
