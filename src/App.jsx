@@ -373,8 +373,8 @@ export default function DongNaiSmartMap() {
     });
   }
 
+  const MAX_MARKERS = 25; // Giới hạn số marker hiển thị
 
-  // vẽ marker theo category + viewport, dùng poiList thật
   function drawMarkersForCategory(category, bounds) {
     clearMarkers();
     if (!category || !mapRef.current) return;
@@ -385,20 +385,48 @@ export default function DongNaiSmartMap() {
     const south = b.getSouth();
     const north = b.getNorth();
 
-    const filtered = poiList.filter((p) => {
-      const cat = p.category || p.type; // ưu tiên field category, fallback type
-      if (cat !== category) return false;
-      if (p.lng == null || p.lat == null) return false;
-      return (
-        p.lng >= west &&
-        p.lng <= east &&
-        p.lat >= south &&
-        p.lat <= north
-      );
-    });
+    // Tính tâm viewport
+    const centerLng = (west + east) / 2;
+    const centerLat = (south + north) / 2;
+
+    // Helper: tính khoảng cách từ POI đến tâm viewport
+    const distanceToCenter = (poi) => {
+      const dLng = poi.lng - centerLng;
+      const dLat = poi.lat - centerLat;
+      return dLng * dLng + dLat * dLat; // không cần sqrt, chỉ so sánh
+    };
+
+    const filtered = poiList
+      .filter((p) => {
+        const cat = p.category || p.type;
+        if (cat !== category) return false;
+        if (p.lng == null || p.lat == null) return false;
+        return (
+          p.lng >= west &&
+          p.lng <= east &&
+          p.lat >= south &&
+          p.lat <= north
+        );
+      })
+      .sort((a, b) => distanceToCenter(a) - distanceToCenter(b)) // Gần center trước
+      .slice(0, MAX_MARKERS); // Giới hạn 20
 
     filtered.forEach(addMarker);
+
+    // Optional: Hiển thị thông báo nếu có nhiều hơn MAX_MARKERS
+    const totalInView = poiList.filter((p) => {
+      const cat = p.category || p.type;
+      if (cat !== category) return false;
+      if (p.lng == null || p.lat == null) return false;
+      return p.lng >= west && p.lng <= east && p.lat >= south && p.lat <= north;
+    }).length;
+
+    if (totalInView > MAX_MARKERS) {
+      console.log(`Hiển thị ${MAX_MARKERS}/${totalInView} địa điểm. Zoom gần hơn để xem thêm.`);
+      // Có thể set state để hiện toast/badge cho user biết
+    }
   }
+
   useEffect(() => {
     if (!activeCat || !poiList.length || !mapRef.current) return;
     const bounds = mapRef.current.getBounds();

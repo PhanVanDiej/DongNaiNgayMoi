@@ -15,7 +15,8 @@
     "migrate-communes-images": "node scripts/migrate-cover-to-images.js",
     "sync-commune-images-from-spaces": "node scripts/sync-commune-images-from-spaces.js",
     "update-commune-leaders": "node scripts/update-commune-leaders.js",
-    "print-poi-names": "node scripts/print-poi-names.js"
+    "print-poi-names": "node scripts/print-poi-names.js",
+    "sync-poi-images":"node scripts/sync-poi-images.js"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.940.0",

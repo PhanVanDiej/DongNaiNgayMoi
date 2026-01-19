@@ -1,0 +1,755 @@
+{
+  "syncedAt": "2026-01-19T14:54:36.355Z",
+  "totalPois": 505,
+  "poisWithImages": 123,
+  "poisWithoutImages": 382,
+  "notFoundIds": [
+    "kdl-buu-long",
+    "vuon-quoc-gia-bu-gia-map",
+    "chua-quang-minh",
+    "nui-ba-ra",
+    "trang-co-bu-lach",
+    "chua-phat-quoc-van-thanh",
+    "cong-vien-the-destina",
+    "khu-can-cu-ta-thiet",
+    "di-tich-tau-o",
+    "ho-thac-mo",
+    "kdl-chou-shin",
+    "thac-dak-mai",
+    "ho-suoi-giai",
+    "soc-bom-bo",
+    "bao-tang-soc-bom-bo",
+    "khu-bao-ton-van-hoa-stieng",
+    "khu-vui-choi-bo-cap-vang",
+    "vuon-quoc-gia-nam-cat-tien",
+    "thac-giang-dien",
+    "kdl-vuon-xoai",
+    "van-mieu-tran-bien",
+    "thien-vien-thuong-chieu",
+    "da-ba-chong",
+    "nui-chua-chan",
+    "cong-vien-suoi-mo",
+    "kdl-dao-o",
+    "thac-mai",
+    "lang-buoi-nam-hue-tan-trieu",
+    "ho-suoi-vong",
+    "chua-bach-lien",
+    "cho-tho-son-a",
+    "cho-duc-lieu",
+    "cho-phuoc-long",
+    "trung-tam-thuong-mai-phuoc-binh",
+    "cho-bu-nho",
+    "cho-thanh-luong",
+    "cho-binh-long",
+    "cho-phuoc-an",
+    "cho-dong-xoai",
+    "cho-tan-phuoc",
+    "cho-tan-thanh",
+    "cho-minh-hung",
+    "cho-tan-khai",
+    "cho-chon-thanh",
+    "cho-vinh-an",
+    "cho-tan-bien",
+    "cho-trang-dai",
+    "cho-tan-tien",
+    "cho-bien-hoa",
+    "cho-tam-hoa",
+    "cho-dau-giay",
+    "cho-long-khanh",
+    "cho-xuan-my",
+    "cho-dinh-quan",
+    "cho-phuong-lam",
+    "cho-nga-ba-can-don",
+    "cho-loc-ninh",
+    "cho-thuan-phu",
+    "cho-dak-nhau",
+    "coopmart-dong-phu",
+    "coopmart-dong-xoai",
+    "lotte-mart-dong-nai",
+    "go-dong-nai",
+    "cua-hang-xang-dau-anh-quyen",
+    "tram-xang-dau-hung-khanh",
+    "cay-xang-hy-dung-2",
+    "xang-dau-an-nhien",
+    "cay-xang-my-hoa",
+    "tram-xang-dau-kim-lien",
+    "tram-xang-dau-chi-thien",
+    "cua-hang-xang-dau-petrolimex-68",
+    "dai-ly-xang-dau-tu-le-thalemix",
+    "tram-xang-dau-thanh-sang",
+    "cay-xang-phu-long",
+    "cay-xang-dinh-vu",
+    "tram-xang-dau-thanh-liem",
+    "cua-hang-xang-dau-an-thang-05",
+    "cay-xang-tri-quang",
+    "tram-xang-dau-hoang-trong",
+    "cay-xang-tien-dung",
+    "tram-xang-dau-ngan-phat",
+    "cua-hang-xang-dau-32",
+    "tram-xang-dau-minh-tu",
+    "tram-xang-dau-truong-thach",
+    "cay-xang-nghia-thang",
+    "tram-xang-dau-phu-loc",
+    "cua-hang-xang-dau-petrolimex-62",
+    "tram-xang-dau-cau-hai",
+    "cua-hang-xang-dau-petrolimex-60",
+    "cua-hang-xang-dau-petro-binh-phuoc-20",
+    "dai-ly-xang-dau-tan-phuoc",
+    "cay-xang-phuong-nam",
+    "tin-nghia-petroleum-tan-phong",
+    "tram-xang-dau-go-me",
+    "tram-xang-dau-so-09",
+    "tram-xang-dau-tan-bien",
+    "cua-hang-xang-dau-ben-cat",
+    "tin-nghia-petroleum-long-binh-tan",
+    "tin-nghia-petroleum-icd-bien-hoa",
+    "cua-hang-xang-dau-phuc-lam-48",
+    "tram-xang-dau-doan-22",
+    "tram-xang-dau-ngoc-hiep",
+    "petrolimex-04",
+    "tram-xang-dau-561",
+    "viet-khoi-cna-02",
+    "petrolimex-34",
+    "cay-xang-bau-ham",
+    "petrolimex-41",
+    "tram-xang-dau-thanh-son-1",
+    "tram-xang-dau-nam-chau",
+    "tin-nghia-petroleum-gia-tan",
+    "cay-xang-phu-tuc",
+    "vinfast-222",
+    "petrolimex-36",
+    "tram-xang-dau-huyen-hau",
+    "petrolimex-07",
+    "hung-thinh-1",
+    "hao-loan",
+    "long-phuoc-fuel",
+    "chau-thanh-47",
+    "petrolimex-25",
+    "tin-nghia-1",
+    "bao-hoang-tan",
+    "chau-loan-10",
+    "long-giao",
+    "dinh-huong-4",
+    "gia-nguyen-minh-2",
+    "toan-thang-phat",
+    "gia-nguyen-minh-3",
+    "phuoc-an-fuel",
+    "petrolimex-28",
+    "van-duc",
+    "petrolimex-44",
+    "tan-kiet",
+    "dvt",
+    "hoang-phuong-anh",
+    "an-hoa",
+    "cuong-dai-phat-3",
+    "benh-vien-quan-dan-y-16",
+    "benh-vien-y-hoc-co-truyen-binh-phuoc",
+    "benh-vien-da-khoa-binh-phuoc",
+    "benh-vien-hoan-my-binh-phuoc",
+    "tram-y-te-binh-minh",
+    "benh-xa-qdy-719",
+    "benh-vien-da-khoa-dong-phu",
+    "tram-y-te-nha-bich",
+    "tram-y-te-thanh-binh",
+    "benh-vien-da-khoa-hon-quan",
+    "benh-vien-da-khoa-binh-long",
+    "ttyt-binh-long",
+    "pkdk-khai-nguyen",
+    "benh-vien-cao-su-binh-long",
+    "tram-y-te-loc-thien",
+    "pkdk-le-nguyen",
+    "benh-vien-da-khoa-loc-ninh",
+    "benh-vien-cao-su-loc-ninh",
+    "tram-y-te-long-binh",
+    "benh-vien-da-khoa-phuoc-long",
+    "pkdk-tam-viet-2",
+    "tram-y-te-phuoc-binh",
+    "benh-vien-nhan-ai",
+    "benh-vien-da-khoa-bu-dop",
+    "ttyt-bu-gia-map",
+    "tram-y-te-thong-nhat",
+    "tram-y-te-phu-trung",
+    "pkdk-minh-hung",
+    "benh-vien-da-khoa-an-phu-cn3",
+    "ttyt-chon-thanh",
+    "tram-y-te-tan-thanh",
+    "tram-y-te-loc-quang",
+    "benh-vien-quan-dan-y-16",
+    "benh-vien-quan-y-7b",
+    "benh-vien-nhi-sai-gon-dong-nai",
+    "benh-vien-hoan-my-dong-nai",
+    "benh-vien-da-khoa-dong-nai",
+    "benh-vien-dong-nai-2",
+    "benh-vien-thuan-my-ito",
+    "benh-vien-da-khoa-bien-hoa",
+    "benh-vien-au-co",
+    "benh-vien-tam-hong-phuoc",
+    "benh-vien-thong-nhat-dong-nai",
+    "shing-mark-hospital",
+    "benh-vien-phoi-dong-nai",
+    "quoc-te-long-binh",
+    "tram-y-te-bac-son",
+    "pet-home-tri-an",
+    "tram-y-te-tan-an",
+    "trung-tam-y-te-trang-bom",
+    "benh-vien-da-khoa-dau-giay",
+    "trung-tam-y-te-thong-nhat",
+    "thu-y-cao-tho",
+    "benh-vien-cao-su-dong-nai",
+    "benh-vien-khu-vuc-long-khanh",
+    "benh-vien-mat-sai-gon-dong-nai",
+    "trung-tam-y-te-vinh-cuu",
+    "co-so-dieu-tri-nghien-ma-tuy",
+    "tram-y-te-xuan-bac",
+    "tram-y-te-phu-tuc",
+    "tram-y-te-tuc-trung",
+    "tram-y-te-phu-cuong",
+    "benh-vien-da-khoa-tan-phu",
+    "van-thanh-sai-gon",
+    "tram-y-te-thanh-son",
+    "tram-y-te-phu-binh",
+    "tram-y-te-phu-an",
+    "tram-y-te-nam-cat-tien",
+    "tram-y-te-bau-can",
+    "tram-y-te-tan-hiep",
+    "tram-y-te-phuoc-thai",
+    "tram-y-te-long-phuoc",
+    "truong-tieu-hoc-tho-son",
+    "truong-thcs-doan-duc-thai",
+    "truong-thcs-thpt-luong-the-vinh",
+    "truong-thcs-duc-lieu",
+    "truong-thcs-ly-tu-trong",
+    "truong-thpt-ngo-quyen",
+    "truong-thcs-thpt-dong-tien",
+    "truong-thcs-tan-dong",
+    "truong-thpt-nguyen-du",
+    "truong-thcs-tan-xuan",
+    "truong-pho-thong-dan-toc-noi-tru-thpt-binh-phuoc",
+    "truong-thpt-dong-xoai",
+    "truong-thpt-quang-trung",
+    "truong-thcs-thpt-nguyen-binh-khiem",
+    "truong-th-thcs-le-van-tam",
+    "truong-thpt-dong-phu",
+    "truong-thcs-an-loc-b",
+    "truong-thpt-nguyen-hue",
+    "truong-thpt-binh-long",
+    "mam-non-hoa-huong-duong",
+    "thpt-binh-long-moi",
+    "truong-tieu-hoc-thanh-luong",
+    "truong-tieu-hoc-thcs-loc-thinh",
+    "truong-thcs-long-phuoc-binh-phuoc",
+    "truong-thpt-phuoc-binh",
+    "truong-thcs-thac-mo",
+    "truong-thpt-thi-xa-phuoc-long",
+    "truong-thcs-thong-nhat-binh-phuoc",
+    "truong-thcs-vo-truong-toan",
+    "truong-tieu-hoc-minh-long",
+    "truong-thpt-chu-van-an",
+    "mam-non-hanh-phuc",
+    "truong-tieu-hoc-chon-thanh-a",
+    "truong-thpt-chon-thanh",
+    "truong-thcs-thpt-minh-hung",
+    "thcs-tan-hiep",
+    "truong-thcs-dong-no",
+    "cao-dang-hoa-binh-xuan-loc",
+    "truong-thcs-ly-tu-trong-dong-nai",
+    "dai-hoc-cong-nghe-dong-nai",
+    "truong-tieu-hoc-thcs-thpt-dinh-tien-hoang",
+    "truong-thpt-tran-bien",
+    "trung-cap-mai-linh-phan-hieu-dong-nai",
+    "le-quy-don-quyet-thang",
+    "truong-thcs-thong-nhat-dong-nai",
+    "truong-thpt-nam-ha",
+    "truong-thpt-thuc-hanh-su-pham",
+    "truong-chinh-tri-tinh-dong-nai",
+    "truong-thcs-long-binh",
+    "truong-tieu-hoc-phuoc-tan",
+    "truong-thcs-phuoc-tan-1",
+    "trung-cap-phat-hoc-dong-nai",
+    "dh-tai-nguyen-moi-truong",
+    "truong-thpt-tam-phuoc",
+    "mam-non-hoa-mi-2-an-phuoc",
+    "truong-thpt-ngo-si-lien",
+    "truong-tieu-hoc-song-may",
+    "mam-giao-thach-thao-phan-hieu-bac-hoa",
+    "truong-thcs-dinh-tien-hoang-dong-nai",
+    "truong-th-thcs-thpt-trinh-hoai-duc",
+    "phan-hieu-dai-hoc-lam-nghiep",
+    "truong-thpt-thong-nhat-a",
+    "truong-thcs-hung-vuong",
+    "cao-dang-cong-nghe-tphcm-co-so-2",
+    "truong-thcs-huynh-thuc-khang",
+    "truong-thpt-dan-toc-noi-tru-dong-nai",
+    "truong-thcs-nguyen-cong-tru",
+    "truong-th-thcs-thpt-tran-quoc-tuan",
+    "truong-thcs-thpt-bau-ham",
+    "truong-thpt-long-khanh",
+    "truong-mam-non-inschool",
+    "truong-th-thcs-nguyen-thai-binh",
+    "truong-truong-vinh-ky",
+    "truong-thpt-hoang-dieu",
+    "truong-tieu-hoc-dinh-bo-linh",
+    "truong-tieu-hoc-phu-dong",
+    "truong-thcs-xuan-tan",
+    "truong-thcs-ngo-thoi-nhiem",
+    "truong-thcs-nguyen-thi-minh-khai",
+    "truong-thcs-thpt-lac-long-quan",
+    "truong-thcs-phu-loi",
+    "truong-tieu-hoc-phu-dien",
+    "truong-thcs-dong-hiep",
+    "truong-thpt-ton-duc-thang",
+    "truong-thcs-ta-lai",
+    "truong-tieu-hoc-nguyen-trung-truc",
+    "truong-tieu-hoc-hiep-phuoc",
+    "truong-tieu-hoc-phu-hoi",
+    "thpt-nguyen-binh-khiem-long-thanh",
+    "truong-thcs-long-tho",
+    "truong-tieu-hoc-long-phuoc-long-thanh",
+    "truong-thpt-long-phuoc",
+    "truong-trung-cap-thang-long-tran-bien",
+    "phong-kham-da-khoa-dong-sai-gon-vsld",
+    "tram-y-te-phuong-buu-long-tran-bien",
+    "phong-kham-bs-hoang-ba-can",
+    "benh-vien-tam-than-trung-uong-2",
+    "khu-kham-benh-vien-phap-y-tam-than-trung-uong-bien-hoa",
+    "phong-kham-da-khoa-y-duc-tran-bien",
+    "phong-kham-da-khoa-nguyen-an-phuc",
+    "tram-y-te-xa-tan-binh-tan-trieu",
+    "tram-y-te-thanh-phu-phuong-tan-trieu",
+    "phong-kham-da-khoa-tin-duc",
+    "benh-vien-thu-y-duc-trong-phuong-tan-trieu",
+    "benh-vien-da-lieu-tinh-dong-nai",
+    "benh-vien-rang-ham-mat-viet-anh-duc",
+    "diem-tram-y-te-an-binh-bien-hoa",
+    "phong-kham-da-khoa-dan-y-an-binh",
+    "benh-vien-mat-ha-noi-dong-nai",
+    "phong-kham-noi-khoa-dong-y-khiet-tam",
+    "phong-kham-da-khoa-lien-chi",
+    "trung-tam-kiem-soat-benh-tat-tinh-dong-nai-co-so-2",
+    "bs-nguyen-tat-trung-benh-vien-da-khoa-dong-nai",
+    "benh-vien-da-khoa-thong-nhat-dong-nai",
+    "phong-kham-chuyen-khoa-hiv-aids-tinh-dong-nai",
+    "phong-kham-da-khoa-dan-y-trang-dai",
+    "cho-lo-bo-bien-hoa",
+    "cho-hang-dau-bien-hoa",
+    "cho-dem-bien-hoa",
+    "cho-cong-1-bien-hoa",
+    "cho-cong-2-tran-cong-an",
+    "cho-buu-long-bien-hoa",
+    "cho-cu-hiep-hoa-bien-hoa",
+    "cho-buu-hoa-cho-don",
+    "cho-hoa-an-bien-hoa",
+    "cho-tan-van-moi-bien-hoa",
+    "cho-long-binh-tan-long-hung",
+    "cho-tan-mai-2-long-hung",
+    "sieu-thi-bach-hoa-xanh-cho-kp2-long-hung",
+    "cho-k8-long-binh",
+    "cho-trai-bo-long-binh",
+    "cho-bien-hoa-tam-hiep",
+    "cho-phuc-lam-tam-hiep",
+    "cho-thanh-tam-long-binh",
+    "cho-thai-binh-ho-nai",
+    "cho-tan-binh-tan-trieu",
+    "cho-vinh-cuu-dong-nai",
+    "buoi-tan-trieu-tu-nam",
+    "cho-nga-tu-quang-thang",
+    "cho-doi-an-binh-tran-bien",
+    "cho-moi-phu-son-binh-minh",
+    "cho-chieu-song-may-binh-minh",
+    "cho-an-binh-tran-bien",
+    "cua-hang-xang-dau-petrolimex-so-03-bien-hoa",
+    "tram-xang-dau-cau-hang-bien-hoa",
+    "seg-cua-hang-xang-dau-so-18-bien-hoa",
+    "pvoil-sai-gon-chxd-so-50-bien-hoa",
+    "tram-xang-dau-hiep-hoa-tran-bien",
+    "cua-hang-xang-dau-petrolimex-so-01-tran-bien",
+    "cong-ty-cp-xang-dau-tin-nghia",
+    "tin-nghia-petroleum-tram-xang-dau-cau-moi",
+    "tram-xang-dau-buu-long-bien-hoa",
+    "cay-xang-vuon-mit-bien-hoa",
+    "dai-ly-ban-le-xang-dau-tan-phong",
+    "tin-nghia-petroleum-tram-xang-dau-tan-binh",
+    "tin-nghia-petroleum-tram-xang-dau-thanh-phu",
+    "tram-xang-dau-duc-hung",
+    "tram-xang-trang-dai-dntn-viet-khanh-anh",
+    "tram-xang-dau-suoi-linh",
+    "tram-xang-dau-long-binh",
+    "san-bay-bien-hoa",
+    "quang-truong-tinh-dong-nai",
+    "cong-vien-bien-hung",
+    "san-van-dong-dong-nai",
+    "pho-di-bo-nguyen-van-tri-bien-hoa",
+    "cong-vien-nguyen-van-tri",
+    "an-yen-farm-bien-hoa",
+    "khu-du-lich-do-thi-son-tien",
+    "san-golf-long-thanh",
+    "khu-du-lich-son-tien",
+    "ho-cau-ngu-phuc",
+    "khu-vui-choi-tam-dang"
+  ],
+  "imagesByPoi": {
+    "benh-vien-da-khoa-bu-dang": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/benh-vien-da-khoa-bu-dang.jpg"
+    ],
+    "benh-vien-y-duoc-co-truyen-dong-nai": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/benh-vien-y-duoc-co-truyen-dong-nai.png"
+    ],
+    "cau-38-bu-dang": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cau-38-bu-dang.jpg"
+    ],
+    "cay-xang-bu-dang": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cay-xang-bu-dang.png"
+    ],
+    "cay-xang-dau-hoang-kim": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cay-xang-dau-hoang-kim.png"
+    ],
+    "cay-xang-duy-ky-3": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cay-xang-duy-ky-3.png"
+    ],
+    "cay-xang-petro-binh-phuoc-18": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cay-xang-petro-binh-phuoc-18.png"
+    ],
+    "cay-xang-viet-hung": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cay-xang-viet-hung.png"
+    ],
+    "cho-bu-dang": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cho-bu-dang.webp"
+    ],
+    "cho-nong-san-vuon-nha-cam": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cho-nong-san-vuon-nha-cam.png"
+    ],
+    "cho-xa-minh-hung-bu-dang": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cho-xa-minh-hung-bu-dang.png"
+    ],
+    "chua-dang-phap": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/chua-dang-phap.jpg"
+    ],
+    "chua-pho-quang-tu": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/chua-pho-quang-tu.jpg"
+    ],
+    "cua-hang-xang-dau-nam-tay-nguyen": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cua-hang-xang-dau-nam-tay-nguyen.png"
+    ],
+    "cua-hang-xang-dau-petrolimex-so-65": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cua-hang-xang-dau-petrolimex-so-65.png"
+    ],
+    "cua-hang-xang-dau-petrolimex-so-66": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/cua-hang-xang-dau-petrolimex-so-66.webp"
+    ],
+    "dai-hoc-lac-hong-co-so-4-trung-tam-tin-hoc-ngoai-ngu": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/dai-hoc-lac-hong-co-so-4-trung-tam-tin-hoc-ngoai-ngu.png"
+    ],
+    "global-art-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/global-art-bien-hoa.png"
+    ],
+    "lop-mam-non-doc-lap-baby-house": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/lop-mam-non-doc-lap-baby-house.jpg"
+    ],
+    "lop-ve-tabby-art-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/lop-ve-tabby-art-tran-bien.png"
+    ],
+    "mam-non-happy-kids": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/mam-non-happy-kids.jpg"
+    ],
+    "mam-non-hoa-sen-hoa-an-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/mam-non-hoa-sen-hoa-an-bien-hoa.png"
+    ],
+    "phong-kham-bac-si-hung-thuy": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/phong-kham-bac-si-hung-thuy.png"
+    ],
+    "phong-kham-bac-si-huyen": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/phong-kham-bac-si-huyen.png"
+    ],
+    "phong-kham-bac-si-loi": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/phong-kham-bac-si-loi.png"
+    ],
+    "phong-kham-benh-sieu-am-bac-si-hung": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/phong-kham-benh-sieu-am-bac-si-hung.png"
+    ],
+    "phong-kham-da-khoa-bac-si-chien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/phong-kham-da-khoa-bac-si-chien.png"
+    ],
+    "phong-kham-da-khoa-long-thinh": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/phong-kham-da-khoa-long-thinh.png"
+    ],
+    "phong-kham-le-van-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/phong-kham-le-van-hoa.png"
+    ],
+    "phong-kham-san-phu-khoa-bac-si-nguyen-thi-ly": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/phong-kham-san-phu-khoa-bac-si-nguyen-thi-ly.png"
+    ],
+    "phong-kham-vu-duc-cam": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/phong-kham-vu-duc-cam.png"
+    ],
+    "phong-tiem-vac-xin-dich-vu-duc-phong": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/phong-tiem-vac-xin-dich-vu-duc-phong.jpg"
+    ],
+    "sieu-thi-bach-hoa-xanh-duong-hung-vuong": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/sieu-thi-bach-hoa-xanh-duong-hung-vuong.png"
+    ],
+    "sieu-thi-bach-hoa-xanh-thon-6-minh-hung": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/sieu-thi-bach-hoa-xanh-thon-6-minh-hung.png"
+    ],
+    "sna-marianapolis-international-school-bien-hoa-campus": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/sna-marianapolis-international-school-bien-hoa-campus.png"
+    ],
+    "thac-dung": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/thac-dung.webp"
+    ],
+    "thcs-le-quang-dinh-tam-hiep": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/thcs-le-quang-dinh-tam-hiep.png"
+    ],
+    "thcs-vo-truong-toan-long-binh": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/thcs-vo-truong-toan-long-binh.png"
+    ],
+    "the-gioi-anh-duong-tan-hanh-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/the-gioi-anh-duong-tan-hanh-bien-hoa.png"
+    ],
+    "tram-dung-chan-phuc-loc-tho": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/tram-dung-chan-phuc-loc-tho.jpg"
+    ],
+    "tram-xang-dau-my-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/tram-xang-dau-my-hoa.png"
+    ],
+    "tram-xang-dau-phuc-loc-tho": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/tram-xang-dau-phuc-loc-tho.png"
+    ],
+    "tram-xang-dau-thanh-cong": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/tram-xang-dau-thanh-cong.png"
+    ],
+    "tram-xang-mai-phuc": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/tram-xang-mai-phuc.png"
+    ],
+    "tram-y-te-doan-ket": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/tram-y-te-doan-ket.jpg"
+    ],
+    "tram-y-te-minh-hung": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/tram-y-te-minh-hung.jpg"
+    ],
+    "trung-tam-dao-tao-va-sat-hach-lai-xe-loai-i-dong-nai": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/trung-tam-dao-tao-va-sat-hach-lai-xe-loai-i-dong-nai.png"
+    ],
+    "trung-tam-day-nghe-va-dao-tao-sat-hach-lai-xe-hai-van": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/trung-tam-day-nghe-va-dao-tao-sat-hach-lai-xe-hai-van.png"
+    ],
+    "trung-tam-day-nhac-bien-hoa-thanh-tam-co-so-6": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/trung-tam-day-nhac-bien-hoa-thanh-tam-co-so-6.png"
+    ],
+    "trung-tam-giao-duc-thuong-xuyen-tinh-dong-nai": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/trung-tam-giao-duc-thuong-xuyen-tinh-dong-nai.png"
+    ],
+    "trung-tam-ngoai-ngu-va-tin-hoc-astra-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/trung-tam-ngoai-ngu-va-tin-hoc-astra-tran-bien.png"
+    ],
+    "trung-tam-nuoi-day-tre-khuyet-tat-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/trung-tam-nuoi-day-tre-khuyet-tat-bien-hoa.png"
+    ],
+    "truong-cao-dang-ky-thuat-dong-nai-phuong-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-cao-dang-ky-thuat-dong-nai-phuong-tran-bien.png"
+    ],
+    "truong-cao-dang-thong-ke-2": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-cao-dang-thong-ke-2.png"
+    ],
+    "truong-cao-dang-y-te-dong-nai": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-cao-dang-y-te-dong-nai.png"
+    ],
+    "truong-dai-hoc-dong-nai": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-dai-hoc-dong-nai.png"
+    ],
+    "truong-dai-hoc-lac-hong-co-so-2": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-dai-hoc-lac-hong-co-so-2.png"
+    ],
+    "truong-dai-hoc-lac-hong-co-so-3": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-dai-hoc-lac-hong-co-so-3.png"
+    ],
+    "truong-dai-hoc-lac-hong-co-so-5-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-dai-hoc-lac-hong-co-so-5-tran-bien.png"
+    ],
+    "truong-dai-hoc-lac-hong-co-so-duoc": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-dai-hoc-lac-hong-co-so-duoc.png"
+    ],
+    "truong-dai-hoc-lac-hong-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-dai-hoc-lac-hong-tran-bien.png"
+    ],
+    "truong-mam-non-a-chau-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-a-chau-tran-bien.png"
+    ],
+    "truong-mam-non-bamboo-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-bamboo-tran-bien.png"
+    ],
+    "truong-mam-non-buu-hoa-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-buu-hoa-bien-hoa.png"
+    ],
+    "truong-mam-non-buu-long-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-buu-long-tran-bien.png"
+    ],
+    "truong-mam-non-hoa-an-bien-hoa-2": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-hoa-an-bien-hoa-2.png"
+    ],
+    "truong-mam-non-hoa-mi": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-hoa-mi.jpg"
+    ],
+    "truong-mam-non-quoc-te-tbs-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-quoc-te-tbs-bien-hoa.png"
+    ],
+    "truong-mam-non-safari-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-safari-tran-bien.png"
+    ],
+    "truong-mam-non-song-khue-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-song-khue-bien-hoa.png"
+    ],
+    "truong-mam-non-tu-thuc-hoa-ngoc-lan": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-tu-thuc-hoa-ngoc-lan.jpg"
+    ],
+    "truong-mam-non-vip-quoc-trang": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mam-non-vip-quoc-trang.jpg"
+    ],
+    "truong-mau-giao-nhung-bong-hoa-nho-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-mau-giao-nhung-bong-hoa-nho-bien-hoa.png"
+    ],
+    "truong-nhat-ngu-nam-nhat-nam": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-nhat-ngu-nam-nhat-nam.png"
+    ],
+    "truong-pho-thong-dan-toc-noi-tru-dieu-ong": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-pho-thong-dan-toc-noi-tru-dieu-ong.jpg"
+    ],
+    "truong-song-ngu-a-chau-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-song-ngu-a-chau-tran-bien.png"
+    ],
+    "truong-song-ngu-lac-hong-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-song-ngu-lac-hong-tran-bien.png"
+    ],
+    "truong-th-phan-dinh-phung-long-binh": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-th-phan-dinh-phung-long-binh.png"
+    ],
+    "truong-th-thcs-thpt-thai-binh-duong": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-th-thcs-thpt-thai-binh-duong.png"
+    ],
+    "truong-thcs-an-binh-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-an-binh-tran-bien.png"
+    ],
+    "truong-thcs-ban-cong-quyet-thang": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-ban-cong-quyet-thang.png"
+    ],
+    "truong-thcs-hoang-van-thu-tam-hiep": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-hoang-van-thu-tam-hiep.png"
+    ],
+    "truong-thcs-ly-tu-trong-long-binh": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-ly-tu-trong-long-binh.png"
+    ],
+    "truong-thcs-minh-hung": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-minh-hung.jpg"
+    ],
+    "truong-thcs-ngo-gia-tu-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-ngo-gia-tu-bien-hoa.png"
+    ],
+    "truong-thcs-nguyen-binh-khiem-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-nguyen-binh-khiem-tran-bien.png"
+    ],
+    "truong-thcs-nguyen-van-troi-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-nguyen-van-troi-bien-hoa.png"
+    ],
+    "truong-thcs-phan-boi-chau": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-phan-boi-chau.jpg"
+    ],
+    "truong-thcs-tan-an-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-tan-an-bien-hoa.png"
+    ],
+    "truong-thcs-tan-buu-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-tan-buu-tran-bien.png"
+    ],
+    "truong-thcs-toan-dien-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-toan-dien-bien-hoa.png"
+    ],
+    "truong-thcs-tran-hung-dao-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-tran-hung-dao-tran-bien.png"
+    ],
+    "truong-thcs-vo-truong-toan-vinh-cuu": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thcs-vo-truong-toan-vinh-cuu.png"
+    ],
+    "truong-thpt-bu-dang": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thpt-bu-dang.webp"
+    ],
+    "truong-thpt-bui-thi-xuan-tam-hiep": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thpt-bui-thi-xuan-tam-hiep.png"
+    ],
+    "truong-thpt-chu-van-an-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thpt-chu-van-an-bien-hoa.png"
+    ],
+    "truong-thpt-chuyen-luong-the-vinh-dong-nai": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thpt-chuyen-luong-the-vinh-dong-nai.png"
+    ],
+    "truong-thpt-le-hong-phong-tam-hiep": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thpt-le-hong-phong-tam-hiep.png"
+    ],
+    "truong-thpt-le-quy-don-tam-hiep": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thpt-le-quy-don-tam-hiep.png"
+    ],
+    "truong-thpt-ngo-quyen-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thpt-ngo-quyen-tran-bien.png"
+    ],
+    "truong-thpt-nguyen-trai-long-binh": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thpt-nguyen-trai-long-binh.png"
+    ],
+    "truong-thpt-thuc-hanh-su-pham-tam-hiep": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-thpt-thuc-hanh-su-pham-tam-hiep.png"
+    ],
+    "truong-tieu-hoc-an-binh-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-an-binh-tran-bien.png"
+    ],
+    "truong-tieu-hoc-doan-ket": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-doan-ket.png"
+    ],
+    "truong-tieu-hoc-duc-phong": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-duc-phong.webp"
+    ],
+    "truong-tieu-hoc-hoa-an-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-hoa-an-bien-hoa.png"
+    ],
+    "truong-tieu-hoc-kim-dong-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-kim-dong-bien-hoa.png"
+    ],
+    "truong-tieu-hoc-le-loi": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-le-loi.jpeg"
+    ],
+    "truong-tieu-hoc-long-hung": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-long-hung.png"
+    ],
+    "truong-tieu-hoc-minh-hung": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-minh-hung.webp"
+    ],
+    "truong-tieu-hoc-nguyen-chi-thanh-long-binh": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-nguyen-chi-thanh-long-binh.png"
+    ],
+    "truong-tieu-hoc-nguyen-du-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-nguyen-du-bien-hoa.png"
+    ],
+    "truong-tieu-hoc-nguyen-khac-hieu-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-nguyen-khac-hieu-bien-hoa.png"
+    ],
+    "truong-tieu-hoc-tan-hanh-dong-nai": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-tan-hanh-dong-nai.png"
+    ],
+    "truong-tieu-hoc-tan-phong-2": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-tan-phong-2.png"
+    ],
+    "truong-tieu-hoc-tran-quoc-toan-long-binh": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-tran-quoc-toan-long-binh.png"
+    ],
+    "truong-tieu-hoc-tran-van-on-bien-hoa": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-tran-van-on-bien-hoa.png"
+    ],
+    "truong-tieu-hoc-trinh-hoai-duc": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-tieu-hoc-trinh-hoai-duc.png"
+    ],
+    "truong-trung-cap-mien-dong": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-trung-cap-mien-dong.png"
+    ],
+    "truong-trung-hoc-co-so-hung-vuong-tran-bien": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-trung-hoc-co-so-hung-vuong-tran-bien.png"
+    ],
+    "truong-trung-hoc-co-so-tam-hoa-tam-hiep": [
+      "https://dongnaingaymoi.sgp1.digitaloceanspaces.com/pois/truong-trung-hoc-co-so-tam-hoa-tam-hiep.png"
+    ]
+  }
+}
